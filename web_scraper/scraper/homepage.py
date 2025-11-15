@@ -107,9 +107,8 @@ def extract_links(soup, base_url):
 def save_homepage(url, title, content, config):
     """Save homepage content to file"""
     try:
-        # Create a safe filename
-        domain = urlparse(url).netloc.replace('.', '_')
-        filename = config.output_dir / f"{domain}_homepage.md"
+        # Create a simple filename for homepage
+        filename = config.output_dir / "homepage.md"
         
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(f"# {title}\n\n")

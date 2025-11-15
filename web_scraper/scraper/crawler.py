@@ -117,14 +117,14 @@ def save_page(page_data, base_domain, config):
         # Create safe filename from URL
         url_path = urlparse(page_data['url']).path
         if not url_path or url_path == '/':
-            filename = f"{base_domain}_index.md"
+            filename = "index.md"
         else:
             # Clean path and create filename
             clean_path = url_path.strip('/').replace('/', '_').replace('\\', '_')
             # Limit filename length
             if len(clean_path) > 100:
                 clean_path = clean_path[:100]
-            filename = f"{base_domain}_{clean_path}.md"
+            filename = f"{clean_path}.md"
         
         filepath = config.output_dir / filename
         

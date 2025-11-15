@@ -15,9 +15,6 @@ def main():
     """Main execution function"""
     logger = setup_logger(__name__)
     
-    # Load configuration
-    config = Config()
-    
     # Get target URL from command line or config
     if len(sys.argv) > 1:
         target_url = sys.argv[1]
@@ -31,6 +28,9 @@ def main():
     # Ensure URL has proper scheme
     if not target_url.startswith(('http://', 'https://')):
         target_url = f"https://{target_url}"
+    
+    # Load configuration with target URL
+    config = Config(target_url)
     
     logger.info(f"Starting to scrape: {target_url}")
     

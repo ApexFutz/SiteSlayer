@@ -130,6 +130,16 @@
 
     if (chatWidget.style.visibility === 'hidden') {
       // Show the chat widget
+      // Reapply styles to ensure they're set correctly
+      const isNowMobile = window.innerWidth < SMALL_SCREEN_WIDTH;
+      if (!isNowMobile) {
+        chatWidget.style.borderRadius = '12px 12px 12px 12px';
+        chatWidget.style.overflow = 'hidden';
+        chatWidget.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
+        chatWidget.style.backgroundColor = 'transparent';
+        console.log('Reapplied border-radius:', chatWidget.style.borderRadius);
+      }
+      
       chatWidget.style.zIndex = CHAT_WIDGET_Z_INDEX.toString();
       chatWidget.style.visibility = 'visible';
       chatWidget.style.opacity = '1';
@@ -276,6 +286,7 @@
     chatWidget.style.visibility = 'hidden';
     chatWidget.style.opacity = '0';
     chatWidget.style.transition = 'opacity 0.3s ease';
+    chatWidget.style.background = 'transparent';
 
     // Helper function to set styles based on screen size and position
     function setChatWidgetStyles(isMobile) {
@@ -306,6 +317,18 @@
 
         chatWidget.style.top = 'auto';
         chatWidget.style.bottom = '100px';
+        chatWidget.style.borderRadius = '12px 12px 12px 12px';
+        chatWidget.style.overflow = 'hidden';
+        chatWidget.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
+        chatWidget.style.backgroundColor = 'transparent';
+        
+        // Debug logging
+        console.log('Chat widget styles applied:', {
+          borderRadius: chatWidget.style.borderRadius,
+          overflow: chatWidget.style.overflow,
+          backgroundColor: chatWidget.style.backgroundColor,
+          computedBorderRadius: window.getComputedStyle(chatWidget).borderRadius
+        });
 
         // Position the widget based on the position attribute
         if (position === 'left') {
@@ -323,11 +346,27 @@
 
     // Set initial styles
     setChatWidgetStyles(isMobile);
+    
+    // Ensure styles are applied after a short delay (in case of timing issues)
+    setTimeout(() => {
+      if (!isMobile) {
+        chatWidget.style.borderRadius = '12px 12px 12px 12px';
+        chatWidget.style.overflow = 'hidden';
+        chatWidget.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
+        chatWidget.style.backgroundColor = 'transparent';
+        console.log('Initial border-radius applied:', chatWidget.style.borderRadius, 'Computed:', window.getComputedStyle(chatWidget).borderRadius);
+      }
+    }, 100);
 
     // Add resize listener to handle window changes
     window.addEventListener('resize', () => {
       const isNowMobile = window.innerWidth < SMALL_SCREEN_WIDTH;
       setChatWidgetStyles(isNowMobile);
+      // Reapply border-radius for desktop
+      if (!isNowMobile) {
+        chatWidget.style.borderRadius = '12px 12px 12px 12px';
+        chatWidget.style.overflow = 'hidden';
+      }
     });
 
     // Include site parameter in iframe URL

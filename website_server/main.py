@@ -2,6 +2,7 @@
 FastAPI web server for serving scraped sites from the sites/ directory.
 Includes chatbot widget integration with mock endpoints.
 """
+import html
 from pathlib import Path
 from fastapi import FastAPI, HTTPException, Request, Body
 from fastapi.responses import FileResponse, HTMLResponse
@@ -44,7 +45,7 @@ async def serve_widget_js():
     return FileResponse(
         widget_js_path,
         media_type="application/javascript",
-        headers={"Cache-Control": "public, max-age=3600"}
+        headers={"Cache-Control": "no-cache, no-store, must-revalidate", "Pragma": "no-cache", "Expires": "0"}
     )
 
 
@@ -188,10 +189,13 @@ async def serve_site(site_path: str):
     with open(index_file, "r", encoding="utf-8", errors="ignore") as f:
         html_content = f.read()
     
+    # Escape site_path for use in HTML attribute
+    escaped_site_path = html.escape(site_path, quote=True)
+    
     # Inject chatbot script before </body>
-    chatbot_script = '''
+    chatbot_script = f'''
     <!-- SiteSlayer Chatbot Widget -->
-    <script src="/chatbot/widget.js" data-id="default-chatbot" data-position="right"></script>
+    <script src="/chatbot/widget.js" data-id="{escaped_site_path}" data-position="right"></script>
 </body>'''
     
     if "</body>" in html_content:

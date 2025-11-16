@@ -31,11 +31,17 @@ CHAT_BOT_ASSETS_DIR = CHAT_BOT_DIR / "assets"
 def get_mock_chat_response(message: str, site: str) -> str:
     """Generate a mock chat response based on the message and site."""
     
-    return f"Thank you for your message! I understand you're asking about '{message}'. Let me help you with that. Could you provide a bit more context so I can assist you better?"
+    content_file = SITES_DIR / site / "content.md"
+    if content_file.exists():
+        with open(content_file, "r") as f:
+            content = f.read()
+    else:
+        raise HTTPException(status_code=404, detail="Content file not found")
+
+    return f"Thank you for your message! I understand you're asking about '{message}'. Here's what I know about {site}: {content}"
 
 
 # Chatbot endpoints
-
 @app.get("/chatbot/widget.js")
 async def serve_widget_js():
     """Serve the chatbot widget JavaScript."""

@@ -168,10 +168,9 @@
     </div>
 
     <script>
-        // Extract UUID from URL path (e.g., /chatbot/embed/default-chatbot)
+        // Extract site from URL path (e.g., /chatbot/embed/www.example.com)
         const pathParts = window.location.pathname.split('/');
-        const chatbotUUID = pathParts[pathParts.length - 1] || 'default-chatbot';
-        const siteParam = new URLSearchParams(window.location.search).get('site') || 'default';
+        const siteParam = pathParts[pathParts.length - 1] || 'default';
         const chatMessages = document.getElementById('chatMessages');
         const messageInput = document.getElementById('messageInput');
         const sendButton = document.getElementById('sendButton');
@@ -253,7 +252,6 @@
                     },
                     body: JSON.stringify({
                         message: message,
-                        chatbot_uuid: chatbotUUID,
                         site: siteParam,
                         user_key: `user_${Date.now()}`
                     })

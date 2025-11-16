@@ -4,9 +4,8 @@ Includes chatbot widget integration with mock endpoints.
 """
 from pathlib import Path
 from fastapi import FastAPI, HTTPException, Request, Body
-from fastapi.responses import FileResponse, HTMLResponse, Response
+from fastapi.responses import FileResponse, HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
-from starlette.middleware.base import BaseHTTPMiddleware
 from typing import Optional
 
 app = FastAPI(title="SiteSlayer Web Server")
@@ -34,53 +33,6 @@ def get_mock_chat_response(message: str, site: str) -> str:
     return f"Thank you for your message! I understand you're asking about '{message}'. Let me help you with that. Could you provide a bit more context so I can assist you better?"
 
 
-# Middleware to inject chatbot script into HTML responses
-class ChatbotInjectionMiddleware(BaseHTTPMiddleware):
-    async def dispatch(self, request: Request, call_next):
-        response = await call_next(request)
-        
-        # Only inject into HTML responses from /site/ endpoints
-        if request.url.path.startswith("/site/") and response.status_code == 200:
-            content_type = response.headers.get("content-type", "")
-            if "text/html" in content_type:
-                # Read the response body
-                body = b""
-                async for chunk in response.body_iterator:
-                    body += chunk
-                
-                html_content = body.decode("utf-8", errors="ignore")
-                
-                # Inject chatbot script before </body>
-                chatbot_script = '''
-    <!-- SiteSlayer Chatbot Widget -->
-    <script src="/chatbot/widget.js" data-id="default-chatbot" data-position="right"></script>
-</body>'''
-                
-                if "</body>" in html_content:
-                    html_content = html_content.replace("</body>", chatbot_script)
-                else:
-                    html_content += chatbot_script
-                
-                # Create new headers without Content-Length (it will be recalculated automatically)
-                new_headers = {}
-                for key, value in response.headers.items():
-                    if key.lower() != "content-length":
-                        new_headers[key] = value
-                
-                # Return modified response
-                return Response(
-                    content=html_content.encode("utf-8"),
-                    status_code=response.status_code,
-                    headers=new_headers,
-                    media_type="text/html"
-                )
-        
-        return response
-
-
-app.add_middleware(ChatbotInjectionMiddleware)
-
-
 # Chatbot endpoints
 
 @app.get("/chatbot/widget.js")
@@ -96,8 +48,8 @@ async def serve_widget_js():
     )
 
 
-@app.get("/chatbot/api/chatwidget/{uuid}/")
-async def get_chatwidget_config(uuid: str):
+@app.get("/chatbot/api/chatwidget/{site}/")
+async def get_chatwidget_config(site: str):
     """Get chatbot widget configuration."""
     # Return mock configuration
     return {
@@ -124,8 +76,8 @@ async def get_chatwidget_config(uuid: str):
     }
 
 
-@app.get("/chatbot/embed/{uuid}")
-async def serve_chat_interface(uuid: str, site: Optional[str] = None):
+@app.get("/chatbot/embed/{site}")
+async def serve_chat_interface(site: str):#TODO! needs to be actual site
     """Serve the chat interface HTML page."""
     chat_interface_path = CHAT_BOT_DIR / "chat_interface.html"
     if not chat_interface_path.exists():
@@ -135,7 +87,7 @@ async def serve_chat_interface(uuid: str, site: Optional[str] = None):
     with open(chat_interface_path, "r") as f:
         html_content = f.read()
     
-    # The UUID and site are already handled by JavaScript in the HTML
+    # The site is already handled by JavaScript in the HTML
     # No need to modify the template
     
     return HTMLResponse(content=html_content)
@@ -146,8 +98,6 @@ async def handle_chat_message(request: Request, body: dict = Body(...)):
     """Handle chat messages and return mock responses."""
     message = body.get("message", "")
     site = body.get("site", "default")
-    chatbot_uuid = body.get("chatbot_uuid", "default-chatbot") #TODO! I don't know why we need this
-    user_key = body.get("user_key", "") #TODO! I don't know why we need this
     
     if not message:
         raise HTTPException(status_code=400, detail="Message is required")
@@ -155,12 +105,7 @@ async def handle_chat_message(request: Request, body: dict = Body(...)):
     # Generate mock response
     response_text = get_mock_chat_response(message, site)
     
-    return {
-        "response": response_text,
-        "chatbot_uuid": chatbot_uuid,
-        "site": site, #TODO! I don't think we need it. 
-        "user_key": user_key
-    }
+    return {"response": response_text}
 
 
 # Static file serving for chatbot assets
@@ -239,10 +184,24 @@ async def serve_site(site_path: str):
             detail=f"index.html not found for site '{site_path}'"
         )
     
-    # Serve the HTML file
-    return FileResponse(
-        index_file,
-        media_type="text/html",
+    # Read the HTML file
+    with open(index_file, "r", encoding="utf-8", errors="ignore") as f:
+        html_content = f.read()
+    
+    # Inject chatbot script before </body>
+    chatbot_script = '''
+    <!-- SiteSlayer Chatbot Widget -->
+    <script src="/chatbot/widget.js" data-id="default-chatbot" data-position="right"></script>
+</body>'''
+    
+    if "</body>" in html_content:
+        html_content = html_content.replace("</body>", chatbot_script)
+    else:
+        html_content += chatbot_script
+    
+    # Return the modified HTML
+    return HTMLResponse(
+        content=html_content,
         headers={"Cache-Control": "no-cache"}
     )
 
@@ -256,8 +215,8 @@ async def root():
             "serve_site": "/site/{site_path}",
             "example": "/site/www.bigthunderevents.com",
             "chatbot_widget": "/chatbot/widget.js",
-            "chatbot_config": "/chatbot/api/chatwidget/{uuid}/",
-            "chatbot_interface": "/chatbot/embed/{uuid}",
+            "chatbot_config": "/chatbot/api/chatwidget/{site}/",
+            "chatbot_interface": "/chatbot/embed/{site}",
             "chatbot_api": "POST /chatbot/api/chats/"
         }
     }

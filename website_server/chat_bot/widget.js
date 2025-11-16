@@ -12,8 +12,6 @@
   const GET_CHATWIDGET_DATA_API_URL = '/chatbot/api/chatwidget/';
   const CHAT_WIDGET_Z_INDEX = 9999999;
   const scriptElement = document.currentScript;
-  const chatbotUUID = scriptElement.getAttribute('data-id') || 'default-chatbot';
-  const INITIAL_MESSAGES_POPUP_REMOVED_KEY = `initialMessagesPopupRemoved_${chatbotUUID}`;
   
   // Use relative URLs - no domain needed, will use current origin
   const domain = ''; // Empty string means relative URLs
@@ -31,9 +29,10 @@
   }
   
   const siteParameter = getSiteParameter();
+  const INITIAL_MESSAGES_POPUP_REMOVED_KEY = `initialMessagesPopupRemoved_${siteParameter}`;
 
   // API call to get some chatbot's/chatwidget's data
-  const data = await getChatwidgetData(chatbotUUID);
+  const data = await getChatwidgetData(siteParameter);
 
   const iconImg = data.chat_bubble_img;
   const showPopupMessagesOnlyOnce = data.show_popup_messages_only_once;
@@ -332,7 +331,7 @@
     });
 
     // Include site parameter in iframe URL
-    chatWidget.src = `${domain}${CHATBOT_EMBED_URL}${chatbotUUID}?source=chatbubble&site=${encodeURIComponent(siteParameter)}`;
+    chatWidget.src = `${domain}${CHATBOT_EMBED_URL}${siteParameter}?source=chatbubble`;
     return chatWidget;
   }
 
@@ -556,8 +555,8 @@
   /**
    * Fetches some of the chatbot's data via API and returns it.
    */
-  async function getChatwidgetData(chatbotUUID) {
-    const URL = `${domain}${GET_CHATWIDGET_DATA_API_URL}${chatbotUUID}/`;
+  async function getChatwidgetData(site) {
+    const URL = `${domain}${GET_CHATWIDGET_DATA_API_URL}${site}/`;
     try {
       const response = await fetch(URL, {
         method: 'GET',

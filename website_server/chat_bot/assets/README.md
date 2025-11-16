@@ -38,10 +38,9 @@ The chat widget also relies on these external resources loaded from CDNs:
 ## Chat Widget API
 
 The chat widget communicates with:
-- API Base: `https://app.slaydigital.ai/`
-- Widget Embed URL: `/chatbot/embed/{uuid}?source=chatbubble`
-- Widget Data API: `/chatbot/api/chatwidget/{uuid}/`
-- Chat API: `/en/chatbot/api/chats/`
+- Widget Embed URL: `/chatbot/embed/{site}?source=chatbubble`
+- Widget Data API: `/chatbot/api/chatwidget/{site}/`
+- Chat API: `POST /chatbot/api/chats/`
 
 ## Usage
 
@@ -49,5 +48,5 @@ To use these assets, you'll need to:
 1. Include the JavaScript file: `chatbubble.js`
 2. Include the CSS files: `chatwidget_styles.css` and `chatwidget.css`
 3. Ensure external dependencies (Font Awesome, Bootstrap Icons, etc.) are loaded
-4. Initialize the widget with the appropriate chatbot UUID and configuration
+4. Initialize the widget with the appropriate site identifier and configuration
 

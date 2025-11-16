@@ -105,9 +105,11 @@
         }
         .message.user {
             flex-direction: row-reverse;
+            margin-left: auto;
         }
         .message-content {
             max-width: 75%;
+            min-width: 120px;
             padding: 12px 16px;
             border-radius: 18px;
             word-wrap: break-word;
@@ -161,6 +163,7 @@
         }
         #messageInput {
             flex: 1;
+            min-width: 150px;
             padding: 12px 16px;
             border: 1px solid #e0e0e0;
             border-radius: 24px;
@@ -169,6 +172,8 @@
             outline: none;
             background: #ffffff;
             transition: border-color 0.2s, box-shadow 0.2s;
+            white-space: nowrap;
+            overflow-x: auto;
         }
         #messageInput:focus {
             border-color: #4a90e2;

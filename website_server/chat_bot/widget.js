@@ -31,8 +31,11 @@
   const siteParameter = getSiteParameter();
   const INITIAL_MESSAGES_POPUP_REMOVED_KEY = `initialMessagesPopupRemoved_${siteParameter}`;
 
+  console.log('[Chat Widget] Initializing widget for site:', siteParameter);
+
   // API call to get some chatbot's/chatwidget's data
   const data = await getChatwidgetData(siteParameter);
+  console.log('[Chat Widget] Widget data loaded successfully');
 
   const iconImg = data.chat_bubble_img;
   const showPopupMessagesOnlyOnce = data.show_popup_messages_only_once;
@@ -130,6 +133,7 @@
 
     if (chatWidget.style.visibility === 'hidden') {
       // Show the chat widget
+      console.log('[Chat Widget] Opening chat widget');
       // Reapply styles to ensure they're set correctly
       const isNowMobile = window.innerWidth < SMALL_SCREEN_WIDTH;
       if (!isNowMobile) {
@@ -137,7 +141,6 @@
         chatWidget.style.overflow = 'hidden';
         chatWidget.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
         chatWidget.style.backgroundColor = 'transparent';
-        console.log('Reapplied border-radius:', chatWidget.style.borderRadius);
       }
       
       chatWidget.style.zIndex = CHAT_WIDGET_Z_INDEX.toString();
@@ -154,6 +157,7 @@
       }
     } else {
       // Hide the chat widget
+      console.log('[Chat Widget] Closing chat widget');
       chatWidget.style.visibility = 'hidden';
       chatWidget.style.opacity = '0';
       chatWidget.style.zIndex = (-CHAT_WIDGET_Z_INDEX).toString();
@@ -321,14 +325,6 @@
         chatWidget.style.overflow = 'hidden';
         chatWidget.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
         chatWidget.style.backgroundColor = 'transparent';
-        
-        // Debug logging
-        console.log('Chat widget styles applied:', {
-          borderRadius: chatWidget.style.borderRadius,
-          overflow: chatWidget.style.overflow,
-          backgroundColor: chatWidget.style.backgroundColor,
-          computedBorderRadius: window.getComputedStyle(chatWidget).borderRadius
-        });
 
         // Position the widget based on the position attribute
         if (position === 'left') {
@@ -354,7 +350,6 @@
         chatWidget.style.overflow = 'hidden';
         chatWidget.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
         chatWidget.style.backgroundColor = 'transparent';
-        console.log('Initial border-radius applied:', chatWidget.style.borderRadius, 'Computed:', window.getComputedStyle(chatWidget).borderRadius);
       }
     }, 100);
 
@@ -377,6 +372,7 @@
   // Listen for the close message from the iframe
   window.addEventListener('message', function (event) {
     if (event.data === 'close-chatbubble') {
+      console.log('[Chat Widget] Received close message from iframe');
       const chatWidget = document.getElementById('chatWidgetIframe');
       const chatIconElement = document.getElementById('chatIcon');
 
@@ -404,6 +400,7 @@
    */
   function removeInitialMessagesPopup(removePermanently = false) {
     if (isInitialMessagesPopupShowing) {
+      console.log('[Chat Widget] Removing initial messages popup');
       isInitialMessagesPopupShowing = false;
       document.getElementById(INITIAL_MESSAGES_POPUP_ID).remove();
       if (removePermanently || showPopupMessagesOnlyOnce) {
@@ -457,7 +454,10 @@
     }
 
     // Trigger the popup and messages to appear after the specified delay
-    setTimeout(activateMessages, delay * 1000);
+    setTimeout(() => {
+      console.log('[Chat Widget] Showing initial messages popup');
+      activateMessages();
+    }, delay * 1000);
 
     // Add event listener for the initial messages click to toggle chatwidget
     document
@@ -484,6 +484,7 @@
 
     if (delay >= 0) {
       setTimeout(() => {
+        console.log('[Chat Widget] Auto-opening chat widget popup');
         toggleChatWidgetIframe();
         // Set the chatwidget popup as shown in session storage
         setSessionStorageItem(CHAT_WIDGET_POPUP_SHOWN_KEY, 'true');
@@ -605,11 +606,12 @@
       });
 
       if (!response.ok) {
-        console.error(response);
+        console.error('[Chat Widget] API error:', response);
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
 
       const data = await response.json();
+      console.log('[Chat Widget] Widget data fetched successfully');
       return data;
     } catch (error) {
       console.error('Error fetching chat widget data:', error);

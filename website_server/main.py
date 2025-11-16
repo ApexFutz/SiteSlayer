@@ -55,8 +55,8 @@ async def get_chatwidget_config(site: str):
     # Return mock configuration
     return {
         "chat_bubble_img": "/chatbot/assets/images/chat_bubble.png",
-        "close": "/chatbot/assets/images/delete.png",
-        "chat_bubble_color": "#DAE7FB",
+        "close": "/chatbot/assets/images/close.svg",
+        "chat_bubble_color": "#3a7ba8",
         "user_msg_text_color": "#69707A",
         "default_icon": False,
         "show_popup_messages_only_once": True,

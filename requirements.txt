@@ -21,3 +21,7 @@ asyncio>=3.4.3
 
 # HTML Generation
 markdown>=3.5.0
+
+# Web Server (for serving scraped sites)
+fastapi>=0.115.0
+uvicorn>=0.30.0

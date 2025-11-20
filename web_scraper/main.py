@@ -9,7 +9,9 @@ from pathlib import Path
 from config import Config
 from scraper.homepage import scrape_homepage
 from scraper.crawler import crawl_site
+from scraper.markdown_aggregator import aggregate_markdown_content
 from utils.logger import setup_logger
+from urllib.parse import urlparse
 
 def main():
     """Main execution function"""
@@ -51,12 +53,19 @@ def main():
         
         logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
         
+        # Step 3: Aggregate markdown content for chatbot
+        logger.info("Step 3: Aggregating markdown content...")
+        domain = config._sanitize_domain(target_url)
+        content_file = aggregate_markdown_content(domain)
+        
         # Display results summary
         print("\n" + "="*50)
         print("SCRAPING COMPLETE")
         print("="*50)
         print(f"Total pages scraped: {len(crawl_results)}")
         print(f"Output directory: {config.output_dir}")
+        if content_file:
+            print(f"Aggregated content: {content_file}")
         print("="*50 + "\n")
         
     except KeyboardInterrupt:

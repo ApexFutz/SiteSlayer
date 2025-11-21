@@ -4,7 +4,7 @@ HTTP fetching utilities
 
 import requests
 import time
-from utils.logger import setup_logger
+from web_scraper.utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 

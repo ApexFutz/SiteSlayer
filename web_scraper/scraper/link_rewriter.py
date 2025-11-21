@@ -3,7 +3,7 @@ Link filtering and cleaning utilities
 """
 
 from urllib.parse import urlparse, urljoin
-from utils.logger import setup_logger
+from web_scraper.utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 

@@ -4,7 +4,7 @@ AI-powered link ranking using OpenAI
 
 import json
 from openai import OpenAI
-from utils.logger import setup_logger
+from web_scraper.utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 

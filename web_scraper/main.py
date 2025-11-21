@@ -6,11 +6,11 @@ Web scraper for extracting and converting website content to markdown
 import sys
 import os
 from pathlib import Path
-from config import Config
-from scraper.homepage import scrape_homepage
-from scraper.crawler import crawl_site
-from scraper.markdown_aggregator import aggregate_markdown_content
-from utils.logger import setup_logger
+from web_scraper.config import Config
+from web_scraper.scraper.homepage import scrape_homepage
+from web_scraper.scraper.crawler import crawl_site
+from web_scraper.scraper.markdown_aggregator import aggregate_markdown_content
+from web_scraper.utils.logger import setup_logger
 from urllib.parse import urlparse
 
 def main():
@@ -74,4 +74,5 @@ def main():
         logger.error(f"Error during scraping: {str(e)}", exc_info=True)
 
 if __name__ == "__main__":
+    # python -m web_scraper.main https://example.com
     main()

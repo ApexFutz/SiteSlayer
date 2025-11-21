@@ -4,10 +4,10 @@ Homepage scraper - Extracts content and links from website homepage
 
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
-from utils.fetch import fetch_page
-from utils.logger import setup_logger
-from scraper.link_rewriter import clean_and_filter_links
-from scraper.markdown_converter import html_to_markdown
+from web_scraper.utils.fetch import fetch_page
+from web_scraper.utils.logger import setup_logger
+from web_scraper.scraper.link_rewriter import clean_and_filter_links
+from web_scraper.scraper.markdown_converter import html_to_markdown
 
 logger = setup_logger(__name__)
 

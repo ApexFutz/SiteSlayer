@@ -5,10 +5,10 @@ Site crawler - Navigates through website links and scrapes content
 import time
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
-from utils.fetch import fetch_page
-from utils.logger import setup_logger
-from scraper.markdown_converter import html_to_markdown
-from scraper.ai_link_ranker import rank_links
+from web_scraper.utils.fetch import fetch_page
+from web_scraper.utils.logger import setup_logger
+from web_scraper.scraper.markdown_converter import html_to_markdown
+from web_scraper.scraper.ai_link_ranker import rank_links
 
 logger = setup_logger(__name__)
 

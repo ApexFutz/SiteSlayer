@@ -334,7 +334,7 @@ python web_scraper/demo_site_creator.py https://client3.com --chatbot chatbot.js
 
 ## Quick Start Checklist
 
-- [ ] Install SiteSlayer dependencies: `pip install -r requirements.txt`
+- [ ] Install SiteSlayer dependencies: `uv sync`
 - [ ] Test with example: `python web_scraper/demo_site_creator.py https://example.com`
 - [ ] Create your chatbot JS file (or use the example)
 - [ ] Run with customer's URL: `python web_scraper/demo_site_creator.py https://customersite.com --chatbot chatbot.js`

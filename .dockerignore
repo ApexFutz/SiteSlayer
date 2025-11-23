@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+README.md
+DEMO_SITE_GUIDE.md
+
+# Ignored directories
+IGNORED/
+
+# Development files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Web scraper (not needed for server)
+web_scraper/
+
+# Other website directories (not needed)
+websites/
+

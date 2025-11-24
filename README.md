@@ -248,7 +248,6 @@ See `requirements.txt` for all dependencies. Key packages include:
 - `markdownify`: HTML to Markdown conversion
 - `openai`: AI-powered features
 - `python-dotenv`: Environment variable management
-- `colorama`: Colored console output
 
 ## License
 

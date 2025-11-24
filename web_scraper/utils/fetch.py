@@ -101,69 +101,48 @@ def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
     return None
 
 
-def _configure_chrome_options(config) -> 'Options':
-    """
-    Configure Chrome options for headless browsing
-    
-    Args:
-        config: Configuration object
-        
-    Returns:
-        Configured Chrome Options object
-    """
-    from selenium.webdriver.chrome.options import Options
-    
-    chrome_options = Options()
-    
-    # Basic headless configuration
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--no-sandbox')
-    chrome_options.add_argument('--disable-dev-shm-usage')
-    chrome_options.add_argument('--disable-gpu')
-    
-    # User agent and stealth settings
-    chrome_options.add_argument(f'user-agent={config.user_agent}')
-    chrome_options.add_argument('--disable-blink-features=AutomationControlled')
-    chrome_options.add_experimental_option('excludeSwitches', ['enable-automation'])
-    chrome_options.add_experimental_option('useAutomationExtension', False)
-    
-    # Additional performance and stability options
-    chrome_options.add_argument('--disable-extensions')
-    chrome_options.add_argument('--disable-logging')
-    chrome_options.add_argument('--log-level=3')
-    
-    return chrome_options
-
-
 @contextmanager
-def _create_webdriver(config):
+def _create_browser(config):
     """
-    Context manager for creating and properly closing a WebDriver instance
+    Context manager for creating and properly closing a Playwright browser instance
     
     Args:
         config: Configuration object
         
     Yields:
-        WebDriver instance
+        Playwright browser instance
     """
-    from selenium import webdriver
+    from playwright.sync_api import sync_playwright
     
-    chrome_options = _configure_chrome_options(config)
-    driver = webdriver.Chrome(options=chrome_options)
+    playwright = sync_playwright().start()
     
     try:
-        driver.set_page_load_timeout(config.timeout)
-        yield driver
-    finally:
+        browser = playwright.chromium.launch(
+            headless=True,
+            args=[
+                '--no-sandbox',
+                '--disable-dev-shm-usage',
+                '--disable-gpu',
+            ]
+        )
+        
+        context = browser.new_context(
+            user_agent=config.user_agent,
+            viewport={'width': 1920, 'height': 1080}
+        )
+        
         try:
-            driver.quit()
-        except Exception as e:
-            logger.warning(f"Error closing WebDriver: {str(e)}")
+            yield context
+        finally:
+            context.close()
+            browser.close()
+    finally:
+        playwright.stop()
 
 
 def fetch_page_with_js(url: str, config) -> Optional[str]:
     """
-    Fetch a web page using Selenium to execute JavaScript
+    Fetch a web page using Playwright to execute JavaScript
     
     Args:
         url: URL to fetch
@@ -173,13 +152,10 @@ def fetch_page_with_js(url: str, config) -> Optional[str]:
         Rendered HTML content or None if failed
     """
     try:
-        from selenium import webdriver
-        from selenium.webdriver.support.ui import WebDriverWait
-        from selenium.webdriver.support import expected_conditions as EC
-        from selenium.webdriver.common.by import By
-        
+        from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+        from playwright._impl._errors import Error as PlaywrightError
     except ImportError:
-        logger.error("Selenium not installed. Install with: pip install selenium")
+        logger.error("Playwright not installed. Install with: pip install playwright && playwright install chromium")
         logger.info("Falling back to regular HTTP fetch")
         # Fall back to regular fetch without modifying config
         return fetch_page(url, config, max_retries=1)
@@ -187,29 +163,37 @@ def fetch_page_with_js(url: str, config) -> Optional[str]:
     try:
         logger.info(f"Fetching with JavaScript rendering: {url}")
         
-        with _create_webdriver(config) as driver:
-            # Navigate to the URL
-            driver.get(url)
+        with _create_browser(config) as context:
+            page = context.new_page()
             
-            # Wait for the document to be ready
             try:
-                WebDriverWait(driver, config.timeout).until(
-                    lambda d: d.execute_script('return document.readyState') == 'complete'
-                )
-            except Exception as e:
-                logger.warning(f"Document ready state check failed: {str(e)}")
+                # Navigate to the URL and wait for load
+                page.goto(url, wait_until='networkidle', timeout=config.timeout * 1000)
+                
+                # Additional wait for JavaScript execution if configured
+                js_wait_time = getattr(config, 'js_wait_time', 3)
+                if js_wait_time > 0:
+                    time.sleep(js_wait_time)
+                
+                # Get the fully rendered HTML
+                html_content = page.content()
+                
+                logger.info(f"Successfully fetched with JS rendering: {url}")
+                return html_content
+            finally:
+                page.close()
             
-            # Additional wait for JavaScript execution if configured
-            js_wait_time = getattr(config, 'js_wait_time', 3)
-            if js_wait_time > 0:
-                time.sleep(js_wait_time)
-            
-            # Get the fully rendered HTML
-            html_content = driver.page_source
-            
-            logger.info(f"Successfully fetched with JS rendering: {url}")
-            return html_content
-            
+    except PlaywrightTimeoutError as e:
+        logger.error(f"Timeout fetching with JavaScript {url}: {str(e)}")
+        return None
+    except PlaywrightError as e:
+        error_msg = str(e)
+        if "Executable doesn't exist" in error_msg or "BrowserType.launch" in error_msg:
+            logger.error(f"Playwright browser not installed. Please run: playwright install chromium")
+            logger.error(f"Error details: {error_msg}")
+        else:
+            logger.error(f"Playwright error fetching with JavaScript {url}: {error_msg}")
+        return None
     except Exception as e:
         logger.error(f"Error fetching with JavaScript {url}: {str(e)}", exc_info=True)
         return None

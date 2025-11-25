@@ -1,11 +1,28 @@
 [project]
 name = "siteslayer"
 version = "0.1.0"
-description = "Add your description here"
+description = "SiteSlayer - Web scraping and site replication tool"
 requires-python = ">=3.11.9"
 dependencies = [
-    "beautifulsoup4>=4.14.2",
-    "requests>=2.32.5",
+    # Web Server
     "fastapi>=0.115.0",
     "uvicorn[standard]>=0.32.0",
+    # Web Scraping
+    "requests>=2.32.5",
+    "beautifulsoup4>=4.14.2",
+    "lxml>=4.9.0",
+    "selenium>=4.15.0",
+    "webdriver-manager>=4.0.0",
+    # HTML to Markdown Conversion
+    "html2text>=2020.1.16",
+    "markdownify>=0.11.6",
+    # AI/ML for Link Ranking
+    "openai>=1.0.0",
+    # Utilities
+    "python-dotenv>=1.0.0",
+    "colorama>=0.4.6",
+    # Async Support
+    "aiohttp>=3.9.0",
+    # HTML Generation
+    "markdown>=3.5.0",
 ]

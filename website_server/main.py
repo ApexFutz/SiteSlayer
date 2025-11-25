@@ -3,6 +3,7 @@ FastAPI web server for serving scraped sites from the sites/ directory.
 Includes chatbot widget integration with mock endpoints.
 """
 import html
+import os
 from pathlib import Path
 from fastapi import FastAPI, HTTPException, Request, Body
 from fastapi.responses import FileResponse, HTMLResponse
@@ -253,4 +254,6 @@ async def root():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
+

@@ -85,4 +85,5 @@ def main():
         logger.error(f"Error during processing: {str(e)}", exc_info=True)
 
 if __name__ == "__main__":
+    # python web_scraper/main.py https://www.tcgplayer.com
     main()

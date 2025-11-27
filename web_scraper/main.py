@@ -207,6 +207,24 @@ def crawl_site(target_url, domain, config):
     
     logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
     
+    # Save list of scraped URLs to the same directory as content.md
+    site_dir = Path('sites') / domain
+    site_dir.mkdir(parents=True, exist_ok=True)
+    urls_file = site_dir / 'urls.txt'
+    
+    try:
+        # Extract URLs from crawl_results (include homepage URL as well)
+        scraped_urls = [target_url]  # Start with homepage
+        scraped_urls.extend([result['url'] for result in crawl_results if result and 'url' in result])
+        
+        with open(urls_file, 'w', encoding='utf-8') as f:
+            for url in scraped_urls:
+                f.write(f"{url}\n")
+        
+        logger.info(f"Saved {len(scraped_urls)} URLs to: {urls_file}")
+    except Exception as e:
+        logger.warning(f"Failed to save URLs list: {str(e)}", exc_info=True)
+    
     # Aggregate markdown content for chatbot
     logger.info("Aggregating markdown content...")
     content_file = aggregate_markdown_content(domain, temp_dir=config.output_dir)

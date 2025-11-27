@@ -1,7 +1,0 @@
-ERROR REPORT
-==================================================
-Timestamp: 2025-11-27 17:12:36
-
-Error Message:
-HTML harvesting failed - no HTML file was produced
-

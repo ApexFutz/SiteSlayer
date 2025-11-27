@@ -18,7 +18,7 @@ class Config:
         self.max_pages = 50
         self.timeout = 30
         self.delay_between_requests = 1.0
-        self.max_concurrent_requests = 5
+        self.max_concurrent_requests = 20
         
         # Output Settings - Use OS temporary directory
         temp_base = Path(tempfile.gettempdir())

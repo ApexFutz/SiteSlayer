@@ -45,7 +45,17 @@ def write_error_to_file(site_dir, error_message, exception=None):
             if exception:
                 f.write(f"Exception Type: {type(exception).__name__}\n")
                 f.write(f"\nTraceback:\n")
-                f.write(traceback.format_exc())
+                # Use format_exception to properly format the exception outside of handler context
+                exc_type, exc_value, exc_tb = type(exception), exception, exception.__traceback__
+                if exc_tb is None:
+                    # If no traceback attached, try to get current traceback
+                    import sys
+                    exc_tb = sys.exc_info()[2]
+                f.write(''.join(traceback.format_exception(exc_type, exc_value, exc_tb)))
+            else:
+                # Even without an exception, try to capture current stack trace
+                f.write(f"\nStack Trace:\n")
+                f.write(''.join(traceback.format_stack()))
         
     except Exception as e:
         # If we can't write the error file, log it but don't fail
@@ -84,7 +94,13 @@ def execute(target_url):
     try:
         # Step 1: Harvest HTML from homepage
         logger.info("Step 1: Harvesting homepage HTML...")
-        html_file = harvest_html(target_url, config)
+        try:
+            html_file = harvest_html(target_url, config)
+        except Exception as harvest_error:
+            error_msg = f"HTML harvesting failed with exception: {str(harvest_error)}"
+            logger.error(error_msg, exc_info=True)
+            write_error_to_file(site_dir, error_msg, harvest_error)
+            return
 
         if html_file:
             logger.info(f"Homepage HTML harvested: {html_file}")

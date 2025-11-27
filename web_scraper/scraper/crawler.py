@@ -3,6 +3,7 @@ Site crawler - Navigates through website links and scrapes content
 """
 
 import time
+import hashlib
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from utils.fetch import fetch_page
@@ -97,7 +98,7 @@ def crawl_urls(base_url, links_to_crawl, config):
                 'content': markdown_content
             }
             
-            save_page(page_data, base_domain, config)
+            save_page(page_data, config)
             results.append(page_data)
             
             # Delay between requests
@@ -111,28 +112,25 @@ def crawl_urls(base_url, links_to_crawl, config):
     logger.info(f"Crawl complete. Successfully scraped {len(results)} pages")
     return results
 
-def save_page(page_data, base_domain, config):
+def save_page(page_data, config):
     """Save page content to file"""
     try:
-        # Create safe filename from URL
-        url_path = urlparse(page_data['url']).path
-        if not url_path or url_path == '/':
-            filename = "index.md"
-        else:
-            # Clean path and create filename
-            clean_path = url_path.strip('/').replace('/', '_').replace('\\', '_')
-            # Limit filename length
-            if len(clean_path) > 100:
-                clean_path = clean_path[:100]
-            filename = f"{clean_path}.md"
+        # Create file content first
+        content = f"# {page_data['title']}\n\n"
+        content += f"Source: {page_data['url']}\n"
+        content += "\n---\n\n"
+        content += page_data['content']
         
+        # Hash content to MD5
+        md5_hash = hashlib.md5(content.encode('utf-8')).hexdigest()
+        
+        # Create filename from MD5 hash
+        filename = f"{md5_hash}.md"
         filepath = config.output_dir / filename
         
+        # Save file (overwrites if it already exists)
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(f"# {page_data['title']}\n\n")
-            f.write(f"Source: {page_data['url']}\n")
-            f.write("\n---\n\n")
-            f.write(page_data['content'])
+            f.write(content)
         
         logger.debug(f"Saved: {filepath}")
         

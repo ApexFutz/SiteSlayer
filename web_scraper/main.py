@@ -116,7 +116,6 @@ async def execute(target_url):
 
         # Step 4: Aggregate markdown content for chatbot
         logger.info("Step 4: Aggregating markdown content...")
-        domain = config._sanitize_domain(target_url)
         content_file = await asyncio.to_thread(partial(aggregate_markdown_content, domain, temp_dir=config.output_dir))
 
         # Display results summary

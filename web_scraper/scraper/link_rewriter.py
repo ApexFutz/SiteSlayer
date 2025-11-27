@@ -59,11 +59,3 @@ def clean_and_filter_links(links, base_url, config):
         })
     
     return filtered_links
-
-def is_valid_url(url):
-    """Check if URL is valid and accessible"""
-    try:
-        parsed = urlparse(url)
-        return all([parsed.scheme, parsed.netloc])
-    except Exception:
-        return False

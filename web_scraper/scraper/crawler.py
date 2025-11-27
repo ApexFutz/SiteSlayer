@@ -29,7 +29,7 @@ def crawl_site(base_url, initial_links, config):
     base_domain = urlparse(base_url).netloc
     
     # Rank links if AI ranking is enabled
-    if config.use_ai_ranking and config.openai_api_key:
+    if config.use_ai_ranking:
         logger.info("Ranking links using AI...")
         links_to_crawl = rank_links(initial_links, base_url, config)
     else:

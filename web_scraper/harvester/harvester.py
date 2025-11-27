@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
+from config import USER_AGENT
 
 logger = setup_logger(__name__)
 
@@ -40,7 +41,7 @@ def harvest_html(url, config):
             
             # Create context with user agent
             context = browser.new_context(
-                user_agent=getattr(config, 'user_agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'),
+                user_agent=USER_AGENT,
                 viewport={'width': 1920, 'height': 1080}
             )
             

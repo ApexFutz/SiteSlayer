@@ -4,25 +4,32 @@ Logging utilities for SiteSlayer
 
 import logging
 import sys
-from colorama import Fore, Style, init
 
-# Initialize colorama
-init(autoreset=True)
+# ANSI color codes for terminal output
+class Colors:
+    """ANSI color codes for terminal output"""
+    CYAN = '\033[36m'
+    GREEN = '\033[32m'
+    YELLOW = '\033[33m'
+    RED = '\033[31m'
+    BRIGHT_RED = '\033[91m'
+    RESET = '\033[0m'
+    BOLD = '\033[1m'
 
 class ColoredFormatter(logging.Formatter):
     """Custom formatter with colors for different log levels"""
     
     COLORS = {
-        'DEBUG': Fore.CYAN,
-        'INFO': Fore.GREEN,
-        'WARNING': Fore.YELLOW,
-        'ERROR': Fore.RED,
-        'CRITICAL': Fore.RED + Style.BRIGHT
+        'DEBUG': Colors.CYAN,
+        'INFO': Colors.GREEN,
+        'WARNING': Colors.YELLOW,
+        'ERROR': Colors.RED,
+        'CRITICAL': Colors.BRIGHT_RED + Colors.BOLD
     }
     
     def format(self, record):
         log_color = self.COLORS.get(record.levelname, '')
-        record.levelname = f"{log_color}{record.levelname}{Style.RESET_ALL}"
+        record.levelname = f"{log_color}{record.levelname}{Colors.RESET}"
         return super().format(record)
 
 def setup_logger(name, level=logging.INFO):

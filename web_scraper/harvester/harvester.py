@@ -1,24 +1,19 @@
 """
-HTML Harvester - Downloads complete HTML content using Selenium for JavaScript rendering
+HTML Harvester - Downloads complete HTML content using Playwright for JavaScript rendering
 """
 
 from pathlib import Path
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.firefox.options import Options as FirefoxOptions
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.firefox import GeckoDriverManager
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.firefox.service import Service as FirefoxService
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 
 def harvest_html(url, config):
     """
-    Harvest complete HTML content using Selenium to render JavaScript
+    Harvest complete HTML content using Playwright to render JavaScript
     
     Args:
         url (str): The URL to harvest
@@ -30,43 +25,42 @@ def harvest_html(url, config):
     logger.info(f"Harvesting HTML content for: {url}")
     
     try:
-        # Configure webdriver (try Chrome first, fallback to Firefox)
-        driver = None
+        playwright = sync_playwright().start()
+        
         try:
-            chrome_options = Options()
-            chrome_options.add_argument('--headless')
-            chrome_options.add_argument('--disable-gpu')
-            chrome_options.add_argument('--no-sandbox')
-            chrome_options.add_argument('--disable-dev-shm-usage')
-
-            service = ChromeService(ChromeDriverManager().install())
-            driver = webdriver.Chrome(service=service, options=chrome_options)
-            logger.debug("Using Chrome webdriver with webdriver-manager")
-        except Exception as e:
-            logger.warning(f"Chrome not available, trying Firefox: {str(e)}")
-            try:
-                firefox_options = FirefoxOptions()
-                firefox_options.add_argument('--headless')
-                service = FirefoxService(GeckoDriverManager().install())
-                driver = webdriver.Firefox(service=service, options=firefox_options)
-                logger.debug("Using Firefox webdriver with webdriver-manager")
-            except Exception as e2:
-                logger.error(f"Neither Chrome nor Firefox webdriver available: {str(e2)}")
-                return None
-        
-        # Fetch page with Selenium (waits for JS)
-        logger.debug("Loading page with Selenium...")
-        driver.get(url)
-        
-        # Wait for page to load (basic wait)
-        driver.implicitly_wait(10)
-        
-        # Get the rendered HTML
-        html_content = driver.page_source
-        logger.debug(f"Retrieved HTML content: {len(html_content)} characters")
-        
-        # Close browser
-        driver.quit()
+            # Launch browser
+            browser = playwright.chromium.launch(
+                headless=True,
+                args=[
+                    '--no-sandbox',
+                    '--disable-dev-shm-usage',
+                    '--disable-gpu',
+                ]
+            )
+            
+            # Create context with user agent
+            context = browser.new_context(
+                user_agent=getattr(config, 'user_agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'),
+                viewport={'width': 1920, 'height': 1080}
+            )
+            
+            # Create page and navigate
+            page = context.new_page()
+            
+            logger.debug("Loading page with Playwright...")
+            page.goto(url, wait_until='networkidle', timeout=getattr(config, 'timeout', 30) * 1000)
+            
+            # Get the rendered HTML
+            html_content = page.content()
+            logger.debug(f"Retrieved HTML content: {len(html_content)} characters")
+            
+            # Close browser resources
+            page.close()
+            context.close()
+            browser.close()
+            
+        finally:
+            playwright.stop()
         
         # Parse and rewrite URLs
         soup = BeautifulSoup(html_content, 'lxml')
@@ -87,13 +81,19 @@ def harvest_html(url, config):
         
         return str(filepath)
         
+    except PlaywrightTimeoutError as e:
+        logger.error(f"Timeout harvesting HTML for {url}: {str(e)}")
+        return None
+    except PlaywrightError as e:
+        error_msg = str(e)
+        if "Executable doesn't exist" in error_msg or "BrowserType.launch" in error_msg:
+            logger.error(f"Playwright browser not installed. Please run: playwright install chromium")
+            logger.error(f"Error details: {error_msg}")
+        else:
+            logger.error(f"Playwright error harvesting HTML for {url}: {error_msg}")
+        return None
     except Exception as e:
         logger.error(f"Error harvesting HTML for {url}: {str(e)}", exc_info=True)
-        if driver:
-            try:
-                driver.quit()
-            except:
-                pass
         return None
 
 def rewrite_urls(soup, base_url):

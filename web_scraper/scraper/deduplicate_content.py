@@ -107,7 +107,14 @@ def deduplicate_content(content: str, min_chunk_size: int = 10, min_occurrences:
     repeated_chunks = find_repeated_chunks(content, min_chunk_size, min_occurrences)
     
     if not repeated_chunks:
-        return content, {'removed_chunks': 0, 'saved_lines': 0, 'original_lines': len(lines), 'final_lines': len(lines)}
+        return content, {
+            'removed_chunks': 0,
+            'saved_lines': 0,
+            'original_lines': len(lines),
+            'final_lines': len(lines),
+            'reduction_percent': 0.0,
+            'duplicate_patterns': 0
+        }
     
     # Track which lines to remove
     lines_to_remove = set()

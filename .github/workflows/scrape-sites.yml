@@ -1,0 +1,52 @@
+name: Scrape Sites on Update
+
+on:
+  push:
+    branches: [main]
+    paths: ['sites_to_scrape.txt']
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install Git and dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y git
+        pip install -r requirements.txt
+
+    - name: Run scrape script
+      run: bash scripts/scrape_site.sh
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        git status --porcelain | head -20
+        if git diff --quiet; then
+          echo "No changes to commit"
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected"
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "Auto-scraped new sites from sites_to_scrape.txt"
+        git push origin main

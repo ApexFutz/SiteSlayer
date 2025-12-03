@@ -2,6 +2,7 @@
 FastAPI web server for serving scraped sites from the sites/ directory.
 Includes chatbot widget integration with mock endpoints.
 """
+from website_server.agent import ChatBot
 import html
 import os
 from pathlib import Path
@@ -26,20 +27,6 @@ BASE_DIR = Path(__file__).parent.parent
 SITES_DIR = BASE_DIR / "sites"
 CHAT_BOT_DIR = Path(__file__).parent / "chat_bot"
 CHAT_BOT_ASSETS_DIR = CHAT_BOT_DIR / "assets"
-
-
-# Mock chat responses based on site and message content
-def get_mock_chat_response(message: str, site: str) -> str:
-    """Generate a mock chat response based on the message and site."""
-    
-    content_file = SITES_DIR / site / "content.md"
-    if content_file.exists():
-        with open(content_file, "r", encoding="utf-8") as f:
-            content = f.read()
-    else:
-        raise HTTPException(status_code=404, detail="Content file not found")
-
-    return f"Thank you for your message! I understand you're asking about '{message}'. Here's what I know about {site}: {content}"
 
 
 # Chatbot endpoints
@@ -110,10 +97,10 @@ async def handle_chat_message(request: Request, body: dict = Body(...)):
     if not message:
         raise HTTPException(status_code=400, detail="Message is required")
     
-    # Generate mock response
-    response_text = get_mock_chat_response(message, site)
-    
-    return {"response": response_text}
+    # Generate response
+    chat_bot = ChatBot(site)
+    reply_text = chat_bot.respond(message)
+    return {"response": reply_text}
 
 
 # Static file serving for chatbot assets

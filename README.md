@@ -119,13 +119,48 @@ This will:
 
 Open `web_scraper/output/index.html` in your browser to view the replicated site.
 
+## Deployment
+
+### Deploying to Fly.io
+
+SiteSlayer includes a FastAPI web server for serving scraped sites with an AI chatbot. To deploy to Fly.io:
+
+1. **Install Fly CLI** (if not already installed):
+   ```bash
+   brew install flyctl  # macOS
+   # or visit https://fly.io/docs/hands-on/install-flyctl/
+   ```
+
+2. **Authenticate with Fly.io**:
+   ```bash
+   fly auth login
+   ```
+
+3. **Set your OpenAI API key as a secret**:
+   ```bash
+   fly secrets set OPENAI_API_KEY=your_openai_api_key_here
+   ```
+   
+   The `openai-agents` library automatically reads the `OPENAI_API_KEY` environment variable, so no additional code configuration is needed.
+
+4. **Deploy the application**:
+   ```bash
+   fly deploy
+   ```
+
+5. **Access your deployed app**:
+   - Main URL: `https://slaydigital.fly.dev`
+   - Example site: `https://slaydigital.fly.dev/site/www_bigthunderevents_com`
+
+**Note:** The OpenAI API key is required for the chatbot functionality. Make sure to set it as a secret before deploying, or the chatbot will not be able to respond to messages.
+
 ## Configuration
 
 All settings can be configured via environment variables in the `.env` file:
 
 ### API Settings
 
-- `OPENAI_API_KEY`: Your OpenAI API key for AI-powered link ranking
+- `OPENAI_API_KEY`: Your OpenAI API key for AI-powered link ranking and chatbot functionality. Required for both the web scraper's AI ranking feature and the website server's chatbot widget.
 
 ### Scraping Settings
 

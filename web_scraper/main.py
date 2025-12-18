@@ -22,6 +22,8 @@ from scraper.ai_link_ranker import rank_links
 from utils.logger import setup_logger
 from urllib.parse import urlparse
 
+from email_writer import EmailWriter
+
 def write_error_to_file(site_dir, error_message, exception=None):
     """
     Write an error message to error.txt in the site directory.
@@ -128,13 +130,8 @@ def execute(target_url):
         if content_file and Path(content_file).exists():
             # Step 3: Generate email using EmailWriter
             logger.info("Step 3: Generating email from aggregated content...")
-            # Add parent directory to path to import email_writer from root
-            sys.path.insert(0, str(Path(__file__).parent.parent))
-            from email_writer import EmailWriter  # Import here to avoid circular imports
             email_writer = EmailWriter(site=domain)
-            with open(content_file, 'r', encoding='utf-8') as f:
-                aggregated_content = f.read()
-            email_text = asyncio.run(email_writer.write("Slay you are my best friend")) 
+            email_text = asyncio.run(email_writer.write()) 
             # Save email to file
             with open(email_writer_path, 'w', encoding='utf-8') as f:
                 f.write(email_text)

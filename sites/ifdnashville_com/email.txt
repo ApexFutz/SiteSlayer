@@ -1,0 +1,20 @@
+SUBJECT: See how a simple chat agent could help answer patient questions at Iroquois Dentistry
+
+Hi there,
+
+I noticed the clear focus on patient comfort and restorative dentistry at Iroquois Dentistry—it’s easy to see how you help people restore their confidence. At SlayDigital.ai, we help clinics like yours simplify information for patients right on your website.
+
+To show how this works, I built a quick demo of your site with a custom chat agent: https://slaydigital.fly.dev/site/ifdnashville_com. Just click the chat icon in the bottom-right corner and type a question—your visitors get instant answers based on your existing website content.
+
+You can try asking things like:
+- What restorative dental services do you offer?
+- How do I book an appointment?
+- What should I expect during my first visit?
+- Do you accept new patients?
+- Is emergency dental care available?
+
+If you’re curious about how this could reduce repetitive calls and help patients get the info they need, I’d love your thoughts—or feel free to try out the demo.
+
+Best regards,  
+Zac Slay  
+SlayDigital.ai

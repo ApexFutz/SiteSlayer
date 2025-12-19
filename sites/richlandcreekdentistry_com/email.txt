@@ -1,0 +1,23 @@
+SUBJECT: A Simple Way to Help Your Patients Get Answers Faster
+
+Hi there,
+
+I’ve been looking through Richland Creek Family Dentistry’s site, and it’s clear you go out of your way to make patients feel welcome—especially new ones. I noticed how you offer a wide range of services and make it easy to request appointments or get in touch.
+
+I’m Zac Slay, founder of SlayDigital.ai. We build simple, custom AI chat agents that let site visitors ask questions and get instant answers from your existing website content. This helps cut down on repeated calls and lets patients find key info—like services or appointment details—any time.
+
+I put together a demo using your content here: https://slaydigital.fly.dev/site/richlandcreekdentistry_com  
+There’s a chat icon in the bottom-right; just click to open the box and try asking questions—the agent replies with answers directly from your site.
+
+For example, you can try:
+- What dental services do you offer?
+- How do I request an appointment?
+- Do you treat dental emergencies and walk-ins?
+- What can new patients expect at their first visit?
+- What insurance or payment options are available?
+
+If you’d like to see how this could help your team and patients, just reply—I’m happy to chat or make adjustments.
+
+Thanks for your time,  
+Zac Slay  
+SlayDigital.ai

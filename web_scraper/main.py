@@ -66,7 +66,7 @@ def write_error_to_file(site_dir, error_message, exception=None):
         logger = setup_logger(__name__)
         logger.error(f"Failed to write error.txt file: {str(e)}", exc_info=True)
 
-def execute(target_url):
+async def execute(target_url):
     """Execute scraping for a single URL"""
     logger = setup_logger(__name__)
 
@@ -99,7 +99,7 @@ def execute(target_url):
         # Step 1: Harvest HTML from homepage
         logger.info("Step 1: Harvesting homepage HTML...")
         try:
-            html_file = harvest_html(target_url, config)
+            html_file = await asyncio.to_thread(harvest_html, target_url, config)
         except Exception as harvest_error:
             error_msg = f"HTML harvesting failed with exception: {str(harvest_error)}"
             logger.error(error_msg, exc_info=True)
@@ -116,7 +116,7 @@ def execute(target_url):
 
         # Step 2: Crawl the site
         logger.info("Step 2: Crawling site...")
-        crawl_results, content_file = crawl_site(target_url, domain, config)
+        crawl_results, content_file = await crawl_site(target_url, domain, config)
         
         if crawl_results is None:
             error_msg = "Failed to crawl site - no results returned"
@@ -131,7 +131,7 @@ def execute(target_url):
             # Step 3: Generate email using EmailWriter
             logger.info("Step 3: Generating email from aggregated content...")
             email_writer = EmailWriter(site=domain)
-            email_text = asyncio.run(email_writer.write()) 
+            email_text = await email_writer.write()
             # Save email to file
             with open(email_writer_path, 'w', encoding='utf-8') as f:
                 f.write(email_text)
@@ -182,7 +182,7 @@ def execute(target_url):
             write_error_to_file(site_dir, f"Error during cleanup after processing error: {str(cleanup_error)}", cleanup_error)
 
 
-def crawl_site(target_url, domain, config):
+async def crawl_site(target_url, domain, config):
     """
     Crawl the site by scraping homepage, crawling URLs, and aggregating markdown content.
     
@@ -198,7 +198,7 @@ def crawl_site(target_url, domain, config):
     
     # Scrape homepage for markdown
     logger.info("Scraping homepage...")
-    homepage_data = scrape_homepage(target_url, config)
+    homepage_data = await asyncio.to_thread(scrape_homepage, target_url, config)
     
     if not homepage_data:
         error_msg = "Failed to scrape homepage - no data returned"
@@ -210,16 +210,16 @@ def crawl_site(target_url, domain, config):
     # Rank links if AI ranking is enabled
     if config.use_ai_ranking:
         logger.info("Ranking links using AI...")
-        links_to_crawl = rank_links(homepage_data['content'], target_url, config)
+        links_to_crawl = await asyncio.to_thread(rank_links, homepage_data['content'], target_url, config)
     else:
         links_to_crawl = homepage_data['links']
     
     # Limit to max_pages
     links_to_crawl = links_to_crawl[:config.max_pages]
     
-    # Crawl URLs (async, run in event loop)
+    # Crawl URLs (async)
     logger.info(f"Crawling {len(links_to_crawl)} URLs...")
-    crawl_results = asyncio.run(crawl_urls(links_to_crawl, config))
+    crawl_results = await crawl_urls(links_to_crawl, config)
     
     logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
     
@@ -243,7 +243,7 @@ def crawl_site(target_url, domain, config):
     
     # Aggregate markdown content for chatbot
     logger.info("Aggregating markdown content...")
-    content_file = aggregate_markdown_content(domain, temp_dir=config.output_dir)
+    content_file = await asyncio.to_thread(aggregate_markdown_content, domain, temp_dir=config.output_dir)
     
     return crawl_results, content_file
 
@@ -251,7 +251,7 @@ def crawl_site(target_url, domain, config):
 async def execute_with_semaphore(semaphore, url):
     """Execute a URL with semaphore control for concurrency limiting"""
     async with semaphore:
-        await asyncio.to_thread(execute, url)
+        await execute(url)
 
 
 def main():

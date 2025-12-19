@@ -228,6 +228,59 @@ async def serve_site(site_path: str):
     )
 
 
+@app.get("/raw/{site_path:path}")
+async def serve_raw_file(site_path: str):
+    """
+    Serve raw files (like email.txt) from site directories.
+    
+    Args:
+        site_path: The site identifier and filename (e.g., 'www.bigthunderevents.com/email.txt')
+    
+    Returns:
+        The raw file content as plain text.
+    """
+    # Normalize the path to prevent directory traversal attacks
+    site_path = site_path.strip("/")
+    
+    # Prevent directory traversal
+    if ".." in site_path or site_path.startswith("/"):
+        raise HTTPException(status_code=400, detail="Invalid site path")
+    
+    # Split the path into site directory and filename
+    parts = site_path.split("/", 1)
+    if len(parts) != 2:
+        raise HTTPException(status_code=400, detail="Invalid file path format")
+    
+    site_name, filename = parts
+    
+    # Construct the path to the file
+    file_path = SITES_DIR / site_name / filename
+    
+    # Prevent directory traversal
+    try:
+        file_path.resolve().relative_to(SITES_DIR.resolve())
+    except ValueError:
+        raise HTTPException(status_code=403, detail="Access denied")
+    
+    if not file_path.exists() or not file_path.is_file():
+        raise HTTPException(status_code=404, detail="File not found")
+    
+    # Determine media type
+    media_type = "text/plain"
+    if filename.endswith(".txt"):
+        media_type = "text/plain"
+    elif filename.endswith(".md"):
+        media_type = "text/markdown"
+    elif filename.endswith(".html"):
+        media_type = "text/html"
+    
+    return FileResponse(
+        file_path,
+        media_type=media_type,
+        headers={"Cache-Control": "no-cache"}
+    )
+
+
 @app.get("/")
 async def root():
     """Root endpoint listing all available websites."""
@@ -241,12 +294,19 @@ async def root():
                 if index_file.exists():
                     # Use the directory name as the site path
                     site_name = item.name
-                    websites.append(site_name)
+                    # Check if email.txt exists
+                    email_file = item / "email.txt"
+                    has_email = email_file.exists()
+                    websites.append((site_name, has_email))
     
     # Generate HTML with clickable links
     links_html = ""
-    for site_name in websites:
-        links_html += f'    <li><a href="/site/{site_name}">{site_name}</a></li>\n'
+    for site_name, has_email in websites:
+        escaped_site_name = html.escape(site_name, quote=True)
+        email_link = ""
+        if has_email:
+            email_link = f' <a href="/raw/{escaped_site_name}/email.txt">(email.txt)</a>'
+        links_html += f'    <li><a href="/site/{escaped_site_name}">{site_name}</a>{email_link}</li>\n'
     
     html_content = f"""<!DOCTYPE html>
 <html>

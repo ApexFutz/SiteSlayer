@@ -1,1 +1,25 @@
-Slay you are my best friend
+SUBJECT: Helping Your Patients Get Quick Answers—Try This AI Chat Agent Demo
+
+Hi Dr. Dudley,
+
+I admire how Nashville Smiles Up makes dental care truly accessible—especially with 24-hour emergency coverage and convenient hours for working people.
+
+I’m Zac from SlayDigital.ai. We build simple, custom AI web agents that help your website visitors find answers fast, right from your site content—reducing calls about common questions and helping people feel more comfortable before they even step into your office.
+
+I put together a quick demo for you:  
+https://slaydigital.fly.dev/site/nashvillesmilesup_com
+
+Just click the chat icon in the bottom-right and ask the agent anything; it replies based on your site’s information.
+
+You can try asking things like:
+- What are your emergency hours?
+- Which dental services do you offer?
+- How do I book a same-day appointment?
+- Do you accept walk-ins for check-ups?
+- Who are your dentists and what are their specialties?
+
+If you’d like to see how this could help your patients—and your team—just let me know. No pressure!  
+
+Best,  
+Zac Slay  
+Founder, SlayDigital.ai

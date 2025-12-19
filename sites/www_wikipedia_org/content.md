@@ -83,17 +83,27 @@ Winaray
 |
 [I already donated](#)
 
-Wikipedia was just a dream.
+We owe you an explanation.
 
-Readers in the United States deserve an explanation.
+An important update for readers in the United States.
 
-Please don't skip this 1-minute read. If you're like us, you've used Wikipedia countless times. To settle an argument with a friend. To satisfy a curiosity. Whether it's 3 in the morning or afternoon, Wikipedia is useful in your life. Please give $2.75.
+Please don't skip this 1-minute read. This fundraiser will soon be over, but we haven't yet hit our goal. If you're like us, you've used Wikipedia countless times. To settle an argument with a friend. To satisfy a curiosity. Whether it's 3 in the morning or afternoon, Wikipedia is useful in your life. Please give $2.75.
 
-Wikipedia's been around since 2001. Back then, it was just a wildly ambitious, probably impossible dream. But it came together piece by pieceâcreated by people, not machines. Wikipedia's not perfect, but it's always been free thanks to everyday readers.
+After nearly 25 years, Wikipedia is still the internet we were promisedâcreated by people, not by machines. It's not perfect, but it's not here to push a point of view. It's owned by a nonprofit, not a giant technology company or a billionaire.
 
-Only 2% ever donate. But that small group makes a big difference. When you support Wikipedia, you're standing up for something simple but profound: that knowledge should belong to everyone.
+Just 2% of our readers donate, so if you have given in the past and Wikipedia still provides you with $2.75 worth of knowledge, donate today. If you are undecided, remember any contribution helps.
 
-If you agree, then this is your moment to give back. Even $2.75 makes a difference. Help keep it goingâfor you, for the next reader, and for the next generation.
+Please select an amount (USD).
+The average donation in the United States is around $13. Many first-time donors give $2.75. All that matters is that you're choosing to stand up for free, open information; and for that, you have our gratitude.
+
+5
+10
+20
+30
+50
+100
+Other
+
 How often would you like to donate?
 
 One time
@@ -107,4 +117,10 @@ We ask you, sincerely: don't skip this, join the 2% of readers who give.
 
 Collapse
 
-### The internet we were promised
+### Sorry to interrupt, but we're short on time to hit our goal.
+
+Today, we ask you to join the 2% of readers who give. If everyone reading this right now gave just $2.75, we'd hit our goal quickly. $2.75 is all we ask.
+
+â *The Wikimedia Foundation, host of Wikipedia and other free knowledge projects*.
+
+[Donate now](#)

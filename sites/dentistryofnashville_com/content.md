@@ -1,5 +1,5 @@
 # Website Content: dentistryofnashville_com
-Generated: 2025-11-27 17:56:59
+Generated: 2025-12-19 00:03:36
 Total Pages: 11
 
 ---
@@ -60,7 +60,7 @@ Our advanced 3D imaging makes certain procedures easier than ever before, especi
 ### Related Pages
 ## PAGE: Our Office - Dentistry of Nashville
 **Source URL:** https://dentistryofnashville.com/about-us/our-office/
-**File:** 4038315d218e60faf63c51a8f4150fa8.md
+**File:** 23638101007ae6ea5ccffdb8b233bd86.md
 
 # Our Office
 
@@ -74,7 +74,7 @@ Our advanced 3D imaging makes certain procedures easier than ever before, especi
 
 ![Our Operating office](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-195207_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-2-1024x682.jpg)
+![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-4-1024x682.jpg)
 
 ![Dentistry of Nashville office](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-194929_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
 
@@ -150,15 +150,8 @@ Once the implant fixture is fully acclimated to your smile, our implant dentist 
 [Our Services](https://dentistryofnashville.com/our-services/ "Services")
 
 [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
-### Follow Us!
 
-Facebook
-
-YouTube
-
----
-
-
+### Related Pages
 ## PAGE: Periodontal Services - Dentistry of Nashville
 **Source URL:** https://dentistryofnashville.com/our-services/periodontal-services/
 **File:** 642361d6b438aad2a0f9fe14d6b721e7.md
@@ -226,10 +219,106 @@ As a Dental Office Manager, Emily is deeply committed to enhancing the patient e
 
 [Read Reviews](https://dentistryofnashville.com/reviews/ "Periodontal Services")
 
-### Follow Us!
+## PAGE: Best Dentist In Nashville | Dentistry Of Nashville
+**Source URL:** https://dentistryofnashville.com/
+**File:** 76d469dffb324362861e11dd7b4b11ae.md
 
-Facebook
+#
 
+[](https://dentistryofnashville.com/wp-content/uploads/2025/02/Hero-Video_Dentistry-of-Nashville_2020_1-4.webm)
+
+# A Nashville Tradition of Excellence Since 1919
+
+A family-oriented practice guided by empathy and integrity
+
+[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+
+# A Nashville Tradition of Excellence Since 1919
+
+A family-oriented practice guided by empathy and integrity
+
+[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+
+## 
+
+## A Nashville Tradition of Excellence Since 1919
+
+A family-oriented practice guided by empathy and integrity
+
+Watch Video
+
+[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+
+
+### Advanced Technology
+
+Our team takes pride in staying at the forefront of modern techniques and is equipped with some of the most innovative technology available in dentistry including our CEREC same-day crown technology and LANAP laser treatment.
+
+[Learn More](https://dentistryofnashville.com/about-us/technology/ "Technology")
+
+## Keeping Nashville Smiling Since 1919
+
+In 1919, Dr. Bob Elam’s grandfather established the practice with the high standards and patient-focused approach that continues to this day. Dr. James Fleming and Dr. Mark Lambrick were entrusted with the dental practice of Dr. Roy Elam, Bob’s father. The ideals of genuine concern for people and quality dental care established by the previous generation, which we share and maintain today, are the foundation for our approach to the practice of dentistry. We’re proud to hold the torch as the oldest dental practice in Nashville, Tennessee.
+
+[Meet Our Doctors](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
+
+![2-01_Office_Dentistry of Nashville_Dr. Elam, Dr. Vaughan, Dr. Fleming](https://dentistryofnashville.com/wp-content/uploads/2021/01/2-01_Office_Dentistry-of-Nashville_Dr.-Elam-Dr.-Vaughan-Dr.-Fleming-768x480.jpg)
+
+## Keeping Nashville Smiling Since 1919
+
+In 1919 Dr. Bob Elam’s grandfather established the practice with the high standards and patient-focused approach that continues to this day. Dr. James Fleming, Dr. Michael Vaughan, and Dr. Megan Chavana were entrusted with the dental practice of Dr. Roy Elam, Bob’s father. The ideals of genuine concern for people and quality dental care established by the previous generation, which we share and maintain today, are the foundation for our approach to the practice of dentistry. We’re proud to hold the torch as the oldest dental practice in Nashville, Tennessee.
+
+[Meet Our Doctors](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
+
+## What We’re Known For
+
+[![Cosmetic Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_cosmetic-dentistry.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")
+
+[### Cosmetic Dentistry](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")
+
+[Learn More](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")
+
+[![Dental Implants Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_implant-dentistry.svg)](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+
+[### Dental Implants](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+
+[Learn More](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+
+[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
+
+[### Periodontal Services](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
+
+[Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
+
+[Explore Services](https://dentistryofnashville.com/our-services/ "Services")
+
+## What Our Patients Are Saying
+![Betty Williams Avatar](https://lh4.googleusercontent.com/-vtJg4OAzPik/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfezM4QoQfrAQ-Mr0r7Oh-s5nKdbg/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Betty Williams
+
+My dental work went great today. No pain during procedure and my temporary crown feels fine. Best Dentist and Staff I know.
+
+[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
+
+![Vicki Golden Avatar](https://lh5.ggpht.com/-PaprLS4mNis/AAAAAAAAAAI/AAAAAAAAAAA/_oj1F8n3sUA/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Vicki Golden
+
+[More Reviews](https://dentistryofnashville.com/reviews/ "Meet the Team")
+
+![2020_TopDentists_Dr. Michael Vaughan, Dr. James Fleming, Dr. Megan Chavana](https://dentistryofnashville.com/wp-content/uploads/2020/09/2020_TopDentists_JamesFleming_DBarnhart-3-768x512.jpg)
+
+## Meet Your Dental Family
+
+[Get to Know Us](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
+
+![](https://dentistryofnashville.com/wp-content/uploads/2024/05/better-tech-768x512.jpg)
+
+## Better Technology, Better Results
+
+At our practice, we go to great lengths to provide comfortable and effective dental care. To help achieve this, our team is equipped with some of the most innovative technology available in dentistry.
+
+[Learn More](https://dentistryofnashville.com/about-us/technology/ "Technology")
+
+
+[More Reviews](https://www.google.com/maps/place/Dentistry+of+Nashville+|+Elam,+Vaughan,+Fleming/@36.137544,-86.8053917,17z/data=!3m1!4b1!4m7!3m6!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203!9m1!1b1)
 
 
 ## PAGE: Best Cosmetic Dentist In Nashville | Dentistry Of Nashville
@@ -260,74 +349,7 @@ Our fillings are made with a special composite that matches your natural teeth. 
 
 [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
-Facebook
-
-YouTube
-
----
-# A Nashville Tradition of Excellence Since 1919
-
-A family-oriented practice guided by empathy and integrity
-
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
-
-## 
-
-## A Nashville Tradition of Excellence Since 1919
-
-A family-oriented practice guided by empathy and integrity
-
-Watch Video
-
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
-
-## What Makes Us Different
-
-### 1
-
-### Family-Friendly Experience
-
-You’ll never feel like a stranger here. That’s because our team has served generations of families since 1919. We are a family-oriented practice deeply rooted in Nashville, Tennessee whose care is guided by empathy and integrity.
-
-[Learn More](https://dentistryofnashville.com/about-us/meet-the-team#meet-family "About Us")
-
-### 2
-
-
-## Keeping Nashville Smiling Since 1919
-
-In 1919 Dr. Bob Elam’s grandfather established the practice with the high standards and patient-focused approach that continues to this day. Dr. James Fleming, Dr. Michael Vaughan, and Dr. Megan Chavana were entrusted with the dental practice of Dr. Roy Elam, Bob’s father. The ideals of genuine concern for people and quality dental care established by the previous generation, which we share and maintain today, are the foundation for our approach to the practice of dentistry. We’re proud to hold the torch as the oldest dental practice in Nashville, Tennessee.
-
-[Meet Our Doctors](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
-
-
-[Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
-
-[Explore Services](https://dentistryofnashville.com/our-services/ "Services")
-
-## What Our Patients Are Saying
-
-Love Dr. Vaughan. I no longer live in Nashville and Dentistry of Nashville is one of the things I miss the most. Great location, great dentists, great staff and super fun atmosphere. Not too many people can say that about there dentist office now can they.
-
-[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
-
-![Misty Bader Avatar](https://lh4.googleusercontent.com/-0j7ue69SpEE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc9HnLgUxRoWtsytL9XvS8wOgE3hA/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Misty Bader
-
-Longtime patient receiving excellent care!!! From my beautiful Hygienist to my Dentist I have received excellent care! Planning my retirement but I will commute to Dentistry of Nashville! No matter where I go!! And I can also recommend Dr. Michael Vaughn as well! First rate dental care!
-
-[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
-
-![Marchella Richardson Avatar](https://lh3.googleusercontent.com/-yIqGDqDJl5k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re8FaZsZcKGv6Tx6-Ercj7inHVFDQ/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Marchella Richardson
-
-This was my first time at DoN. From the receptionist to the nursing staff to Dr Vaughn to the office staff that checked me out, it was a very good experience. I hope the treatment is as good as the first visit. If so, I will tell anyone who will listen about you.
-
-[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
-
-![Joe Keith Avatar](https://lh4.googleusercontent.com/-R6flQHv2FVo/AAAAAAAAAAI/AAAAAAAAA-U/FxHKjK_i0tM/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Joe Keith
-
-[More Reviews](https://dentistryofnashville.com/reviews/ "Meet the Team")
-
-
+### Related Pages
 
 ## PAGE: Services - Dentistry of Nashville
 **Source URL:** https://dentistryofnashville.com/our-services/
@@ -337,8 +359,6 @@ This was my first time at DoN. From the receptionist to the nursing staff to Dr 
 
 1. [Home](https://dentistryofnashville.com/)
 3. [Services](https://dentistryofnashville.com/our-services/)
-
-[![Dental Implants Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_implant-dentistry.svg)](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
 
 
 [![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
@@ -372,6 +392,5 @@ A beautiful smile isn’t as far away as you think. We offer cosmetic services i
 TMD is shorthand for temporomandibular jaw disorder and is characterized by pain in the face and jaw. While there are several reasons the condition may have started, including misaligned teeth and an overly strong bite, to name but a couple, TMD may affect one’s quality of life. If you suffer from this kind of pain, we will be happy to make a diagnosis and discuss available treatments.
 
 [Learn More](https://dentistryofnashville.com/our-services/tmd-treatment/ "TMD Treatment")
-
+## PAGE: Request an Appointment - Dentistry of Nashville
 **Source URL:** https://dentistryofnashville.com/contact-us/appointment-request/
-**File:** d97a1989d931211f96a8a6d023095637.md

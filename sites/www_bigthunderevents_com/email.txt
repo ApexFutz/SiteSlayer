@@ -1,15 +1,20 @@
-Subject: Quick Idea to Help Big Thunder Events’ Guests Find the Perfect Rental
+SUBJECT: A Simple Way to Help Your Nashville Party Rental Customers Find Answers Faster
 
 Hi there,
 
-I was browsing Big Thunder Events and was impressed by the massive range of party rentals you offer—from carnival rides and bounce houses to tents and concessions. I imagine guests sometimes have questions about availability, package options, or the right rental for their event type.
+I love the energy you bring to Nashville parties—those obstacle courses and bounce houses look like a blast! I’m Zac from SlayDigital.ai, and I help local businesses like yours make site visitor questions effortless to answer.
 
-I run slaydigital.ai, and we make simple web agents that sit right on your site. With one, your visitors could chat instantly with your existing information—helping them quickly find pricing, booking steps, or which rentals work for their party—without having to search or call.
+I set up a quick demo using your website: https://slaydigital.fly.dev/site/www_bigthunderevents_com. There’s a chat icon in the bottom-right corner; just click it to type questions and see instant answers from your site’s own info.
 
-This can save your team from answering the same questions and make it easy for customers to get exactly what they want, right when they need it.
+You can try asking things like:
+- What party rental items are available for kids’ birthdays?
+- How far do you deliver in the Nashville area?
+- Do you have any package deals or combo rentals?
+- Are the inflatables cleaned between rentals?
+- What’s the process to reserve a bounce house?
 
-Let me know if you’d be interested in seeing a quick demo, or if you have any questions—I’m happy to help.
+If something like this could help lighten your workload or improve customer experience, let me know—happy to chat or customize a version for you.
 
 Best,  
-Zac Slay  
-Founder, slaydigital.ai
+Zac  
+SlayDigital.ai

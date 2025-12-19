@@ -1,0 +1,22 @@
+SUBJECT: Helping Belle Meade Family Dentistry Answer Patient Questions Instantly
+
+Hi there,
+
+I was impressed by the warm testimonials and the focus on patient care at Belle Meade Family Dentistry. It’s clear you put a lot of effort into making each visit comfortable and informative.
+
+I’m Zac Slay, founder of SlayDigital.ai. We help practices like yours add a simple AI chat agent to your website, letting visitors get fast, accurate answers from your own site content—without adding any extra complexity for your team.
+
+To show you how this could work, I created a mock version of your site with a demo agent here: https://slaydigital.fly.dev/site/www_bellemeadedental_com. Just click the chat icon in the bottom-right to open a chat box and ask questions as your patients would.
+
+For example, you can try asking:
+- What dental services do you offer?
+- How do I request a new patient appointment?
+- What should I expect with dental implants?
+- Do you offer cosmetic dentistry?
+- Where are you located in Nashville?
+
+If you’re curious how this could help streamline patient communication, I’d be glad to show you more. Let me know if you’d like to chat or have any questions!
+
+Best,  
+Zac Slay  
+SlayDigital.ai

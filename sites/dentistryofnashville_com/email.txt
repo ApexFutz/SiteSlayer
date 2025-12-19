@@ -1,0 +1,25 @@
+SUBJECT: Simple way to answer patient questions instantly on your site
+
+Hi there,
+
+I admire how Dentistry of Nashville emphasizes comfort, family values, and advanced technology for your patients. It’s clear you put a lot of care into making each visit easy and reassuring.
+
+I’m Zac Slay, the founder of SlayDigital.ai. We help practices like yours reduce repetitive calls and make information even more accessible by adding a custom, AI-powered web agent to your site. This simple chat tool instantly answers visitor questions using your own content—no jargon or technical hoops, just clear answers for your patients.
+
+Here’s a demo of what this could look like for Dentistry of Nashville:  
+https://slaydigital.fly.dev/site/dentistryofnashville_com
+
+There’s a chat icon in the bottom right corner—just click it, type a question, and see the agent respond based on your website’s information.
+
+You can try asking things like:
+- “What is LANAP, and how does it work?”
+- “How long does it take to get a same-day crown?”
+- “Do you offer dental implant consultations?”
+- “How do I schedule an appointment?”
+- “What cosmetic services can help me improve my smile?”
+
+If this sounds useful, I’d be glad to chat about making it uniquely yours. No pressure—just let me know if you’d like more details!
+
+Warmly,  
+Zac Slay  
+Founder, SlayDigital.ai

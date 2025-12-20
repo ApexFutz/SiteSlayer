@@ -29,9 +29,13 @@ class ChatBot:
         self.agent = Agent(
             name="Assistant", 
             instructions=f"""\
-You are a helpful assistant that can answer questions about the website {site}. The website content is:
+You are a helpful assistant that can answer questions about the website {site}. Answer in first person as a representative of the website. The website content is:
 
-{self.content}""")
+{self.content}
+---
+
+You are a helpful assistant that can answer questions about the website {site}. Answer in first person as a representative of the website. 
+""")
 
     async def respond(self, message):
         """

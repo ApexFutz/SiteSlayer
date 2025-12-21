@@ -99,7 +99,7 @@ async def execute(target_url):
         # Step 1: Harvest HTML from homepage
         logger.info("Step 1: Harvesting homepage HTML...")
         try:
-            html_file = await asyncio.to_thread(harvest_html, target_url, config)
+            html_file = await harvest_html(target_url, config)
         except Exception as harvest_error:
             error_msg = f"HTML harvesting failed with exception: {str(harvest_error)}"
             logger.error(error_msg, exc_info=True)
@@ -198,7 +198,7 @@ async def crawl_site(target_url, domain, config):
     
     # Scrape homepage for markdown
     logger.info("Scraping homepage...")
-    homepage_data = await asyncio.to_thread(scrape_homepage, target_url, config)
+    homepage_data = await scrape_homepage(target_url, config)
     
     if not homepage_data:
         error_msg = "Failed to scrape homepage - no data returned"
@@ -210,7 +210,7 @@ async def crawl_site(target_url, domain, config):
     # Rank links if AI ranking is enabled
     if config.use_ai_ranking:
         logger.info("Ranking links using AI...")
-        links_to_crawl = await asyncio.to_thread(rank_links, homepage_data['content'], target_url, config)
+        links_to_crawl = await rank_links(homepage_data['content'], target_url, config)
     else:
         links_to_crawl = homepage_data['links']
     
@@ -243,7 +243,7 @@ async def crawl_site(target_url, domain, config):
     
     # Aggregate markdown content for chatbot
     logger.info("Aggregating markdown content...")
-    content_file = await asyncio.to_thread(aggregate_markdown_content, domain, temp_dir=config.output_dir)
+    content_file = await aggregate_markdown_content(domain, temp_dir=config.output_dir)
     
     return crawl_results, content_file
 

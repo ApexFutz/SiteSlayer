@@ -4,6 +4,8 @@ HTTP fetching utilities
 
 import requests
 import time
+import asyncio
+import aiohttp
 from typing import Optional
 from contextlib import contextmanager
 from utils.logger import setup_logger
@@ -23,7 +25,7 @@ DEFAULT_HEADERS = {
 }
 
 
-def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
+async def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
     """
     Fetch a web page and return its HTML content
     
@@ -37,74 +39,68 @@ def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
     """
     # Use JavaScript rendering if enabled
     if getattr(config, 'use_js_rendering', False):
-        return fetch_page_with_js(url, config)
+        return await fetch_page_with_js(url, config)
     
     # Build headers with user agent
     headers = DEFAULT_HEADERS.copy()
     headers['User-Agent'] = USER_AGENT
     
     # Retry logic with exponential backoff
-    for attempt in range(max_retries):
-        try:
-            response = requests.get(
-                url,
-                headers=headers,
-                timeout=config.timeout,
-                allow_redirects=True
-            )
-            
-            # Check if request was successful
-            response.raise_for_status()
-            
-            # Check content type
-            content_type = response.headers.get('Content-Type', '')
-            if 'text/html' not in content_type.lower():
-                logger.warning(f"Non-HTML content type for {url}: {content_type}")
-                return None
-            
-            # Ensure proper encoding - if not detected, default to utf-8
-            if response.encoding is None:
-                response.encoding = 'utf-8'
-            
-            return response.text
-            
-        except requests.exceptions.Timeout:
-            logger.error(f"Timeout fetching {url} (attempt {attempt + 1}/{max_retries})")
-            if attempt < max_retries - 1:
-                wait_time = 2 ** attempt  # Exponential backoff: 1s, 2s, 4s
-                logger.info(f"Retrying in {wait_time} seconds...")
-                time.sleep(wait_time)
-            else:
-                return None
-                
-        except requests.exceptions.HTTPError as e:
-            status_code = e.response.status_code
-            logger.error(f"HTTP {status_code} error fetching {url}")
-            
-            # Don't retry client errors (4xx), only server errors (5xx)
-            if 400 <= status_code < 500:
-                return None
-            elif attempt < max_retries - 1:
-                wait_time = 2 ** attempt
-                logger.info(f"Retrying in {wait_time} seconds...")
-                time.sleep(wait_time)
-            else:
-                return None
-                
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Error fetching {url}: {str(e)}")
-            if attempt < max_retries - 1:
-                wait_time = 2 ** attempt
-                logger.info(f"Retrying in {wait_time} seconds...")
-                time.sleep(wait_time)
-            else:
-                return None
-                
-        except Exception as e:
-            logger.error(f"Unexpected error fetching {url}: {str(e)}", exc_info=True)
-            return None
+    timeout = aiohttp.ClientTimeout(total=config.timeout)
     
-    return None
+    async with aiohttp.ClientSession(timeout=timeout, headers=headers) as session:
+        for attempt in range(max_retries):
+            try:
+                async with session.get(url, allow_redirects=True) as response:
+                    # Check if request was successful
+                    if response.status >= 400:
+                        status_code = response.status
+                        logger.error(f"HTTP {status_code} error fetching {url}")
+                        
+                        # Don't retry client errors (4xx), only server errors (5xx)
+                        if 400 <= status_code < 500:
+                            return None
+                        elif attempt < max_retries - 1:
+                            wait_time = 2 ** attempt
+                            logger.info(f"Retrying in {wait_time} seconds...")
+                            await asyncio.sleep(wait_time)
+                            continue
+                        else:
+                            return None
+                    
+                    # Check content type
+                    content_type = response.headers.get('Content-Type', '')
+                    if 'text/html' not in content_type.lower():
+                        logger.warning(f"Non-HTML content type for {url}: {content_type}")
+                        return None
+                    
+                    # Read content with proper encoding
+                    html_content = await response.text(encoding='utf-8')
+                    return html_content
+                    
+            except asyncio.TimeoutError:
+                logger.error(f"Timeout fetching {url} (attempt {attempt + 1}/{max_retries})")
+                if attempt < max_retries - 1:
+                    wait_time = 2 ** attempt  # Exponential backoff: 1s, 2s, 4s
+                    logger.info(f"Retrying in {wait_time} seconds...")
+                    await asyncio.sleep(wait_time)
+                else:
+                    return None
+                    
+            except aiohttp.ClientError as e:
+                logger.error(f"Error fetching {url}: {str(e)}")
+                if attempt < max_retries - 1:
+                    wait_time = 2 ** attempt
+                    logger.info(f"Retrying in {wait_time} seconds...")
+                    await asyncio.sleep(wait_time)
+                else:
+                    return None
+                    
+            except Exception as e:
+                logger.error(f"Unexpected error fetching {url}: {str(e)}", exc_info=True)
+                return None
+        
+        return None
 
 
 @contextmanager
@@ -146,7 +142,7 @@ def _create_browser(config):
         playwright.stop()
 
 
-def fetch_page_with_js(url: str, config) -> Optional[str]:
+async def fetch_page_with_js(url: str, config) -> Optional[str]:
     """
     Fetch a web page using Playwright to execute JavaScript
     
@@ -158,36 +154,60 @@ def fetch_page_with_js(url: str, config) -> Optional[str]:
         Rendered HTML content or None if failed
     """
     try:
-        from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+        from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
         from playwright._impl._errors import Error as PlaywrightError
     except ImportError:
         logger.error("Playwright not installed. Install with: pip install playwright && playwright install chromium")
         logger.info("Falling back to regular HTTP fetch")
         # Fall back to regular fetch without modifying config
-        return fetch_page(url, config, max_retries=1)
+        return await fetch_page(url, config, max_retries=1)
     
     try:
         logger.info(f"Fetching with JavaScript rendering: {url}")
         
-        with _create_browser(config) as context:
-            page = context.new_page()
+        playwright = await async_playwright().start()
+        
+        try:
+            browser = await playwright.chromium.launch(
+                headless=True,
+                args=[
+                    '--no-sandbox',
+                    '--disable-dev-shm-usage',
+                    '--disable-gpu',
+                ]
+            )
             
             try:
-                # Navigate to the URL and wait for load
-                page.goto(url, wait_until='networkidle', timeout=config.timeout * 1000)
+                context = await browser.new_context(
+                    user_agent=USER_AGENT,
+                    viewport={'width': 1920, 'height': 1080}
+                )
                 
-                # Additional wait for JavaScript execution if configured
-                js_wait_time = getattr(config, 'js_wait_time', 3)
-                if js_wait_time > 0:
-                    time.sleep(js_wait_time)
-                
-                # Get the fully rendered HTML
-                html_content = page.content()
-                
-                logger.info(f"Successfully fetched with JS rendering: {url}")
-                return html_content
+                try:
+                    page = await context.new_page()
+                    
+                    try:
+                        # Navigate to the URL and wait for load
+                        await page.goto(url, wait_until='networkidle', timeout=config.timeout * 1000)
+                        
+                        # Additional wait for JavaScript execution if configured
+                        js_wait_time = getattr(config, 'js_wait_time', 3)
+                        if js_wait_time > 0:
+                            await asyncio.sleep(js_wait_time)
+                        
+                        # Get the fully rendered HTML
+                        html_content = await page.content()
+                        
+                        logger.info(f"Successfully fetched with JS rendering: {url}")
+                        return html_content
+                    finally:
+                        await page.close()
+                finally:
+                    await context.close()
             finally:
-                page.close()
+                await browser.close()
+        finally:
+            await playwright.stop()
             
     except PlaywrightTimeoutError as e:
         logger.error(f"Timeout fetching with JavaScript {url}: {str(e)}")

@@ -24,7 +24,7 @@ def normalize_url(url):
         clean_url += f"?{parsed.query}"
     return clean_url
 
-def _process_single_url(url, index, total, visited_urls, visited_lock, config):
+async def _process_single_url(url, index, total, visited_urls, visited_lock, config):
     """
     Process a single URL - extracted for parallel processing
     
@@ -52,7 +52,7 @@ def _process_single_url(url, index, total, visited_urls, visited_lock, config):
     
     try:
         # Fetch page
-        html_content = fetch_page(url, config)
+        html_content = await fetch_page(url, config)
         if not html_content:
             logger.warning(f"Failed to fetch: {url}")
             return None
@@ -126,9 +126,8 @@ async def crawl_urls(links_to_crawl, config):
     async def process_with_semaphore(url, index):
         """Wrapper to process URL with semaphore control"""
         async with semaphore:
-            # Run the sync processing function in a thread
-            result = await asyncio.to_thread(
-                _process_single_url,
+            # Process URL asynchronously
+            result = await _process_single_url(
                 url,
                 index,
                 len(links_to_crawl),

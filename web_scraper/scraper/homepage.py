@@ -12,7 +12,7 @@ from scraper.crawler import save_page
 
 logger = setup_logger(__name__)
 
-def scrape_homepage(url, config):
+async def scrape_homepage(url, config):
     """
     Scrape the homepage and extract content and links
     
@@ -25,7 +25,7 @@ def scrape_homepage(url, config):
     """
     try:
         # Fetch the page
-        html_content = fetch_page(url, config)
+        html_content = await fetch_page(url, config)
         if not html_content:
             logger.error(f"Failed to fetch homepage: {url}")
             return None
@@ -37,15 +37,14 @@ def scrape_homepage(url, config):
         title = soup.title.string if soup.title else urlparse(url).netloc
         logger.info(f"Page title: {title}")
         
-        # Extract main content
+        # Extract and clean links
+        all_links = extract_links(soup, url)
+        filtered_links = clean_and_filter_links(all_links, url, config)
+        breakpoint()
         content = extract_main_content(soup)
         
         # Convert to markdown
         markdown_content = html_to_markdown(str(content), url)
-        
-        # Extract and clean links
-        all_links = extract_links(soup, url)
-        filtered_links = clean_and_filter_links(all_links, url, config)
         
         logger.info(f"Found {len(all_links)} total links, {len(filtered_links)} after filtering")
         
@@ -71,8 +70,8 @@ def scrape_homepage(url, config):
 def extract_main_content(soup):
     """Extract main content from the page, removing unnecessary elements"""
     
-    # Remove unwanted elements
-    for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript']):
+    # Remove unwanted elements (keeping nav for navigation links)
+    for element in soup(['script', 'style', 'aside', 'noscript']):
         element.decompose()
     
     # Try to find main content area

@@ -4,6 +4,7 @@ for AI chatbot consumption
 """
 
 import os
+import asyncio
 from pathlib import Path
 from datetime import datetime
 from utils.logger import setup_logger
@@ -11,7 +12,7 @@ from .deduplicate_content import deduplicate_content
 
 logger = setup_logger(__name__)
 
-def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
+async def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
     """
     Aggregate all markdown files from a scraped website into a single content.md file
     
@@ -60,39 +61,62 @@ def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
     aggregated_content.append(f"Total Pages: {len(md_files)}")
     aggregated_content.append("\n---\n")
     
-    # Process each markdown file
+    # Process each markdown file (read files in parallel for better performance)
     successful_files = 0
-    for md_file in sorted(md_files):
+    
+    async def read_and_process_file(md_file):
+        """Read and process a single markdown file"""
         try:
             logger.debug(f"Processing: {md_file.name}")
             
-            with open(md_file, 'r', encoding='utf-8') as f:
-                content = f.read()
+            # Use asyncio.to_thread for file I/O since aiofiles is not available
+            content = await asyncio.to_thread(_read_file, md_file)
             
             # Extract metadata from the file
             metadata = extract_metadata(content)
             
-            # Add page section
-            aggregated_content.append(f"\n## PAGE: {metadata['title']}")
-            aggregated_content.append(f"**Source URL:** {metadata['url']}")
-            
-            if metadata['link_text']:
-                aggregated_content.append(f"**Link Text:** {metadata['link_text']}")
-            
-            aggregated_content.append(f"**File:** {md_file.name}")
-            aggregated_content.append("")  # Empty line
-            
-            # Add the actual content (skip the metadata section)
+            # Extract page content
             page_content = extract_page_content(content)
-            aggregated_content.append(page_content)
             
-            aggregated_content.append("\n---\n")
-            
-            successful_files += 1
-            
+            return {
+                'success': True,
+                'metadata': metadata,
+                'content': page_content,
+                'filename': md_file.name
+            }
         except Exception as e:
             logger.error(f"Error processing {md_file.name}: {str(e)}", exc_info=True)
+            return {'success': False}
+    
+    # Read all files in parallel
+    tasks = [read_and_process_file(md_file) for md_file in sorted(md_files)]
+    results = await asyncio.gather(*tasks)
+    
+    # Process results and build aggregated content
+    for result in results:
+        if not result.get('success'):
             continue
+            
+        metadata = result['metadata']
+        page_content = result['content']
+        filename = result['filename']
+        
+        # Add page section
+        aggregated_content.append(f"\n## PAGE: {metadata['title']}")
+        aggregated_content.append(f"**Source URL:** {metadata['url']}")
+        
+        if metadata['link_text']:
+            aggregated_content.append(f"**Link Text:** {metadata['link_text']}")
+        
+        aggregated_content.append(f"**File:** {filename}")
+        aggregated_content.append("")  # Empty line
+        
+        # Add the actual content
+        aggregated_content.append(page_content)
+        aggregated_content.append("\n---\n")
+        
+        successful_files += 1
+            
     
     if successful_files == 0:
         logger.error("Failed to process any markdown files")
@@ -125,8 +149,8 @@ def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
     output_file = target_dir / 'content.md'
     
     try:
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(aggregated_text)
+        # Use asyncio.to_thread for file I/O
+        await asyncio.to_thread(_write_file, output_file, aggregated_text)
         
         logger.info(f"Successfully created content.md at: {output_file}")
         logger.info(f"Aggregated {successful_files} pages")
@@ -137,6 +161,16 @@ def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
         logger.error(f"Error writing content.md: {str(e)}", exc_info=True)
         return None
 
+
+def _read_file(filepath):
+    """Helper function to read a file synchronously (for use with asyncio.to_thread)"""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return f.read()
+
+def _write_file(filepath, content):
+    """Helper function to write a file synchronously (for use with asyncio.to_thread)"""
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(content)
 
 def extract_metadata(content):
     """

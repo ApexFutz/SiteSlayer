@@ -5,14 +5,14 @@ HTML Harvester - Downloads complete HTML content using Playwright for JavaScript
 from pathlib import Path
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
 from config import USER_AGENT, sanitize_domain
 
 logger = setup_logger(__name__)
 
-def harvest_html(url, config):
+async def harvest_html(url, config):
     """
     Harvest complete HTML content using Playwright to render JavaScript
     
@@ -33,10 +33,10 @@ def harvest_html(url, config):
     timeout_occurred = False
     
     try:
-        playwright = sync_playwright().start()
+        playwright = await async_playwright().start()
         
         # Launch browser
-        browser = playwright.chromium.launch(
+        browser = await playwright.chromium.launch(
             headless=True,
             args=[
                 '--no-sandbox',
@@ -46,17 +46,17 @@ def harvest_html(url, config):
         )
         
         # Create context with user agent
-        context = browser.new_context(
+        context = await browser.new_context(
             user_agent=USER_AGENT,
             viewport={'width': 1920, 'height': 1080}
         )
         
         # Create page and navigate
-        page = context.new_page()
+        page = await context.new_page()
         
         logger.debug("Loading page with Playwright...")
         try:
-            page.goto(url, wait_until='networkidle', timeout=getattr(config, 'timeout', 30) * 1000)
+            await page.goto(url, wait_until='networkidle', timeout=getattr(config, 'timeout', 30) * 1000)
             logger.debug("Page loaded successfully")
         except PlaywrightTimeoutError as e:
             timeout_occurred = True
@@ -66,7 +66,7 @@ def harvest_html(url, config):
         
         # Get the rendered HTML (even if timeout occurred)
         try:
-            html_content = page.content()
+            html_content = await page.content()
             if timeout_occurred:
                 logger.warning(f"Retrieved partial HTML content: {len(html_content)} characters (timeout occurred)")
             else:
@@ -90,13 +90,13 @@ def harvest_html(url, config):
         # Clean up browser resources
         try:
             if page:
-                page.close()
+                await page.close()
             if context:
-                context.close()
+                await context.close()
             if browser:
-                browser.close()
+                await browser.close()
             if playwright:
-                playwright.stop()
+                await playwright.stop()
         except Exception as cleanup_error:
             logger.warning(f"Error during browser cleanup: {str(cleanup_error)}")
     

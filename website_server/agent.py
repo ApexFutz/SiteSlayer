@@ -1,7 +1,9 @@
 from pathlib import Path
 
+from dotenv import load_dotenv
 from agents import Agent, Runner
 
+load_dotenv()
 
 BASE_DIR = Path(__file__).parent.parent
 SITES_DIR = BASE_DIR / "sites"

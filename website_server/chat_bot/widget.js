@@ -147,6 +147,19 @@
       chatWidget.style.visibility = 'visible';
       chatWidget.style.opacity = '1';
 
+      // Focus the input field in the iframe
+      // Wait a bit for the iframe to be ready, then send focus message
+      setTimeout(() => {
+        try {
+          const iframeWindow = chatWidget.contentWindow;
+          if (iframeWindow) {
+            iframeWindow.postMessage('focus-input', '*');
+          }
+        } catch (e) {
+          console.log('[Chat Widget] Could not access iframe content:', e);
+        }
+      }, 200);
+
       // Remove the current chat icon image
       const chatIconImgToRemove = chatIconElement.querySelector('img');
       chatIconElement?.removeChild(chatIconImgToRemove);

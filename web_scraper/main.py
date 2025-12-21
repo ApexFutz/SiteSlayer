@@ -294,7 +294,11 @@ def main():
         
         try:
             with open(sites_file, 'r', encoding='utf-8') as f:
-                urls = [line.strip() for line in f if line.strip()]
+                urls = []
+                for line in f:
+                    line_no_comment = line.partition("#")[0].strip()
+                    if line_no_comment:
+                        urls.append(line_no_comment)
         except Exception as e:
             logger.error(f"Failed to read sites_to_scrape.txt: {str(e)}", exc_info=True)
             return

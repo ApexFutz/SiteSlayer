@@ -5,9 +5,10 @@ HTML Harvester - Downloads complete HTML content using Playwright for JavaScript
 from pathlib import Path
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
+from utils.fetch import get_browser_instance
 from config import USER_AGENT, sanitize_domain
 
 logger = setup_logger(__name__)
@@ -25,27 +26,22 @@ async def harvest_html(url, config):
     """
     logger.info(f"Harvesting HTML content for: {url}")
     
-    playwright = None
-    browser = None
     context = None
     page = None
     html_content = None
     timeout_occurred = False
     
+    # Get shared browser instance from pool
+    pool = await get_browser_instance()
+    if not pool:
+        error_msg = "Browser pool unavailable - cannot harvest HTML"
+        logger.error(error_msg)
+        raise RuntimeError(error_msg)
+    
+    browser = pool['browser']
+    
     try:
-        playwright = await async_playwright().start()
-        
-        # Launch browser
-        browser = await playwright.chromium.launch(
-            headless=True,
-            args=[
-                '--no-sandbox',
-                '--disable-dev-shm-usage',
-                '--disable-gpu',
-            ]
-        )
-        
-        # Create context with user agent
+        # Create context with user agent (isolates cookies/cache)
         context = await browser.new_context(
             user_agent=USER_AGENT,
             viewport={'width': 1920, 'height': 1080}
@@ -94,16 +90,12 @@ async def harvest_html(url, config):
         logger.error(f"Error harvesting HTML for {url}: {str(e)}", exc_info=True)
         raise  # Re-raise to allow caller to capture full stack trace
     finally:
-        # Clean up browser resources
+        # Clean up only context and page (browser/playwright are managed by the pool)
         try:
             if page:
                 await page.close()
             if context:
                 await context.close()
-            if browser:
-                await browser.close()
-            if playwright:
-                await playwright.stop()
         except Exception as cleanup_error:
             logger.warning(f"Error during browser cleanup: {str(cleanup_error)}")
     

@@ -125,45 +125,6 @@ async def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
     return await fetch_page_with_js(url, config)
 
 
-@contextmanager
-def _create_browser(config):
-    """
-    Context manager for creating and properly closing a Playwright browser instance
-    
-    Args:
-        config: Configuration object
-        
-    Yields:
-        Playwright browser instance
-    """
-    from playwright.sync_api import sync_playwright
-    
-    playwright = sync_playwright().start()
-    
-    try:
-        browser = playwright.chromium.launch(
-            headless=True,
-            args=[
-                '--no-sandbox',
-                '--disable-dev-shm-usage',
-                '--disable-gpu',
-            ]
-        )
-        
-        context = browser.new_context(
-            user_agent=USER_AGENT,
-            viewport={'width': 1920, 'height': 1080}
-        )
-        
-        try:
-            yield context
-        finally:
-            context.close()
-            browser.close()
-    finally:
-        playwright.stop()
-
-
 async def get_browser_instance():
     """
     Get or create a shared browser instance (singleton pattern with async lock)

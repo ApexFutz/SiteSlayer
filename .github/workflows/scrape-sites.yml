@@ -21,14 +21,20 @@ jobs:
       with:
         python-version: '3.12'
 
+    - name: Install uv
+      uses: astral-sh/setup-uv@v4
+
     - name: Install Git and dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y git
-        pip install -r requirements.txt
+        uv sync
+
+    - name: Install Playwright browsers
+      run: uv run python -m playwright install chromium
 
     - name: Run scrape script
-      run: bash scripts/scrape_site.sh
+      run: uv run python web_scraper/main.py
 
     - name: Check for changes
       id: verify-changed-files

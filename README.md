@@ -37,8 +37,8 @@ web_scraper/
 
 ### Prerequisites
 
-- Python 3.8 or higher
-- pip (Python package manager)
+- Python 3.11.9 or higher
+- uv (Python package manager) - Install from https://github.com/astral-sh/uv
 
 ### Setup Instructions
 
@@ -49,13 +49,19 @@ web_scraper/
    cd SiteSlayer
    ```
 
-2. **Install dependencies**
+2. **Install uv** (if not already installed)
 
    ```bash
-   pip install -r requirements.txt
+   curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
 
-3. **Configure environment variables**
+3. **Install dependencies**
+
+   ```bash
+   uv sync
+   ```
+
+4. **Configure environment variables**
 
    ```bash
    cp .env.example .env
@@ -259,7 +265,7 @@ See [MARKDOWN_AGGREGATION.md](MARKDOWN_AGGREGATION.md) for detailed documentatio
 
 **Issue**: `ModuleNotFoundError`
 
-- **Solution**: Ensure all dependencies are installed: `pip install -r requirements.txt`
+- **Solution**: Ensure all dependencies are installed: `uv sync`
 
 **Issue**: No OpenAI API key error
 
@@ -275,7 +281,7 @@ See [MARKDOWN_AGGREGATION.md](MARKDOWN_AGGREGATION.md) for detailed documentatio
 
 ## Requirements
 
-See `requirements.txt` for all dependencies. Key packages include:
+See `pyproject.toml` for all dependencies. Key packages include:
 
 - `requests`: HTTP requests
 - `beautifulsoup4`: HTML parsing

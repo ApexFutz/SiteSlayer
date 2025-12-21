@@ -100,7 +100,7 @@ Use the following guidelines to shape both the subject line and the body of the 
 * Clearly but briefly explain what we do at SlayDigital.ai
 * Introduce the mock site (`{self.mock_url}`) as a concrete example
 * Briefly explain how to use the chat agent in 1–2 sentences
-* Include 4–5 realistic, high-value customer questions tailored to this business
+* Include 4–5 realistic, high-value customer questions tailored to this business (think of things that the business owner would love people to ask about their business)
 * Avoid buzzwords, exaggerated claims, or generic sales phrasing
 * End with a soft, low-pressure call to action
 

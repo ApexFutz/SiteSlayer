@@ -1,0 +1,22 @@
+SUBJECT: Helping Visitors Find the Right Wikipedia in Seconds
+
+Hi there,
+
+I know Wikipedia’s mission is all about making free knowledge accessible to everyone, in every language. To support that, I wanted to show you a simple way to help people quickly find the right version of Wikipedia or answer their most frequent questions—without sifting through pages or menus.
+
+At SlayDigital.ai, we build custom web chat agents that let visitors ask questions directly on your site and get instant answers based on your existing content—no jargon or extra complexity.
+
+Here's a quick demo, using a mock version of your homepage: https://slaydigital.fly.dev/site/www_wikipedia_org. Just click the chat icon in the bottom-right to open the chat box and ask away—no setup needed.
+
+You can try asking things like:
+- “How do I find Wikipedia in my language?”
+- “Where can I donate to support Wikipedia?”
+- “How many articles are available in Spanish?”
+- “Do I get any benefits if I donate?”
+- “What’s the difference between one-time and monthly donations?”
+
+If you think this could help newcomers or donors get clarity faster, I’d be happy to share more or set up a quick test with your actual site.
+
+Best wishes,
+Zac Slay  
+Founder, SlayDigital.ai

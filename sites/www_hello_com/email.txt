@@ -1,22 +1,22 @@
-SUBJECT: A simple way to welcome visitors (and questions) for your next launch
+SUBJECT: A Simple Way to Keep Visitors Engaged During Your Pause
 
 Hi hello team,
 
-I love your message on the site—turning a pause into a promise for “something even better” is a great way to keep your community engaged.
+I love your warm approach—even during your pause, it’s clear how much you value your community and want to keep folks in the loop about what’s next.
 
-I’m Zac from SlayDigital.ai. We build simple AI chat agents that live on your site and help visitors get instant answers from your own content—even if your team is busy or heads-down building the next version.
+I’m Zac from SlayDigital.ai. We build simple, custom AI chat agents that sit right on your website, letting visitors ask questions and get answers using the content you already have—no jargon, just clarity.
 
-I set up a quick mock version of your site here: https://slaydigital.fly.dev/site/www_hello_com. There’s a chat icon in the bottom-right; just click it to open the chat and try asking questions—the agent responds using info already on your site.
+I set up a quick demo using your site: https://slaydigital.fly.dev/site/www_hello_com. There’s a chat icon in the bottom-right corner; click it to open the box and try asking questions just like a visitor would.
 
-You can try things like:
-- When will the new hello launch?
-- Can I sign up for updates?
-- Where can I find past community news?
-- Is hello available in other languages?
-- Who’s behind the hello team?
+For example, you can ask things like:
+- Why is hello paused right now?
+- When will hello be relaunching?
+- How will I know when the new version is live?
+- Can I still sign up to get updates?
+- Is there a way to contact the hello team during the pause?
 
-If you’d like something like this handy for your next announcement or re-launch, I’d be happy to chat. No pressure—just wanted to show a quick demo.
+If you’re curious how this might help keep your community connected, I’d be happy to chat. No pressure—just let me know if you’d like to talk!
 
 Best,  
-Zac  
-Founder, SlayDigital.ai
+Zac Slay  
+SlayDigital.ai

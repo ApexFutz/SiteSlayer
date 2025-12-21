@@ -1,22 +1,23 @@
-SUBJECT: Quick way to help Mt Juliet Dental Group visitors get answers (demo inside)
+SUBJECT: Help Patients Find Dental Answers Instantly on Your Website
 
 Hi there,
 
-I’m reaching out after visiting the Mt Juliet Dental Group website—your personalized approach and focus on patient comfort really stand out.
+I’m reaching out because Mt Juliet Dental Group stands out for providing clear information and compassionate care at every step—from first visits to advanced technology and flexible payment options.
 
-At SlayDigital.ai, we build simple, custom AI web agents that let visitors chat with your site’s content, helping them quickly find answers without waiting or searching through menus.
+At SlayDigital.ai, we build simple AI web agents that live right on your website, helping your patients get instant answers using info you’ve already shared online. No jargon—just clarity and fewer phone interruptions for your team.
 
-I’ve set up a quick mock of your website with a demo agent here: https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com. Just click the chat icon in the bottom-right corner—type any question, and the agent replies using info already on your site.
+You can see a live example for your site here: https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com  
+Just click the chat icon in the bottom-right corner and type a question—the agent responds with accurate, up-to-date info from your site.
 
-You can try asking things like:
-- “What insurance plans do you accept?”
-- “What does the $59 new patient special include?”
-- “How do I book an emergency appointment?”
-- “What are your business hours?”
-- “Do you offer payment plans or financing?”
+Try asking things like:
+- What insurance plans do you accept?
+- How do I book a same-day or emergency appointment?
+- What’s included in the $59 New Patient Special?
+- How does Smile Generation Dental Plan work?
+- How can I pay my bill or access my records online?
 
-If you’re interested in making it even easier for patients to get answers—and lightening your team’s call/email load—I’d be glad to chat. Let me know if you’d like to see what this could look like for Mt Juliet Dental Group.
+If helping patients find answers faster (and lightening your staff’s load) is of interest, I’d love your quick thoughts or questions.
 
-Best,  
+Thanks for your time,  
 Zac Slay  
 Founder, SlayDigital.ai

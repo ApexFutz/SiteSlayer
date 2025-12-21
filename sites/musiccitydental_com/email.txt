@@ -1,23 +1,21 @@
-SUBJECT: A Simpler Way to Answer Patient Questions on Music City Dental
+SUBJECT: Helping New Patients Feel at Ease on the Music City Dental Website
 
-Hi Dr. Spurlin and Team,
+Hi Dr. Spurlin-Moore and Music City Dental team,
 
-I appreciate how much care Music City Dental puts into making patients feel comfortable and informed from the very first visit. I noticed your priority on education, stress-free care, and flexible options like your in-office membership plan.
+I love how your site emphasizes both patient comfort and education—it’s clear you go above and beyond to make every visit relaxing, especially for those with dental anxiety.
 
-I’m Zac Slay, founder of SlayDigital.ai. We help practices like yours by building simple AI-powered chat agents that answer patient questions directly from your own website content. There’s no tech headache—just a clear way for visitors to get quick answers and feel at ease, right on your site.
+I’m Zac from SlayDigital.ai. We build simple AI-powered web agents that embed on your site and help visitors quickly get answers based on your existing content. This makes it easy for new and returning patients to find the info they need—no jargon, no fuss.
 
-I set up a live demo to show how this could work for you:  
-https://slaydigital.fly.dev/site/musiccitydental_com  
-Just click the chat icon in the bottom-right corner, type any question, and the agent will answer using the info already on your website.
+We created a quick demo using a mock version of your website at https://slaydigital.fly.dev/site/musiccitydental_com. There’s a chat icon in the bottom-right—click it to open a chat where you can type any question. The agent responds using what’s already on your site.
 
 You can try asking things like:
-- What services do you offer for nervous patients?
-- How does your Priority Care Membership Club work?
-- Do you accept patients without dental insurance?
-- What’s included in a new patient visit?
-- What dental technologies do you use?
+- What does the Priority Care Membership Club include and how much does it cost?
+- Do you offer sedation dentistry for anxious patients?
+- What services are available for new patients or those without insurance?
+- How do I book an appointment or submit new patient forms?
+- What technology do you use for dental procedures?
 
-If this kind of tool could help make your patient experience even smoother, I’d be happy to chat about making it fit seamlessly with your site.
+If this kind of tool could help streamline questions or make your site even more welcoming, I’d be glad to chat. No pressure—just let me know if you’d like to see how it works on your live site!
 
 Warm regards,  
 Zac Slay  

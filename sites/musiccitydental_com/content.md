@@ -38,6 +38,8 @@
 
 [Request An Appointment Today!](/appointments/)
 
+[Play Audio](javascript:void(null))
+
 ## Welcome To Music City Dental
 
 ![Dentist in Nashville, TN](/wp-content/uploads/2020/05/vlcsnap-2020-05-12-12h15m13s772.jpg)
@@ -94,6 +96,8 @@ Nashville Lifestyle Magazine - September 2017
 
 ## Success Stories
 
+Previous
+
 Music City Dental is a Elite Environment. From the Warm welcome you receive from Mrs.Sherry to the nice and supportive staff. Dr.Terry is extremely caring and informative physician. She is through with her care plans for your teeth! The best dental practice I have been apart of in the last 12yrs.
 
 #### Katavia F.
@@ -114,6 +118,14 @@ Beautiful, modern office. Friendly, knowledgeable staff. Exceptional, caring den
 
 #### Judy R.
 
+Next
+
+- 1
+- 2
+- 3
+- 4
+- 5
+
 ![Dentist in Nashville, TN](/wp-content/uploads/2018/10/Dr.TerrySpurlin-1.png)
 
 ## Meet Dr. Terry Spurlin-Moore
@@ -124,7 +136,7 @@ Her goal is to create and maintain beautiful and healthy smiles for years of lau
 
 [Read More](/our-team/)
 
-![](/wp-content/uploads/2022/06/Invisalign-Provider-Logo-RGB-300x78.png) ![](/wp-content/uploads/2022/06/iteroDigitalPractice-digital-horizontal-grey-noBackground_6_22_2022_1_54_10_PM-300x169.png)
+![Dentist in Nashville, TN | Music City Dental](/wp-content/uploads/2022/06/Invisalign-Provider-Logo-RGB-300x78.png) ![Dentist in Nashville, TN | Music City Dental](/wp-content/uploads/2022/06/iteroDigitalPractice-digital-horizontal-grey-noBackground_6_22_2022_1_54_10_PM-300x169.png)
 
 ## Latest Posts
 
@@ -171,7 +183,7 @@ Visiting the dentist is a phobia for many people that causes high anxiety and...
 
 ---
 
-![](/wp-content/uploads/2018/10/5a44506b-61d3-43fd-9769-4f42ec9b9f5d-300x290.jpg)Music City Dental creates and maintains beautiful and healthy smiles for years of laughter and enjoyment! We strive to provide the most peaceful, relaxing and stress-free experience possible, while delivering affordable dental care.
+![About](/wp-content/uploads/2018/10/5a44506b-61d3-43fd-9769-4f42ec9b9f5d-300x290.jpg)Music City Dental creates and maintains beautiful and healthy smiles for years of laughter and enjoyment! We strive to provide the most peaceful, relaxing and stress-free experience possible, while delivering affordable dental care.
 
 ## Our Nashville Dentist Office
 
@@ -181,7 +193,7 @@ Each of our team members must fulfill the professional responsibility to maintai
 
 We provide the very best dentistry in Nashville through routine, restorative and cosmetic confidence because our team stays informed about new products and equipment, advancements in treatment procedures and techniques, and continually learn how to better serve our patients.
 
-![](/wp-content/uploads/2018/10/dental-office-equipment-300x200.jpg)
+![About](/wp-content/uploads/2018/10/dental-office-equipment-300x200.jpg)
 
 ## Amenities
 
@@ -197,7 +209,7 @@ In addition, we offer the following:
 
 Music City Dental is not your traditional dental office. Because patient comfort is of the utmost importance to us, we hope you will feel more like you are in a blissful, art inspired spa, rather than a dental office. We designed our Nashville Dentist office with great detail to ensure that your experience will be extraordinary and provide an exceptional dental visit.
 
-![](/wp-content/uploads/2018/10/NashvilleDentistDrTerrySpurlinOffice-300x200.jpg)
+![About](/wp-content/uploads/2018/10/NashvilleDentistDrTerrySpurlinOffice-300x200.jpg)
 
 ## Commitment to Safety
 
@@ -303,7 +315,7 @@ As a cardiologist who understands the link between heart disease and periodontal
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-133425.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-133425.jpg)
 
 ## Dr. Terry Spurlin-Moore
 
@@ -319,9 +331,9 @@ A very positive person, Nashville dentist Dr. Spurlin can always be caught with 
 
 ### Dental Associations, Awards and Certifications
 
-[![](/wp-content/uploads/2023/02/ADA-Member-Logo-Square-RGB-281x300-281x300-1.jpg)](/wp-content/uploads/2023/02/ADA-Member-Logo-Square-RGB-281x300-281x300-1.jpg)
+[![Our Team](/wp-content/uploads/2023/02/ADA-Member-Logo-Square-RGB-281x300-281x300-1.jpg)](/wp-content/uploads/2023/02/ADA-Member-Logo-Square-RGB-281x300-281x300-1.jpg)
 
-![](/wp-content/uploads/2023/02/AACDlogo_MCDwebsite-300x70-300x70-1.jpg)
+![Our Team](/wp-content/uploads/2023/02/AACDlogo_MCDwebsite-300x70-300x70-1.jpg)
 
 - Voted Top Dentist by Nashville Lifestyles Magazine 2016-2022
 - Academy of General Dentistry | Nashville Dental Society
@@ -354,7 +366,7 @@ BS, anthropology, pre-dental 1994 – 1998
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-063821.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-063821.jpg)
 
 ### Adrian
 
@@ -364,7 +376,7 @@ Working at Music City Dental is particularly fulfilling because I get to meet ne
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-064401.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-064401.jpg)
 
 ### Ashleigh
 
@@ -372,7 +384,7 @@ Hi I’m Ashleigh! I have been a registered dental assistant for 6 years. I chos
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-064648.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-064648.jpg)
 
 ### Margaret Nolte
 
@@ -380,7 +392,7 @@ My name is Margaret Nolte and I’m a dental hygienist here at MusicCity Dental.
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-064853.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-064853.jpg)
 
 ### Rosylin Davis
 
@@ -388,7 +400,7 @@ My name is Rosylin Davis and I am a RDH. I have been a RDH for over 20 years. My
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-065041.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-065041.jpg)
 
 ### Sabrina
 
@@ -396,7 +408,7 @@ I’m Sabrina, and I have been a dental hygienist for over a year! I love Music 
 
 ---
 
-![](/wp-content/uploads/2025/08/Screenshot-2025-08-12-065245.jpg)
+![Our Team](/wp-content/uploads/2025/08/Screenshot-2025-08-12-065245.jpg)
 
 ### Carol Saffell
 
@@ -404,7 +416,7 @@ My name is Carol Saffell and I am an EFDA. I have been practicing for 33 years. 
 
 ---
 
-![](/wp-content/uploads/2025/09/Screenshot-2025-09-08-064619-e1757339402196.jpg)
+![Our Team](/wp-content/uploads/2025/09/Screenshot-2025-09-08-064619-e1757339402196.jpg)
 
 ### Neisha
 
@@ -414,39 +426,13 @@ Outside of the office, I enjoy spending quality time with my daughter, exploring
 
 ---
 
-[![Dr. Terry Spurlin-Moore's cousin Novella Page (center with glasses) participated in the Nashville Sit-Ins. (Image Courtesy of the Library of Congress)](https://musiccitydental.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-01-at-6.59.18-AM-800x533.png)](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
-
-### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
-
-As we celebrate Black History Month we wanted to share some information on the Nashville Sit-Ins and their importance to the civil rights movement. Dr. Terry Spurlin-Moore’s cousin Novella …
-
-[[Continue Reading...]](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
-
----
-
-![](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_1-842x1024.jpg)
-
-[![](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_2-861x1024.jpg)](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_2.jpg)
-
-![](/wp-content/uploads/2018/10/NL_0917_MusicCityDental1_Page_1-847x1024.jpg)
-
-[![](/wp-content/uploads/2018/10/NL_0917_MusicCityDental1_Page_2-860x1024.jpg)](/wp-content/uploads/2018/10/NL_0917_MusicCityDental1_Page_2.jpg)
-
-[![](/wp-content/uploads/2023/02/Top-Dentist-2019.jpg)](/wp-content/uploads/2023/02/Top-Dentist-2019.jpg)
-
-[![](/wp-content/uploads/2023/02/Nashville-Lifestyles-Top-dentists-bio-2020.jpg)](/wp-content/uploads/2023/02/Nashville-Lifestyles-Top-dentists-bio-2020.jpg)
-
-[![](/wp-content/uploads/2023/02/Top-dentists-2021-scaled.jpg)](/wp-content/uploads/2023/02/Top-dentists-2021-scaled.jpg)
-
----
-
-![](/wp-content/uploads/2018/10/dentistry-122-300x234.jpg)We understand that your first visit to the dentist can feel overwhelming and we try to accommodate all new patients with a comfortable and organized facility.
+![New Patients](/wp-content/uploads/2018/10/dentistry-122-300x234.jpg)We understand that your first visit to the dentist can feel overwhelming and we try to accommodate all new patients with a comfortable and organized facility.
 
 Our staff has taken the steps to prepare you for the first appointment by providing a full spectrum of the services we offer and the option to complete our new patient form prior to your visit. Our goal is to cover everything you need with a full and efficient assessment, but without waiting to see the doctor.
 
 ---
 
-![](/wp-content/uploads/2018/10/dentistry-112-300x200.jpg)At Music City Dental, we offer patient forms online so you can complete them in the convenience of your own home or office. Fax us your printed and completed forms or you may bring them during your visit.
+![New Patient Forms](/wp-content/uploads/2018/10/dentistry-112-300x200.jpg)At Music City Dental, we offer patient forms online so you can complete them in the convenience of your own home or office. Fax us your printed and completed forms or you may bring them during your visit.
 
 [New Patient Registration Form – Download & Print Form](/wp-content/uploads/2018/10/1a.-New-Patient-forms-all-6-pages2016MCDUSE-ONLY-1-2.pdf)
 
@@ -505,7 +491,7 @@ Our in-office plan is an affordable program designed for those living without in
 
 ---
 
-![](/wp-content/uploads/2018/10/Dental-Cleanings-300x199.jpg)Browse through our vast selection of the Nashville dental procedures offered at Music City Dental.
+![Procedure Details](/wp-content/uploads/2018/10/Dental-Cleanings-300x199.jpg)Browse through our vast selection of the Nashville dental procedures offered at Music City Dental.
 
 **Bonding**
 
@@ -574,7 +560,7 @@ Music City Dental is proud to offer Invisalign®. Invisalign® is a wonderful, m
 
 ---
 
-![](/wp-content/uploads/2018/10/X-Ray-300x200.jpg)**Digital X-Rays**  
+![Dental Technologies](/wp-content/uploads/2018/10/X-Ray-300x200.jpg)**Digital X-Rays**  
 In our office we use digital radiography which allows us to take x-rays using up to 90% less radiation than conventional film x-rays. Using this technology, we are able to take an x-ray of your mouth by using a small sensor which records the image of your teeth and sends it to a computer. The result is a highly detailed image of your mouth that can easily be enhanced to better diagnosis dental concerns and determine the very best treatment for each case.
 
 **Intraoral Camera**  
@@ -598,27 +584,7 @@ One of our newest pieces of equipment is our iTero 3D scanner. It allows us to t
 
 Ready to apply for CareCredit? Click the image below:
 
-[![](/wp-content/uploads/2018/10/CareCredit-Dentist-Nashville.jpg)](https://www.carecredit.com/apply/confirm.html?encm=AmMCOwZkAmcGOlUxUmYAaQU_VzIAb1doVTJSYFU6Aj8)
-
----
-
-#### Music City Dental
-
-[808 Kirkwood Ave  
-Nashville, TN 37204](https://goo.gl/maps/Xy1ckxsn4j4m7qRUA)
-
-[(615) 953-2469](tel:(615) 953-2469)
-
-**Follow Us On:**
-
-**Business Hours:**
-
-Monday: 7:00am-4:30pm  
-Tuesday: 7:00am-4:30pm  
-Wednesday: 7:00am-4:30pm  
-Thursday: 7:00am-4:30pm  
-Friday: (By appointment only)  
-Saturday – Sunday: Closed
+[![CareCredit](/wp-content/uploads/2018/10/CareCredit-Dentist-Nashville.jpg)](https://www.carecredit.com/apply/confirm.html?encm=AmMCOwZkAmcGOlUxUmYAaQU_VzIAb1doVTJSYFU6Aj8)
 
 ---
 
@@ -698,45 +664,7 @@ Visiting the dentist is a phobia for many people...
 
 It’s that joyous time of the year for parents...
 
-Soft drinks are bad for you, and that is something we all have known for a while. We know that they are loaded with sugar which is extremely harmful for your health in general, not just because that much sugar is bad for your teeth only. As an attempt to make soft drinks ‘healthier’, many manufactures have started producing diet and even sugar-free versions of their drinks, substituting sugar with artificial sweeteners. However, another aspect of sugary and sugar-free drinks which is often overlooked is their acidity and how much harm it can do to your teeth.
-
-**Acid Can Cause Tooth Decay**
-
-Tooth decay that leads to cavities has traditionally been linked to the consumption of large amounts of sugary soft drinks, as well as the lack of proper dental hygiene. However, it is the acid in these drinks that actually facilitates the process of tooth decay and damaging the tooth enamel. High acidity in your mouth dissolves the outer layer of the enamel, so when the inner layers of the teeth are exposed to the sugar, acid and bacteria in your mouth it makes them really sensitive and prone to developing cavities.
-
-![](/wp-content/uploads/2018/10/acidity-of-common-drinks-1-768x572-2b286900.png)
-
-**Prevention Is Important**
-
-The easiest way to prevent your teeth being damaged by acid in soft drinks is to avoid drinking them at all – they do more harm than good to your health anyway. If you are not yet willing to completely give up on soft drinks and replace them with water, you can still keep your teeth in a good condition by minimizing the contact between the acid and your teeth. A quick and simple method is to rinse your mouth using ordinary tap water right after you finish your drink. You might also ask for a straw. Avoid keeping sips from your drink in your mouth for a longer period, because this prolongs the harmful effects of sugar and acid.
-
-*We hope this information was helpful. If you are in the Nashville, TN area and do not have a dentist please consider Music City Dental. Our goal is to help you have the healthiest smile in Middle Tennessee.*
-
----
-
-### Recent Posts
-
-#### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/)
-
-As we celebrate Black History Month we wanted to...
-
-#### [The Acidity of Many Drinks Can Cause Harm to Your Teeth](https://musiccitydental.com/the-acidity-of-many-drinks-can-cause-harm-to-your-teeth/)
-
-Soft drinks are bad for you, and that is...
-
-#### [Sedation Dentistry in Nashville, TN: Understanding what it is and when it’s right for you](https://musiccitydental.com/sedation-dentistry-in-nashville-tn-understanding-what-it-is-and-when-its-right-for-you/)
-
-Visiting the dentist is a phobia for many people...
-
-#### [ToothBrush Trivia from Music City Dental](https://musiccitydental.com/toothbrush-trivia-from-music-city-dental/)
-
-...
-
-#### [Back to School Dental Care Tips](https://musiccitydental.com/back-to-school-dental-care-tips/)
-
-It’s that joyous time of the year for parents...
-
-![](/wp-content/uploads/2018/10/dentistry-123-300x200.jpg)Visiting the dentist is a phobia for many people that causes high anxiety and stress. Fearful patients often neglect the health of their teeth, all to avoid a trip to the dentist. If you find yourself feeling stressed and anxious at the thought of visiting the dentist, you can be at ease knowing that a safe, comfortable method does exist. Sedation dentistry alleviates anxiety so you can have peace of mind when visiting the dentist and achieving a healthy smile.
+![Sedation Dentistry in Nashville, TN: Understanding what it is and when it’s right for you](/wp-content/uploads/2018/10/dentistry-123-300x200.jpg)Visiting the dentist is a phobia for many people that causes high anxiety and stress. Fearful patients often neglect the health of their teeth, all to avoid a trip to the dentist. If you find yourself feeling stressed and anxious at the thought of visiting the dentist, you can be at ease knowing that a safe, comfortable method does exist. Sedation dentistry alleviates anxiety so you can have peace of mind when visiting the dentist and achieving a healthy smile.
 
 **What does sedation dentistry entail?**
 
@@ -791,16 +719,7 @@ Visiting the dentist is a phobia for many people...
 
 It’s that joyous time of the year for parents...
 
-![](/wp-content/uploads/2018/10/Toothbrush-Trivia-from-Music-City-Dental-Nashville-TN-Dentist7.jpg)
-
----
-
-![](/wp-content/uploads/2018/10/dentistry-116-300x200.jpg)At Music City Dental, we offer a variety of services to care for your mouth. If you have any questions or would like more information on how we can care for your teeth and mouth, please [contact us](/contact/) today.
-
-- [Procedure Details](/procedure-details/)
-- [Dental Technologies](/dental-technologies/)
-- [CareCredit](/carecredit/)
-- [Priority Care Membership Club](/priority-care-membership-club/)
+![ToothBrush Trivia from Music City Dental](/wp-content/uploads/2018/10/Toothbrush-Trivia-from-Music-City-Dental-Nashville-TN-Dentist7.jpg)
 
 ---
 
@@ -855,42 +774,3 @@ It’s that joyous time of the year for parents...
 - [Best Summer Sport Dental Practices](https://musiccitydental.com/best-summer-sport-dental-practices/)
 - [Opening Our Doors to Music City](https://musiccitydental.com/opening-our-doors-to-music-city/)
 - [Music City Dental Opening](https://musiccitydental.com/music-city-dental-opening/)
-
----
-
-**Overview**  
-At Music City Dental, we respect the dignity and independence of our guests and we are committed to providing full and equal access to everyone who visits our facility and website. Here’s what you can expect from us:
-
-**Communication**  
-We are committed to effectively communicating with our guests. We provide, at no charge, auxiliary aids and services which are reasonably necessary to achieve effective communication. We accept Operator Relay Service calls, and Teletypewriter (TTY/TDD) calls through 711, in the same manner as traditional telephonic channels.
-
-**Website Access**  
-We endeavor to develop and update website content using current technologies that effectively communicate with and afford full and equal access to persons with disabilities. We make every effort necessary to meet online usability and design requirements, including those recommended by the World Wide Web Consortium (W3C) in its Web Content Accessibility Guidelines 2.1 as well as requirements under the Twenty-First Century Communications and Video Accessibility Act of 2010.
-
-**Assistive Devices**  
-Our customers and guests are welcome to use their own personal assistive devices to access our merchandise and services. If an assistive device or technology is incompatible with our facilities, we will work with our customers and guests to provide full and equal access through alternative measures.
-
-**Companions and Service Animals**  
-Companions, guide dogs or other service animals are welcome to accompany guests with disabilities while visiting our facility. We will also sensitively, respectfully and discretely provide personal assistance when requested.
-
-**Interruption of Services**  
-If we are temporarily unable to offer any special facilities or services that assist customers and guests with disabilities, we will immediately provide notice of this interruption and the anticipated time when these services will be resumed.
-
-**Training**  
-Our entire staff receives ongoing and documented training in order to properly communicate with and provide sensitive, helpful and respectful assistance to our customers and guests with disabilities.
-
-**Modification of Policies or Procedures**  
-We will make reasonable modifications to our policies or procedures when it is necessary to provide our customers and guests with full and equal access to our facility, website or communications channels.
-
-We are continuously working to improve the accessibility of content on our website. If you are looking for mouse and keyboard alternatives, speech recognition software such as Dragon NaturallySpeaking may help you navigate web pages and online services. This software allows the user to move focus around a web page or application screen through voice controls.
-
-**Customer Feedback**  
-We actively encourage the participation of all customers and guests in our feedback process. In addition to sharing your comments in person, you may also contact us by:
-
-Mail:  
-808 Kirkwood Ave, Nashville, TN 37204
-
-Email:  
-[info@musiccitydental.com](mailto:info@musiccitydental.com)
-
-If you feel that these standards have not been maintained in your situation, please let us know by calling: [(615) 953-2469](tel:(615) 953-2469) we gladly accept TRS calls.

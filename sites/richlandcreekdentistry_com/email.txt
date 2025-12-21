@@ -1,24 +1,22 @@
-SUBJECT: Helping Patients Get Answers Faster at Richland Creek Family Dentistry
+SUBJECT: Make Your Patient Experience Even Smoother—See This Simple Chat Demo
 
-Hi Dr. McNutt and team,
+Hi Dr. McNutt and the Richland Creek Family Dentistry team,
 
-I hope you’re having a great week at Richland Creek Family Dentistry. I was impressed by your focus on compassionate care and making both new and returning patients feel at home. Your commitment to clarity—especially for new patients and families—stood out to me.
+I love how your practice focuses on making every patient feel welcome and at ease, whether it’s a first visit or an urgent dental emergency. It’s clear you care deeply about providing reliable information and comfort right from the start.
 
-I’m Zac Slay, founder of SlayDigital.ai. We create simple, custom AI chat agents that live right on your website and help visitors find key info in seconds, using only what’s already on your site.
+I'm Zac Slay, founder of SlayDigital.ai. We build simple, custom AI web agents that help answer common website questions—turning your existing content into clear, quick advice for visitors, all without extra work for your team.
 
-To show how this could help, I’ve set up a quick demo of your site with our agent: https://slaydigital.fly.dev/site/richlandcreekdentistry_com. Just click the chat icon at the bottom-right—then type a question. The agent pulls answers directly from your existing content.
+I put together a quick demo, using a mock version of your website: https://slaydigital.fly.dev/site/richlandcreekdentistry_com. You’ll see a chat icon in the bottom-right corner—just click it, then type a question to see how the agent responds using details already on your site.
 
 You can try asking things like:
-- What insurance do you accept, and how does billing work?
-- How does your in-office savings plan work for patients without insurance?
-- What pediatric services do you offer for kids?
-- How can I book an appointment, and what do I need to bring for my first visit?
-- Is emergency dental care available for walk-ins?
+- What insurance plans do you accept or how does your in-office savings plan work?
+- How do I request an emergency dental appointment?
+- What can I expect during a teeth cleaning?
+- Are you accepting new pediatric patients?
+- What are your office hours and payment options?
 
-The goal is to help your visitors get answers right away, reducing repetitive calls and making your team’s day a bit smoother—without adding complexity to your website.
+If you think something like this might help decrease repetitive calls and make information easier for patients to find, let me know—I'd be happy to chat or answer any questions.
 
-If you’d like to discuss or have feedback, I’d love to hear from you. Either way, I hope the demo agent is useful as a quick resource.
-
-Warm regards,  
+Best,  
 Zac Slay  
 Founder, SlayDigital.ai

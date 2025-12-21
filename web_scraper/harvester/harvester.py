@@ -54,12 +54,19 @@ async def harvest_html(url, config):
         # Create page and navigate
         page = await context.new_page()
         
+        # Use reduced timeout (4 seconds) if we've already hit a timeout for this site
+        effective_timeout = 4 if getattr(config, 'timeout_reduced', False) else getattr(config, 'timeout', 15)
+        
         logger.debug("Loading page with Playwright...")
         try:
-            await page.goto(url, wait_until='networkidle', timeout=getattr(config, 'timeout', 30) * 1000)
+            await page.goto(url, wait_until='networkidle', timeout=effective_timeout * 1000)
             logger.debug("Page loaded successfully")
         except PlaywrightTimeoutError as e:
             timeout_occurred = True
+            # Mark config to use reduced timeout for subsequent pages
+            if not getattr(config, 'timeout_reduced', False):
+                config.timeout_reduced = True
+                logger.info(f"Site appears slow - reducing timeout to 4 seconds for remaining pages")
             logger.warning(f"Timeout waiting for networkidle on {url}: {str(e)}")
             logger.info("Attempting to capture partial HTML content that has already loaded...")
             # Don't re-raise - we'll try to get whatever content is available

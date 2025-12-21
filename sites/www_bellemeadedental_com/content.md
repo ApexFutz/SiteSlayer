@@ -50,9 +50,19 @@ Whether you're interested in a brighter smile, straighter teeth, or full-mouth r
 
 ## Video Testimonials
 
+![](https://img.youtube.com/vi/WQUVtKTe5yA/sddefault.jpg)
+
+![](https://img.youtube.com/vi/egRy4sxOs18/sddefault.jpg)
+
+![](https://img.youtube.com/vi/qNvWRqvTw2U/sddefault.jpg)
+
+![](https://img.youtube.com/vi/kw_l0ofSjv0/sddefault.jpg)
+
 ## Our patients say
 
 “
+
+head><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" /></head>
 
 "Dr. James Pace Jr. is the best dentist that I have ever worked with! I have several front teeth that have crowns and one front tooth required an implant during the past months. Dr. Pace and his staff were awesome, patient and kind. They follow up with you and go above and beyond to make sure that everything is perfect. They are simply the BEST!"
 
@@ -90,9 +100,11 @@ Steve W.
 
 “
 
+Slide 2 of 3.
+
 ## Meet the Doctors
 
-Dr. James R Pace SrDr. James R Pace Jr, FAGDDr. Cole Reitnauer
+[Dr. James R Pace Sr](#w-tabs-0-data-w-pane-0)[Dr. James R Pace Jr, FAGD](#w-tabs-0-data-w-pane-1)[Dr. Cole Reitnauer](#w-tabs-0-data-w-pane-2)
 
 ![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/6429d43d625193d7ef5e2ea1_social%20photos%20-%20belle%20meade%20family%20dentistry-60%20(1).webp)
 
@@ -213,6 +225,8 @@ Dental Veneers are a great way to correct misshapen, stained, or cracked teeth, 
 [![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/64299dd2d5a0810b8e4b7578_FgBG5k59vtpFnP3k.webp)](#)
 
 [![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/64299e4cc388ed2e3f79f289_IMG_8268%20(1)%201.webp)](#)
+
+Slide 2 of 5.
 
 ## Want to schedule an appointment?
 

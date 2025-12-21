@@ -16,7 +16,8 @@ class Config:
     def __init__(self, target_url):
         # Scraping Settings
         self.max_pages = 50
-        self.timeout = 30
+        self.timeout = 15
+        self.timeout_reduced = False  # Flag to track if we've reduced timeout due to slow site
         self.delay_between_requests = 1.0
         self.max_concurrent_requests = 20
         
@@ -45,7 +46,6 @@ class Config:
         self.ai_model = 'gpt-5-mini-2025-08-07'
         
         # JavaScript Rendering Settings
-        self.use_js_rendering = False
         self.js_wait_time = 3
 
     

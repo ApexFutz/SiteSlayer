@@ -55,40 +55,19 @@ async def rank_links(content: str, target_url: str, config):
 
 Return a list of full URL strings."""
 
-        try:
-            # Try using .parse() method if available (OpenAI SDK >= 1.0)
-            completion = await client.chat.completions.parse(
-                model=config.ai_model,
-                messages=[
-                    {"role": "system", "content": "You are a web content analysis assistant. Extract relevant URLs from the content."},
-                    {"role": "user", "content": prompt}
-                ],
-                response_format=URLList
-            )
-            # Get parsed response - extract the list[str] from the model
-            parsed_response = completion.choices[0].message.parsed
-            urls = parsed_response.urls if parsed_response else []
-        except (AttributeError, TypeError):
-            # Fallback to manual parsing if .parse() is not available
-            completion = await client.chat.completions.create(
-                model=config.ai_model,
-                messages=[
-                    {"role": "system", "content": "You are a web content analysis assistant. Extract relevant URLs from the content."},
-                    {"role": "user", "content": prompt}
-                ],
-                response_format={"type": "json_schema", "json_schema": {"name": "URLList", "schema": URLList.model_json_schema(), "strict": True}}
-            )
-            
-            # Parse the response manually
-            import json
-            response_content = completion.choices[0].message.content
-            if not response_content:
-                logger.warning("Empty response from OpenAI")
-                return []
-            
-            parsed_data = json.loads(response_content)
-            urls = parsed_data.get('urls', [])
-        
+        # Try using .parse() method if available (OpenAI SDK >= 1.0)
+        completion = await client.chat.completions.parse(
+            model=config.ai_model,
+            messages=[
+                {"role": "system", "content": "You are a web content analysis assistant. Extract only the most relevant URLs from the content. Limit the number of URLs to 15. Return the urls in order of relevance."},
+                {"role": "user", "content": prompt}
+            ],
+            response_format=URLList
+        )
+        # Get parsed response - extract the list[str] from the model
+        parsed_response = completion.choices[0].message.parsed
+        urls = parsed_response.urls if parsed_response else []
+               
         # Filter URLs using the same logic as scrape_homepage
         filtered_urls = clean_and_filter_links(urls, target_url, config)
         

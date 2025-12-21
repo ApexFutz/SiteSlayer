@@ -19,6 +19,7 @@ from scraper.homepage import scrape_homepage
 from scraper.crawler import crawl_urls
 from scraper.ai_link_ranker import rank_links
 from utils.logger import setup_logger
+from utils.fetch import cleanup_browser_pool
 from urllib.parse import urlparse
 
 from email_writer import EmailWriter
@@ -320,6 +321,9 @@ def main():
                     task.cancel()
             # Wait for cancellations to complete
             await asyncio.gather(*tasks, return_exceptions=True)
+        finally:
+            # Clean up browser pool when all tasks are done
+            await cleanup_browser_pool()
     
     # Run the async main function
     try:

@@ -1,0 +1,22 @@
+SUBJECT: Simple way to help visitors get answers about your veteran wellness program
+
+Hi there,
+
+I’m Zac Slay from SlayDigital.ai—I came across the ARK Health Foundation and was struck by your commitment to helping veterans access science-backed, stigma-free care.
+
+I wanted to share a quick example of how a custom website chat agent could make it even easier for visitors—veterans, families, and supporters—to get clear answers about your programs. We build simple AI web agents that use only your site’s existing content, answering questions for visitors who might feel overwhelmed or unsure where to start.
+
+Here’s a working demo on a mock version of your site: https://slaydigital.fly.dev/site/arkhealthfoundation_com. Just click the chat icon in the bottom-right, type a question, and see how the agent responds using your own site’s info.
+
+You can try asking things like:
+- Who is eligible for ARK Health Foundation programs?
+- What are the main therapies and diagnostics you offer for veterans?
+- How does your approach help veterans avoid reliving trauma?
+- How can someone get involved or donate?
+- Where can I read about success stories from veterans you’ve helped?
+
+If you’d like to see how this could work for your real site, I’d be happy to set up a quick call or answer any questions. No pressure—just let me know if you’re interested in making your site’s resources even more accessible.
+
+Best regards,  
+Zac Slay  
+Founder, SlayDigital.ai

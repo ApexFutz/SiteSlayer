@@ -1,23 +1,26 @@
-SUBJECT: Make Event Planning Easier for Your Guests with a Website Chat Agent
+SUBJECT: Make Big Thunder Events Even Easier for Customers—See Our Demo on Your Site
 
-Hi Tony & Kacey,
+Hi Tony and Kacey,
 
-I’m Zac, founder of SlayDigital.ai. I know that at Big Thunder Events, your team puts a lot of care into making every party and festival smooth and stress-free—from helping customers pick the right inflatables to answering all those power, setup, and booking questions.
+I was inspired by the community spirit and hands-on service you bring to Big Thunder Events—it’s no wonder you have so many loyal school, church, and family clients.
 
-We build simple, custom AI-powered website chat agents that answer visitor questions directly from your existing site content. It’s a quick, helpful way to reduce repetitive calls and make your customers’ event planning that much easier.
+I’m Zac from SlayDigital.ai. We build custom, easy-to-use AI chat agents that let your website visitors ask questions about your rentals, booking, or logistics and instantly get clear answers—using the info already on your site.
 
-To give you a feel for how this could work for Big Thunder Events, I set up a mock demo using your site:  
-https://slaydigital.fly.dev/site/www_bigthunderevents_com  
-There’s a chat icon in the bottom-right corner—click it, and you can type in questions as if you were a guest. The agent responds using info already on your website.
+To show how this could work for Big Thunder Events, we set up a quick demo:  
+https://slaydigital.fly.dev/site/www_bigthunderevents_com
+
+Just click the chat icon at the bottom right and type a question; the agent will reply with details from your actual content.
 
 You can try asking things like:
-- What’s included with a bounce house rental?  
-- How far in advance should I reserve for a large event?  
-- Do you offer discounts for schools or churches?  
-- What are the power requirements for mechanical rides?  
-- Which areas do you deliver to, and are there extra travel fees?
+- How do I book a bounce house or water slide?
+- What’s included in your delivery/setup? Are travel fees extra?
+- Which rentals are best for a school field day or church carnival?
+- Do you offer multi-unit discounts for schools and nonprofits?
+- What are your setup requirements and what surfaces can you install on?
 
-If you think this kind of tool would be helpful for your customers (and maybe lighten your team’s inbox), just let me know. I’d love to hear your thoughts and answer any questions.
+This tool is designed to reduce repetitive questions, help customers plan faster, and let your team focus on what you do best. No tech headaches or AI jargon—just useful, practical help for your visitors.
+
+If you’re curious about making customer support even smoother (especially during busy seasons), I’d love to chat or hear your feedback.
 
 Best,  
 Zac Slay  

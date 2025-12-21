@@ -1,21 +1,21 @@
-SUBJECT: Make Answers Easy for Your Dental Patients—See a Simple Demo
+SUBJECT: Helping patients find answers faster on your dental website
 
 Hi there,
 
-I know that for both new and existing patients, quick answers make a big difference in their dental experience. At SlayDigital.ai, we build simple, custom AI website agents that help visitors instantly get information from your own site—24/7, without extra effort for your staff.
+I noticed your practice’s contact info is front and center—super helpful for patients who want to reach out directly. We work with dental offices like yours at SlayDigital.ai, building easy-to-use AI chat agents that sit quietly on your website and answer common patient questions using only your existing site info.
 
-Here’s a live demo with your content: https://slaydigital.fly.dev/site/katherinehalldds_com  
-Just click the chat icon at the bottom-right corner and type a question—patients will get clear, friendly answers pulled right from your site.
+I’ve set up a simple demo for you here: https://slaydigital.fly.dev/site/katherinehalldds_com  
+Just click the chat icon in the bottom-right, type a question, and get a quick answer based on your own site content.
 
 You can try asking things like:
-- What is the best number to call for new patient appointments?
-- Where is your office located?
-- Do you accept emergency dental visits?
-- What insurance plans do you take?
-- What are your office hours?
+- What insurance plans do you accept?
+- How can I schedule an appointment as a new patient?
+- Where is your office located and what are your hours?
+- What dental services do you offer?
+- What should I bring to my first appointment?
 
-If you’d like to see how this could help your team and patients, just reply—I’m happy to talk or set up a sample for you.
+If you think something like this could save you time or help your patients, I’d love to show you more or answer any questions—no pressure.
 
 Best,  
 Zac Slay  
-Founder, SlayDigital.ai
+SlayDigital.ai

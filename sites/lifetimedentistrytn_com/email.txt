@@ -1,0 +1,22 @@
+SUBJECT: Make it easier for patients to get answers—see your live site demo
+
+Hi there,
+
+I’ve been browsing Lifetime Dentistry’s site and appreciate how thoroughly you explain services like dental implants, clear aligners, and cosmetic procedures. Your emphasis on patient trust and advanced care really stands out.
+
+I’m Zac Slay, founder of SlayDigital.ai. We help clinics like yours save staff time and improve website engagement with friendly, custom AI chat agents. These agents answer visitor questions using your site’s own content—no new work for your team.
+
+To show exactly how this could help, I put together a quick demo based on your website: https://slaydigital.fly.dev/site/lifetimedentistrytn_com. There’s a chat icon in the bottom-right—click it, type a question, and the agent will respond with information from your own site.
+
+You can try asking things like:
+- Do you offer same-day crowns, and how does the process work?
+- What cosmetic options are available for chipped or stained teeth?
+- How do dental implants differ from bridges and dentures?
+- Are clear aligners suitable for adults, and what’s the typical timeline?
+- What should I do if I need emergency dental care?
+
+If reducing common phone calls or helping new patients feel more comfortable interests you, I’d be happy to answer any questions or set up a quick call—no pressure.
+
+Best regards,  
+Zac Slay  
+Founder, SlayDigital.ai

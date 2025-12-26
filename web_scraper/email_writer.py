@@ -106,18 +106,19 @@ Use the following guidelines to shape both the subject line and the body of the 
 **Output**
 Use the following simple, fixed structure:
 
+`FROM: Zac Slay <zac@slaydigital.ai>`
+`TO: <business or business owner's name> <corresponding email address>`
 `SUBJECT: <subject line>`
-
+-----------------------------------------
 `<email body>`
 
-The subject line must appear on the first line, prefixed exactly with `SUBJECT:` in all caps.
+The FROM and TO lines must appear on the first two lines, prefixed exactly with `FROM:` and `TO:` in all caps.  
+The SUBJECT line must appear on the third line, prefixed exactly with `SUBJECT:` in all caps.
 
 After one blank line, include the full email body as described above.
-
-CRITICALLY: Return only these two components. No explanations, labels, or commentary beyond the subject line and body.
+CRITICALLY: Return only these three components. No explanations, labels, or commentary beyond the FROM, TO, and SUBJECT lines and body.
 
 The sender of the email is Zac Slay, founder of SlayDigital.ai.
-
 """)
 
     async def write(self):

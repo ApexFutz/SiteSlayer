@@ -1,0 +1,26 @@
+SUBJECT: Helping Nolensville families find quick answers—see your site’s new chat agent demo
+
+Hello Nolensville Family Dentistry team,
+
+I appreciate the inviting, personal touch you bring to serving families in Nolensville—it really comes through across your site.
+
+I’m Zac Slay, founder of SlayDigital.ai. We build simple, custom AI agents that live right on your website, ready to help patients find answers 24/7. No complicated tech—just a friendly chat assistant that uses your existing website information to answer common questions and help visitors feel more confident reaching out.
+
+To show how this could work for you, we set up a quick demo using your site:  
+https://slaydigital.fly.dev/site/nolensvillefamilydentistry_com  
+Just click the chat icon in the bottom-right corner to open a chat box, where you can type a question and get an immediate answer based on your site content.
+
+You might try asking things like:
+- What insurance plans do you accept?
+- How do I schedule my first appointment?
+- What should I bring as a new patient?
+- What dental services do you offer for children?
+- What are your office hours?
+
+Our goal is to make it easier for your patients to get the details they need, so your team can focus more on care and less on repetitive inquiries.
+
+If this is something you’d like to explore, I’d be happy to chat or answer any questions.
+
+Warm regards,  
+Zac Slay  
+Founder, SlayDigital.ai

@@ -1,0 +1,22 @@
+SUBJECT: Helping New Patients Get Answers Instantly on Mill Creek Dental
+
+Hi Dr. Anway,
+
+Hope you’re having a great week at Mill Creek Dental! I love your focus on trust, clear communication, and treating every patient like family. Your dedication to personalized care really stands out.
+
+I’m Zac from SlayDigital.ai. We build simple, custom web chat agents that let your website visitors instantly get answers based solely on your site’s own content—so they can understand your services and book with confidence, without navigating lots of pages or waiting for a call back.
+
+To show how this could work for your practice, I put together a quick mock version of your website: https://slaydigital.fly.dev/site/millcreekdental_net. There’s a chat icon in the bottom-right; click it and type a question. The agent replies using only information from your site.
+
+You can try asking things like:
+- What dental insurance plans do you accept?
+- What’s included in a new patient appointment?
+- How does teeth whitening work at your office?
+- What are your hours and location?
+- What happens during a root canal?
+
+Would love to hear what you think or answer any questions. If this looks useful for helping new and existing patients, just reply and I can share details or set up a quick call.
+
+Warm regards,  
+Zac Slay  
+Founder, SlayDigital.ai

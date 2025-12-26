@@ -2,7 +2,6 @@
 HTTP fetching utilities
 """
 
-import requests
 import time
 import asyncio
 import aiohttp
@@ -280,22 +279,4 @@ async def fetch_page_with_js(url: str, config) -> Optional[str]:
     except Exception as e:
         logger.error(f"Error fetching with JavaScript {url}: {str(e)}", exc_info=True)
         return None
-
-
-def create_session(config) -> requests.Session:
-    """
-    Create a requests Session with default headers for reuse across multiple requests
-    
-    Args:
-        config: Configuration object
-        
-    Returns:
-        Configured requests Session object
-    """
-    session = requests.Session()
-    
-    headers = DEFAULT_HEADERS.copy()
-    headers['User-Agent'] = USER_AGENT
-    session.headers.update(headers)
-    
-    return session
+π

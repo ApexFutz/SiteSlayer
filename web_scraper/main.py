@@ -6,11 +6,9 @@ Web scraper for extracting website HTML and markdown content
 import sys
 from dotenv import load_dotenv
 load_dotenv()
-import os
 import shutil
 import traceback
 import asyncio
-from functools import partial
 from pathlib import Path
 from datetime import datetime
 from config import Config, sanitize_domain
@@ -20,7 +18,6 @@ from scraper.crawler import crawl_urls
 from scraper.ai_link_ranker import rank_links
 from utils.logger import setup_logger
 from utils.fetch import cleanup_browser_pool
-from urllib.parse import urlparse
 
 from email_writer import EmailWriter
 

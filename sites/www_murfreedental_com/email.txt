@@ -1,0 +1,24 @@
+SUBJECT: Helping Murfree Dental Patients Get Answers—Instantly
+
+Hi Dr. Murfree and team,
+
+I love how welcoming and thorough your website is—it’s clear you prioritize both advanced care and making patients feel at ease. I’m Zac Slay, founder of SlayDigital.ai. We help local practices like yours reduce repetitive questions and make it even easier for patients to get the information they need, right from your website.
+
+We build simple custom AI web agents that let visitors chat directly with your site’s existing content—no extra tech speak or complexity. You can see a working demo, based on your own site, here: https://slaydigital.fly.dev/site/www_murfreedental_com
+
+Just click the chat icon in the bottom-right corner to open the box and ask a question—your virtual agent replies instantly with answers from your current pages.
+
+You can try asking things like:
+- “What dental insurance plans do you accept?”
+- “How does your in-house payment plan work?”
+- “What’s the process for getting dental implants?”
+- “What are your hours, and how do I request an appointment?”
+- “Do you offer sedation for anxious patients?”
+
+We built this to make your office even more approachable—for both new and returning patients—while freeing up your staff from answering the same quick questions.
+
+Would you like to see how this could work for your real site? Happy to chat or set up a short call—just let me know.
+
+Warm regards,  
+Zac Slay  
+Founder, SlayDigital.ai

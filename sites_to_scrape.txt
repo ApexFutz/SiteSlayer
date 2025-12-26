@@ -1,5 +1,5 @@
-
-https://www.bigthunderevents.com
+# Note, you can make comments in this file, just place comment text after the # character
+https://www.bigthunderevents.com # you can comment after websites too
 https://www.hello.com
 https://www.mtjulietdentalgroup.com
 https://www.thingamabob.com
@@ -19,3 +19,4 @@ https://nolensvillefamilydentistry.com/
 https://millcreekdental.net/
 https://www.gatewayfamilydentist.com/
 https://www.murfreedental.com/
+https://theclaylady.com/

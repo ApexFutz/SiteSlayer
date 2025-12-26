@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'sites_to_scrape.txt'
 jobs:
   deploy:
     name: Deploy app

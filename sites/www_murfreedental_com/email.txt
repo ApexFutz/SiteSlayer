@@ -1,23 +1,27 @@
-SUBJECT: A Simple Way to Answer Your Patients’ Top Questions—Instantly
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. John Murfree <info@murfreedental.com>
+SUBJECT: Make patient questions effortless on the Murfree Dental website
 
-Hi Dr. Murfree and the Murfree Dental team,
+-----------------------------------------
+Hi Dr. Murfree,
 
-I’m Zac Slay, founder of SlayDigital.ai, and I wanted to share something that could make life a little easier for your team—and more welcoming for your patients.
+I’m really impressed by how Murfree Dental combines advanced technology with a warm, welcoming atmosphere for your patients. Your “patient-first” approach and transparent info on services, financial options, and new patient support stand out.
 
-We build simple, custom AI chat agents that use the content already on your website to instantly answer visitor questions, right from your site. No technical jargon, just practical help for new and returning patients alike.
+I wanted to share something practical we do at SlayDigital.ai: we build simple web chat agents that help visitors get answers straight from your current site content—no AI buzzwords, just instant clarity. To show you how this could work on your site, we’ve set up a quick demo at: https://slaydigital.fly.dev/site/www_murfreedental_com
 
-To see how this works, here’s a personalized demo based on your website: https://slaydigital.fly.dev/site/www_murfreedental_com. Just click the chat icon in the bottom-right corner and type a question—your virtual agent will answer using information from your site.
+Just click the chat icon in the bottom-right, type a question, and the agent will answer using details directly from your real website.
 
 You can try asking things like:
-- Are you accepting new patients?  
-- What financial options or in-house plans do you offer?  
-- How do I schedule an appointment or fill out forms?  
-- What dental technology do you use?  
-- Do you provide sedation or emergency dental care?
+- What are the options if I don’t have dental insurance?
+- How do I schedule an appointment as a new patient?
+- What types of sedation dentistry do you offer?
+- Do you provide laser dentistry or dental implants?
+- Where can I find your patient forms or hours?
 
-It’s a quick way to cut down on phone calls and make sure your patients always feel informed and supported. If you’d like to talk about making this part of your real website, just let me know—no pressure.
+This kind of agent can help reduce repetitive calls, make info easy to find, and get patients started faster—without adding extra work for your team.
 
-Wishing you and your staff a wonderful week,
+Would you be interested in a quick chat to see if this could save your staff time (and make your patients’ lives easier)?
 
-Zac Slay  
+Best regards,  
+Zac  
 Founder, SlayDigital.ai

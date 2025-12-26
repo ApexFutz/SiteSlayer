@@ -1,23 +1,30 @@
-SUBJECT: Helping Patients Get Answers Faster at East Nashville Family Dentistry
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: East Nashville Family Dentistry <info@enfdentistry.com>
+SUBJECT: Make Your Dental Answers Even Easier for New and Returning Patients
 
+-----------------------------------------
 Hi there,
 
-I was just exploring East Nashville Family Dentistry’s site and loved how clearly you outline your services and your focus on making care accessible for families in Nashville.
+I’ve been browsing East Nashville Family Dentistry’s site and love how welcoming and thorough your care descriptions are. From general exams to Invisalign and same-day emergencies, you really make it easy for patients in Nashville to feel at home.
 
-I’m Zac Slay, founder of SlayDigital.ai. We build simple, custom AI chat agents that sit right on your website, making it easy for visitors to get instant answers from your existing content—without any tech headaches for your team.
+I run SlayDigital.ai, where we build simple chat agents that help website visitors get answers from your own site content—without hunting through menus or sending multiple emails.
 
-We put together a quick demo for your site here: https://slaydigital.fly.dev/site/enfdentistry_com  
-Just click the chat icon in the bottom-right and type a question—your agent replies using your own site info.
+To show you what I mean, I created a quick demo with your site’s information:  
+https://slaydigital.fly.dev/site/enfdentistry_com
+
+There’s a chat icon in the bottom-right corner—just click it to open a chat box and type a question. The agent replies using info already on your website.
 
 You can try asking things like:
-- What insurance plans do you accept?
-- How do I book a same-day emergency appointment?
-- What’s the difference between dentures and dental implants?
-- Do you offer Invisalign or other braces?
-- Are you currently accepting new patients?
+- Do you accept my insurance or offer payment plans?
+- What’s included in a regular cleaning and how often should I come in?
+- How does Invisalign work and is it right for adults?
+- How soon can I book an emergency appointment?
+- What are the steps for getting dental implants?
 
-Would love to hear if this could save your staff time and make life easier for your patients. If you’re interested, just reply and I can share more details.
+I think a tool like this could save your staff time on routine questions, while helping patients feel supported and confident right from their first visit.
 
-Best,  
+If you’re curious to see if this could fit into your workflow, just reply—no strings attached.
+
+Wishing you and your team continued success,  
 Zac  
 SlayDigital.ai

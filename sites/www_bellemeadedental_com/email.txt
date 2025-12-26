@@ -1,22 +1,27 @@
-SUBJECT: Helping New Patients Get Answers Faster at Belle Meade Family Dentistry
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Belle Meade Family Dentistry <info@bellemeadedental.com>
+SUBJECT: Simple way to answer patient questions—see a live example on your practice site
 
+-----------------------------------------
 Hi Belle Meade Family Dentistry team,
 
-I admire how you make patients feel at ease and cared for from their first appointment request through every step of their dental journey. Your focus on comfort and clear communication really shines.
+I’m reaching out after browsing your website and seeing the thoughtful, patient-first approach you bring to dental care in Nashville. It’s clear you’re passionate about helping patients feel comfortable and informed, whether they’re booking a first visit or considering advanced treatment like implants.
 
-I’m Zac Slay, founder of SlayDigital.ai. We create simple AI chat agents that embed directly on your website, helping visitors quickly find answers using your existing content—without adding complexity or taking away from your personal touch.
+I wanted to share something practical that can help make your website even more welcoming for new and existing patients: a custom AI web agent from SlayDigital.ai. Our simple, embedded chat agent helps visitors find answers instantly—using information already on your site—so your team spends less time on repeat questions and your patients get clarity right away.
 
-I set up a quick demo using a mock version of your site: https://slaydigital.fly.dev/site/www_bellemeadedental_com. Just click the chat icon in the bottom-right, open the chat box, and try asking questions—your AI agent responds instantly from your site content.
+I’ve set up a quick demo using your own site:  
+https://slaydigital.fly.dev/site/www_bellemeadedental_com  
+Click the chat icon in the bottom right to open the chat box and ask a question—no forms or logins needed.
 
 You can try asking things like:
-- What types of dental services do you offer?
-- How can a new patient schedule an appointment?
-- Who are the dentists on your team?
-- Do you provide sedation options for anxious patients?
-- Where is your office located in Nashville?
+- What dental implant options are available, and how do they work?
+- Do you offer sedation for anxious patients?
+- How do I schedule a new patient appointment or consultation?
+- What’s included in your cosmetic dentistry services?
+- Do you accept dental insurance or offer payment plans?
 
-If you think this could help streamline questions for your staff or create a smoother experience for potential patients, I’d be happy to chat further—no pressure at all.
+If you’d like to discuss how this could fit seamlessly onto your real website, just reply or let me know a good time to connect—no pressure at all.
 
-Warm regards,  
-Zac Slay  
-Founder, SlayDigital.ai
+Thanks for everything you do for Nashville smiles,
+Zac  
+SlayDigital.ai

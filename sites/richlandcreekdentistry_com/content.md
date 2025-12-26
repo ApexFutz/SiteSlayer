@@ -276,46 +276,9 @@ Contact  [(615) 383-1444](tel:(615) 383-1444)
 [Call Us](tel:(615) 383-1444)  [Text Us](sms:frontdesk@richlandcreekdentistry.com)
 
 
-
-
-
-
-
 ![true](//insight.adsrvr.org/track/conv/?adv=3t3ns82&ct=0:xra64fu&fmt=3)![true](//insight.adsrvr.org/track/evnt/?adv=3t3ns82&ct=0:96002x5&fmt=3)
 
 Notifications
-
----
-
-Your kind words help us help others.
-
-If you enjoyed your experience with our practice, please select one or more of the review sites below, and tell us about it! It only takes a few minutes, and we appreciate your feedback.
-
-[![Reviews](/wp-content/uploads/2022/08/google-review-us-smaller.png)](https://g.page/RichlandCreekDentistry/review) [![Reviews](/wp-content/uploads/2022/08/facebook.png)](https://www.facebook.com/Richland-Creek-Family-Dentistry-452808288240830/reviews/?ref=page_internal) [![Reviews](/wp-content/uploads/2022/08/yelp-review-us-smaller.png)](https://www.yelp.com/biz/west-robert-l-dds-nashville) [![Reviews](/wp-content/uploads/2022/08/healthgrades.png)](http://www.healthgrades.com/dentist/dr-tim-mcnutt-zc855#tab=patient-ratings&scrollTo=QualitySurveyResults_anchor)
-
-Provided for [Tim McNutt Jr](https://local.demandforce.com/b/richlandcreekfamilydentistry) by ![Reviews](https://local.demandforce.com/v2/b/images/demandforce_logo_pms-sm.png)
-
----
-
-![New Patients](/wp-content/uploads/2022/08/operatory-picture.jpg)
-
-Here at Richland Creek Family Dentistry, we love meeting new patients. Part of easing your concerns is explaining what you can expect from our practice. When you are new to our office, we put in the effort to provide you with a positive and comforting experience. Once you have been with us for a while, you can continue to expect the highest level of service. We focus on providing quality dental care, excellent customer service, and a relaxing environment to maintain a lasting patient relationship. We consider your first visit the start of a long-term relationship with you.
-
-During your initial appointment, we will perform various tests to assess the condition of your oral health and to create a dental plan based on your unique, individual needs. We look forward to meeting you!
-
-For more information on your initial visit or to [request an appointment](/appointments/), please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
-
----
-
-****We collect for all services up front at time of service.****
-
-****Insurance and Billing****
-
-Dental insurance is not necessary to receive great care at Richland Creek Family Dentistry. Please see our Savings Plan tab for additional information regarding our in-office savings plan for patients without insurance coverage. As a courtesy, we are an in-network provider with many PPO plans and will file insurance on your behalf for those plans.
-
-****Payment Options****
-
-We accept cash, check, Visa, Mastercard, Discover, and American Express. Please note there is a 3% fee on any card transactions. Care Credit is also an available option for convenient treatment financing. Please call [615-383-1444](tel:(615) 383-1444) for details.
 
 ---
 
@@ -361,22 +324,6 @@ We accept cash, check, Visa, Mastercard, Discover, and American Express. Please 
 Tooth pain is never convenient. We understand your time is valuable and you need real solutions quickly. Walk-ins are welcome and you can also call our office and we will get you out of pain.
 
 If you have a life-threatening or severe injury, call 911 or go directly to the nearest hospital emergency room. We can treat a variety of traumatic dental injuries, including teeth that have been chipped, moved, or knocked out entirely. Please call our office for assistance at [(615) 383-1444](tel:(615) 383-1444).
-
----
-
-![Emergency Care](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/dental-00.jpg)
-
-Emergencies can, and do, happen at any time. Being prepared and discussing emergency situations with your dentist is the best way to save valuable time and stress in the unfortunate situation of a dental emergency. Knowing what to do can be the difference between losing and saving a tooth. Always have your dentist’s number readily available in the case of an emergency.
-
-You should always contact your dentist right away in an emergency situation. If you lose a permanent tooth, try to keep it moist while you get to the dentist. You can try placing it back in the socket if that is not painful, or between your cheek and gums. If that is not possible, placing it in milk can help improve the chances of saving the tooth.
-
-If you crack a tooth or bite your tongue or lip, rinse your mouth with warm water and apply a cold compress to reduce swelling. For toothaches or objects stuck in your mouth, gently use floss to clean the area and remove any debris. Do not put aspirin on your teeth or gums and never use a sharp object on your teeth.
-
-Wearing a mouthguard during physical activity will help protect your teeth. And avoid chewing foods like ice, popcorn kernels, or hard candy to reduce the chances of cracking a tooth. Also, refrain from cutting or tearing objects with your teeth.
-
-If you have a dental emergency, contact us immediately.
-
- [request an appointment](/appointments/)
 
 ---
 
@@ -456,63 +403,85 @@ With oral conscious sedation, your anxiety will decrease and you’ll feel comfo
 
 ---
 
-![Pediatric Dentistry](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/pediatric-dentistry-13.jpg)
+Richland Creek Family Dentistry offers high-quality family dentistry services to Nashville, TN residents. Our services include preventative dentistry, pediatric and family general dentistry, and cosmetic dentistry. We aim to meet each individual’s needs to maintain and enhance their unique smile. We treat both adults and children.
 
-The importance of a smile cannot be overstated. It boosts immunity, reduces stress, lowers blood pressure, and socially draws others to you.
+Visit us today for the best cosmetic dentistry services in the greater Nashville area.
 
-We, like you, give utmost care to your child’s smile. We offer high-quality pediatric dental care in the greater Nashville area. Our team has vast experience and knowledge to maintain a beautiful smile on our children, helping them take advantage of this gift.
+## **Why the Need for Cosmetic Dentistry?**
 
-## Why do you need pediatric dentistry?
+Our dental practice is open to anyone looking for a way to enhance their smile. We understand how a great smile can improve one’s confidence, and we are here to help you get your desired smile. Your smile is already uniquely beautiful, and we offer services to help enhance its beauty.
 
-Pediatric dentistry is very important. Conveniently located in the Nashville area, we have the experience necessary to undertake specific procedures effectively while keeping your child comfortable. We offer an excellent experience to enable your child to develop a healthy approach to dentistry throughout their life.
+Some of the comprehensive cosmetic dentistry services we offer include:
 
-### We offer
+- Whitening: In-office or At-home
+- Veneers
+- Dental Implants
+- Clear Aligner Braces
+- Dentures: Complete or Partial
 
-- **Dental cleanings:** We will examine your child’s medical history and dental health state. Our interventions will maintain overall good dental health.
-- **Fillings:**We will keep an excellent cosmetic look using fillings that match your child’s teeth’s natural color where necessary.
-- **Extraction:** Primary teeth are essential to maintain good dental spacing. We will make tooth extraction comfortable for your child and maintain proper spacing.
-- **Dental crowns:**Untreated tooth decay could cause significant damage to the dentin, enamel, and nerves (pulp). Where color-matching fillings are not optional, we will restore your child’s teeth with appropriate dental crowns.
+Here are some benefits of cosmetic dentistry:
 
-## Who is suited for pediatric dentistry?
+- Easy modification of size and shape of teeth for proper alignment
+- Cover any spaces between teeth
+- Whiten discolored teeth
+- Correct any bite issues
+- Replace missing teeth
+- Fix broken or chipped teeth
 
-Every child is suited for pediatric dentistry. It will help if you get regular pediatric dentist visits to enable your child to maintain excellent dental health. At Richland Creek Family Dentistry, we will identify and treat infections early to ensure your child stays comfortable. Our interventions will also prevent premature tooth loss.
+## **Is Cosmetic Dentistry for You?**
 
-## What are the benefits of pediatric dentistry?
+Apart from giving you a perfect smile, cosmetic dentistry can also fix a number of dental issues, including:
 
-Our preventative care for children from a young age ensures that they enjoy the following benefits:
+- Excessive gum tissue
+- Gaps or spaces between teeth
+- Chipped or cracked teeth
+- Crooked tooth orientation
+- Uneven teeth sizes and shapes
+- Missing teeth
 
-Enables them to speak and eat comfortably.  
-Improves their dental comfort.  
-Reduces the need for braces later on.
+Cosmetic dentistry can also help you avoid some dental problems. For example, when you have a chipped or broken tooth repaired with cosmetic dentistry, you’ll also have prevented dental decay from arising later.
 
-## Contact Richland Creek Family Dentistry to Find Out How We Can Improve Your Smile
+## **Why Choose Richland Creek Dentistry?**
 
-We understand how important it is to maintain good dental health for your child. Additionally, we know how busy your schedule could be; reaching us in Nashville is as simple as filling out a form. Our preventative approach will enable your child to maintain a beautiful smile besides being comfortable and healthy.
+Our aim at Richland Creek Family Dentistry is to give you a great smile and help you meet every day with a happy, confident smile. Also, it’s not just about aesthetics with us. We’ll improve your smile while taking care of your oral health too.
 
-[Contact us](/contact) today to get your child the professional dental care services they deserve.
+Our dental team keeps up with new procedures and techniques and are updated on any recent trends in the field to give you the best care available. Therefore, you can trust our practitioners with the responsibility to care for your teeth.
+
+You don’t have to take our word for it; let our reviews speak for us:
+
+> Williama, Kingston Springs  
+> Went in Wednesday AM for a scheduled cleaning. Was greeted and seen promptly. Everyone there was cheerful, and respectful. My hygienist was quick, thorough and pleasant. Dr. McNutt was his normal friendly self. I am very satisfied with Dr. McNutt and all of his staff. I have always been treated very well at this practice. Apr 14, 2022
+
+> Lisat, Nashville  
+> Everyone is so nice and helps me with my fears. Took time to explain everything to me. Very friendly and professional. I really appreciate that. Thank you. Mar 30, 2022
+
+## **What to Expect from Cosmetic Dentistry by Richland Creek Dentistry?**
+
+Cosmetic dentistry offers you the opportunity to show your smile proudly. Our dental team is highly skilled, friendly, and have years of experience in the field, so you have absolutely nothing to worry about while under their care.
+
+While at our facility, we take it upon ourselves to educate you on the procedures and give you different approaches on how we can improve your smile. We also understand that dental appointments can be a little overwhelming for some people, so we put our best efforts to reassure you, answer any questions you may have, and ensure you’re comfortable through the entire process.
+
+## **Contact Richland Creek Family Dentistry to Find Out How We Can Improve Your Smile**
+
+A beautiful and warm smile can significantly boost your esteem and confidence. At Richland Creek Family dentistry we ensure every Nashville resident gets the best dental care and is satisfied with their smile.
+
+[Contact us](/contact) today to book your appointment, and let us give you the confidence to smile. We look forward to catering to your dental needs.
 
 ---
 
-You’ve no doubt heard it said that an ounce of prevention is worth a pound of cure. In dentistry, you might say it’s worth two pounds. Maybe even thousands of dollars. That’s because dental problems can become exponentially more expensive — and painful — the longer they go unaddressed. Fortunately, modern dentistry has many easy and relatively inexpensive ways to make sure that today’s minor annoyance does not turn into tomorrow’s major headache.
+![Emergency Care](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/dental-00.jpg)
 
-Preventive dentistry describes all the procedures used to arrest tooth decay and other diseases in the earliest stages. The goal is to keep you as healthy as possible and maintain your natural teeth for life.
+Emergencies can, and do, happen at any time. Being prepared and discussing emergency situations with your dentist is the best way to save valuable time and stress in the unfortunate situation of a dental emergency. Knowing what to do can be the difference between losing and saving a tooth. Always have your dentist’s number readily available in the case of an emergency.
 
-## Preventive Dentistry Procedures
+You should always contact your dentist right away in an emergency situation. If you lose a permanent tooth, try to keep it moist while you get to the dentist. You can try placing it back in the socket if that is not painful, or between your cheek and gums. If that is not possible, placing it in milk can help improve the chances of saving the tooth.
 
-Preventive dentistry procedures range from the most basic services that have been used successfully for decades, to recent technological innovations. These procedures include:
+If you crack a tooth or bite your tongue or lip, rinse your mouth with warm water and apply a cold compress to reduce swelling. For toothaches or objects stuck in your mouth, gently use floss to clean the area and remove any debris. Do not put aspirin on your teeth or gums and never use a sharp object on your teeth.
 
-- **Cleanings**. This is where dental health starts. There’s just no substitute for physically removing disease-causing dental plaque and calculus (tartar) from your teeth — especially in hard-to-reach areas near the gum line. That’s why regular professional cleanings are so important to your health.
-- **Dental Sealants**. These invisible plastic coatings fill the tiny grooves in back teeth so they do not become havens for bacteria. They prevent cavities from forming and the need for fillings later on.
-- **Fluoride**. This mineral is readily incorporated into the teeth’s mineral structure, thereby making them stronger and more decay-resistant. Fluoride can even reverse tiny cavities that are starting to form. If you are not getting enough from your toothpaste and drinking water, it can be applied directly to your teeth at the dental office.
-- **Laser Decay Diagnosis**. Laser light can be used to detect early tooth decay quickly and easily, right in the dental office — before full-blown cavities form.
-- **Mouthguards**. Athletic mouthguards are designed to absorb and distribute the forces of impact and minimize traumatic injury to both the hard and soft tissues of the mouth. In fact, an athlete is 60 times more likely to suffer harm to teeth when not wearing a mouthguard. The best ones are custom-made for you by your dentist.
-- **Oral Cancer Screenings**. Your best chance of surviving oral cancer — a disease that affects not only lifelong smokers but also young non-smokers — is early detection and treatment. Oral cancer screenings are a routine part of every regular dental exam.
-- **Salivary Diagnostics**. This is an exciting new development in the field of preventive dentistry. While it is in its infancy, it is already possible to detect the presence of certain diseases with a saliva test, and the technology is developing rapidly.
-- **X-Rays**. For around a century, dentists have been using x-rays to reveal signs of disease not visible to the naked eye. Now, with CAT scans, they have become three-dimensional and are an indispensable tool to diagnose tooth decay, gum disease, bone density, bone volume and tumors.
+Wearing a mouthguard during physical activity will help protect your teeth. And avoid chewing foods like ice, popcorn kernels, or hard candy to reduce the chances of cracking a tooth. Also, refrain from cutting or tearing objects with your teeth.
 
-## Your Role in Preventing Dental Disease
+If you have a dental emergency, contact us immediately.
 
-There’s one more extremely important component of preventive dentistry: you. The procedures mentioned above can only be effective if you come in to the dental office to take advantage of them. Likewise, the importance of maintaining a good oral hygiene routine at home cannot be overstated. Daily effective brushing and flossing will go a long way toward removing the dental plaque responsible for dental disease, tooth loss, and the need for more complex dental treatment.
+ [request an appointment](/appointments/)
 
 ---
 
@@ -601,6 +570,69 @@ Are you seeking teeth whitening services in the [Nashville](https://www.nashvil
 
 ---
 
+![New Patients](/wp-content/uploads/2022/08/operatory-picture.jpg)
+
+Here at Richland Creek Family Dentistry, we love meeting new patients. Part of easing your concerns is explaining what you can expect from our practice. When you are new to our office, we put in the effort to provide you with a positive and comforting experience. Once you have been with us for a while, you can continue to expect the highest level of service. We focus on providing quality dental care, excellent customer service, and a relaxing environment to maintain a lasting patient relationship. We consider your first visit the start of a long-term relationship with you.
+
+During your initial appointment, we will perform various tests to assess the condition of your oral health and to create a dental plan based on your unique, individual needs. We look forward to meeting you!
+
+For more information on your initial visit or to [request an appointment](/appointments/), please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
+
+---
+
+****We collect for all services up front at time of service.****
+
+****Insurance and Billing****
+
+Dental insurance is not necessary to receive great care at Richland Creek Family Dentistry. Please see our Savings Plan tab for additional information regarding our in-office savings plan for patients without insurance coverage. As a courtesy, we are an in-network provider with many PPO plans and will file insurance on your behalf for those plans.
+
+****Payment Options****
+
+We accept cash, check, Visa, Mastercard, Discover, and American Express. Please note there is a 3% fee on any card transactions. Care Credit is also an available option for convenient treatment financing. Please call [615-383-1444](tel:(615) 383-1444) for details.
+
+---
+
+For patients without dental insurance coverage, Richland Creek Family Dentistry offers an in-office savings plan. Our individual in-office savings plan is non-transferrable, non-refundable and expires one year from date of purchase.
+
+**Individual Routine Cleaning Plan – $350**
+
+**Coverage Includes:**
+
+- 2 Routine Cleanings
+- 2 Exams at your cleanings
+- All necessary X-Rays
+
+**20% off the following procedures:**
+
+- Full Mouth Debridement (FMD)
+- Root Canal Therapy
+- Fillings
+- Extractions
+- Crowns
+- Fixed bridges
+- Dentures and Partials
+
+**Individual Periodontal Maintenance Plan – $450**
+
+**Coverage Includes:**
+
+- 4 Periodontal Maintenance Cleanings
+- 2 Exams at your cleanings
+- All necessary X-Rays
+
+**20% off the following procedures:**
+
+- Scaling and Root Planing (SRP)
+- Full Mouth Debridement (FMD)
+- Root Canal Therapy
+- Fillings
+- Extractions
+- Crowns
+- Fixed bridges
+- Dentures and Partials
+
+---
+
 **Richland Creek Family Dentistry**
 
 406 Morrow Rd.   
@@ -610,7 +642,7 @@ Are you seeking teeth whitening services in the [Nashville](https://www.nashvil
 
 **Send Us A Message**
 
-- URL
+- LinkedIn
 
   This field is for validation purposes and should be left unchanged.
 - Name*
@@ -628,83 +660,22 @@ Wed: 8 am – 4 pm
 
 ---
 
-- Email
+![About](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/reception20area201.jpg)
 
-  This field is for validation purposes and should be left unchanged.
-- Name*
-- Phone*
-- Email*
-- Preferred Date
+Here at Richland Creek Family Dentistry, we believe that a smile tells a thousand words, and we are dedicated to giving our patients high-quality dental care. We offer a full range of dental services, so all of your family’s needs are met under one roof.
 
-  MM slash DD slash YYYY
-- Preferred Time
+Our goal is for you to leave our office with a memorable and enjoyable dental experience, which is why our welcoming and compassionate staff will do everything they can to make you feel right at home.
 
-  MorningAfternoonEvening
-- Message*
-- Please use this form for general information purposes only. DO NOT send personal health information through this form. Specific patient care must be addressed during your appointment.  
-    
-  Please complete the following form to request an appointment. Please also note that availability will vary depending on your request. Your appointment will be confirmed by phone by a member of our staff. Thank you!
+If you are looking to brighten and enhance your smile, please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
 
 ---
 
-## **Pages**
+## Tim McNutt, DDS
 
-- [About](https://richlandcreekdentistry.com/about/)
-- [Accessibility](https://richlandcreekdentistry.com/accessibility/)
-- [Appointments](https://richlandcreekdentistry.com/appointments/)
-- [Contact](https://richlandcreekdentistry.com/contact/)
-- [Cosmetic Dentistry in Nashville, TN](https://richlandcreekdentistry.com/cosmetic-dentistry/)
-- [Emergency Care](https://richlandcreekdentistry.com/emergency-care/)
-- [General Dentistry](https://richlandcreekdentistry.com/general-dentistry/)
-- [Home](https://richlandcreekdentistry.com/)
-- [In-Office Savings Plan](https://richlandcreekdentistry.com/in-office-savings-plan/)
-- [Insurance & Payment Options](https://richlandcreekdentistry.com/insurance-payment-options/)
-- [Meet The Doctor](https://richlandcreekdentistry.com/meet-the-doctor/)
-- [New Patients](https://richlandcreekdentistry.com/new-patients/)
-- [Pediatric Dentistry](https://richlandcreekdentistry.com/pediatric-dentistry/)
-- [Preventive Dentistry](https://richlandcreekdentistry.com/preventive-dentistry/)
-- [Reviews](https://richlandcreekdentistry.com/reviews/)
-- [Services](https://richlandcreekdentistry.com/services/)
-- [Sitemap](https://richlandcreekdentistry.com/sitemap/)
-- [Teeth Cleaning in Nashville, TN](https://richlandcreekdentistry.com/teeth-cleaning-in-nashville-tn/)
-- [Teeth Whitening in Nashville, TN](https://richlandcreekdentistry.com/teeth-whitening-in-nashville-tn/)
-- [Thank You](https://richlandcreekdentistry.com/thank-you/)
+#### 
 
----
+Dr. Tim McNutt, Jr. is a native of Nashville, Tennessee. Following his undergraduate education at Lipscomb University, he earned a Doctorate of Dental Surgery from the University of Tennessee – Memphis College of Dentistry. He is an active member of the American Dental Association, Tennessee Dental Association, and Nashville Dental Society; as well as, the American Academy of Cosmetic Dentistry; and the Academy of General Dentistry. In order to provide the best treatment, Dr. McNutt is constantly attending continuing education courses to offer up-to-date and convenient treatments for all your dental needs.
 
-**Overview**  
-At Richland Creek Family Dentistry, we respect the dignity and independence of our guests and we are committed to providing full and equal access to everyone who visits our facility and website. Here’s what you can expect from us:
+Richland Creek Family Dentistry believes in giving back. Dr. McNutt has participated in free dental days, helping to alleviate dental pain in underserved communities. He is also a sustaining contributor to Interfaith Dental Clinic, which provides great dental care on an income based sliding scale. Most of all, Dr. McNutt enjoys working with patients to create and keep beautiful smiles for a lifetime.
 
-**Communication**  
-We are committed to effectively communicating with our guests. We provide, at no charge, auxiliary aids and services which are reasonably necessary to achieve effective communication. We accept Operator Relay Service calls, and Teletypewriter (TTY/TDD) calls through 711, in the same manner as traditional telephonic channels.
-
-**Website Access**  
-We endeavor to develop and update website content using current technologies that effectively communicate with and afford full and equal access to persons with disabilities. We make every effort necessary to meet online usability and design requirements, including those recommended by the World Wide Web Consortium (W3C) in its Web Content Accessibility Guidelines 2.1 as well as requirements under the Twenty-First Century Communications and Video Accessibility Act of 2010.
-
-**Assistive Devices**  
-Our customers and guests are welcome to use their own personal assistive devices to access our merchandise and services. If an assistive device or technology is incompatible with our facilities, we will work with our customers and guests to provide full and equal access through alternative measures.
-
-**Companions and Service Animals**  
-Companions, guide dogs or other service animals are welcome to accompany guests with disabilities while visiting our facility. We will also sensitively, respectfully and discretely provide personal assistance when requested.
-
-**Interruption of Services**  
-If we are temporarily unable to offer any special facilities or services that assist customers and guests with disabilities, we will immediately provide notice of this interruption and the anticipated time when these services will be resumed.
-
-**Training**  
-Our entire staff receives ongoing and documented training in order to properly communicate with and provide sensitive, helpful and respectful assistance to our customers and guests with disabilities.
-
-**Modification of Policies or Procedures**  
-We will make reasonable modifications to our policies or procedures when it is necessary to provide our customers and guests with full and equal access to our facility, website or communications channels.
-
-We are continuously working to improve the accessibility of content on our website. If you are looking for mouse and keyboard alternatives, speech recognition software such as Dragon NaturallySpeaking may help you navigate web pages and online services. This software allows the user to move focus around a web page or application screen through voice controls.
-
-**Customer Feedback**  
-We actively encourage the participation of all customers and guests in our feedback process. In addition to sharing your comments in person, you may also contact us by:
-
-Mail:  
-406 Morrow Rd., Nashville, TN 37209
-
-Email:  
-[frontdesk@richlandcreekdentistry.com](mailto:frontdesk@richlandcreekdentistry.com)
-
-If you feel that these standards have not been maintained in your situation, please let us know by calling: [(615) 383-1444](tel:(615) 383-1444) we gladly accept TRS calls.
+Outside the office, he and his wife enjoy spending time together with their two sons and daughter. He loves Nashville’s rich music history and enjoys listening to the different artists and styles. Dr. McNutt is active leading and serving in church and carries that service into all aspects of his profession.

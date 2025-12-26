@@ -1,22 +1,27 @@
-SUBJECT: Helping Patients Find Answers Faster at Dentistry of Nashville
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Lori | Dentistry of Nashville <lori@dentistryofnashville.com>
+SUBJECT: Helping Nashville Smile—Try a Custom Chat Agent for Your Website
 
-Hi there,
+-----------------------------------------
 
-I’ve been browsing Dentistry of Nashville’s website and was impressed by how your team blends tradition, technology, and a warm, family-friendly touch. Making every patient feel at home is clearly at the heart of your practice.
+Hi Lori,
 
-I’m Zac, founder of SlayDigital.ai. We create simple, custom AI chat agents that sit right on your website—designed to help visitors quickly get clear answers from your site’s own content, without adding extra work for your staff or complexity for your patients.
+I love how Dentistry of Nashville blends family tradition with top-notch technology—it’s clear why patients keep coming back, generation after generation.
 
-To show you what I mean, I set up a quick mock version of your website here: https://slaydigital.fly.dev/site/dentistryofnashville_com. Just click the chat icon in the bottom-right corner to open the chat box, then type any question a visitor might have—the agent responds instantly, pulling from information already on your site.
+I’m Zac from SlayDigital.ai. We help practices like yours reduce repetitive questions and make it even easier for new and returning patients to find the information they need right on your website, with a friendly, custom AI chat agent.
 
-You can try asking things like:
-- “What types of dental services do you provide?”
-- “How does your CEREC same-day crown process work?”
-- “Who are your dentists, and what are their backgrounds?”
-- “What are your office hours and how do I schedule an appointment?”
-- “Do you offer LANAP laser treatment for gum disease?”
+To show you what this looks like, we built a quick mockup using your own site:  
+https://slaydigital.fly.dev/site/dentistryofnashville_com  
+Just click the chat icon at the bottom-right, type a question, and the agent will reply instantly with answers pulled straight from your site content.
 
-If you think this kind of tool could help your patients or free up your team from answering repetitive questions, I’d love to hear your thoughts. No pressure—just let me know if you’d like to chat about it.
+You can try asking things like:  
+• What makes Dentistry of Nashville different from other local practices?  
+• How does CEREC same-day crown technology work?  
+• What is the process for getting dental implants?  
+• What should I expect at my first visit?  
+• Do you offer LANAP laser gum treatment?
 
-Best,  
-Zac Slay  
-SlayDigital.ai
+Would you be interested in seeing how a tool like this could help your team spend less time answering repeat questions—and more time caring for your patients? If so, I’d be happy to chat or give you a quick demo.
+
+Warm regards,  
+Zac

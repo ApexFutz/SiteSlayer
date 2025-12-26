@@ -402,3 +402,45 @@ Dental veneers are thin, porcelain wafers placed over the tooth surface to fix t
 # Clear Aligner Treatment for a Beautiful Smile
 
 Clear aligners are thin, removable plastic mouthpieces that are designed to help guide teeth into their proper position, giving patients an alternative to traditional braces.
+
+---
+
+# Professional Teeth Cleaning Maintains Oral Health
+
+Maintaining good oral health at home is important, but getting your teeth cleaned regularly by your dentist helps detect cavities and early signs of gum disease or oral cancer.
+
+---
+
+# Our Approach
+
+Welcome to Lifetime Dentistry, where we pride ourselves on delivering attentive and patient-centered service in a caring and pleasant environment. With a commitment to utilizing leading-edge technology and procedures, we strive to provide the best dental [services](/services) available. Our treatments are customized to meet your needs, from comprehensive preventative care to transformative restorative work and [cosmetic](/services/cosmetic-dentistry/) solutions. Our ultimate goal is to give you a smile you’ll be eager to share with everyone you meet!
+
+[Schedule  
+Appointment](https://app.nexhealth.com/appt/Imagen-Dental-Partners?lid=122650)
+[Call Now](tel:615-646-5595)
+
+## Meet Our Dentists
+
+Our dedicated dental team is equipped to address even the most complex dental problems all under one roof. At our practice, we prioritize your convenience by providing comprehensive care in a single, convenient location in . You can trust us to save you valuable time and money by eliminating the need for referrals and ensuring that all your dental needs are met in one place.
+
+## Dr. Steven Hernandez
+
+DDS
+
+Dr. Steven Hernandez, an alumnus of the [University of Southern California’s School of Dentistry](https://dentistry.usc.edu/), Class of 2005, stands at the forefront of digital dental technology. As a certified CEREC trainer, he shares his deep expertise through national lectures, particularly in the realm of 3-D imaging and the nuances of digital dentistry. In Tennessee, Dr. Hernandez takes on the pivotal role of Clinical Leader for Imagen Dental Partners, guiding practices to excel in patient care with advanced technologies. His knowledge and passion for education also find him as a resident faculty member at [CDOCS](https://www.cdocs.com/) in Scottsdale, Arizona, a premier resource and continuing education hub for dental professionals. When stepping away from his educational and clinical endeavors, Dr. Hernandez embraces the joy of exploration through travel and stays active with a keen interest in fitness. He enjoys spending quality time with his daughter, you may catch them at the theater enjoying the newest hit movies. It’s this balance of family, fun, and dedication that makes Dr. Hernandez the incredible professional and person we all admire.
+
+[Schedule  
+Appointment](https://app.nexhealth.com/appt/Imagen-Dental-Partners?lid=122650)
+
+![](https://lifetimedentistrytn.com/wp-content/uploads/2025/01/Dr-Hernandez.png)
+
+![Dr Mary Hannah Winstead at Lifetime Dentistry in TN](https://lifetimedentistrytn.com/wp-content/uploads/2025/02/Dr-Winstead.png)
+
+## Dr. Mary Hannah Winstead
+
+DMD
+
+A Tennessee native, Dr. Winstead grew up in Franklin, TN, and earned her Bachelor of Science in Business Administration from [Auburn University](https://www.auburn.edu/) Honors College, graduating Summa Cum Laude. She went on to receive her Doctor of Dental Medicine degree from [Roseman University of Health Sciences](https://www.roseman.edu/) in Utah. After four years out West, she returned home to Middle Tennessee, fulfilling her commitment to the [Tennessee Army National Guard](https://nationalguard.com/tennessee), where she serves as a Captain in a Medical Detachment unit. She is passionate about building lasting patient relationships and is an active member of the [American Dental Association](https://www.ada.org/), [Tennessee Dental Association](https://www.tndental.org/), and [Academy of General Dentistry](https://www.agd.org/). Outside the office, Dr. Winstead enjoys spending time at the lake, hunting, and working on her truck. She looks forward to providing compassionate, high-quality care to her patients at Lifetime Dentistry!
+
+[Schedule  
+Appointment](https://app.nexhealth.com/appt/Imagen-Dental-Partners?lid=122650)

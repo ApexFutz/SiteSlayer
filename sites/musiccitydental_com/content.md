@@ -237,81 +237,38 @@ Dr. Spurlin provides a personal touch to ensure patients develop a key relations
 
 ---
 
-Music City Dental has been phenomenal with helping me on my teeth journey. The staff has been so professional in every aspect of my visits and made me feel as if I am part of the family. Also, if your looking to do Invisalign then consider Music City Dental.”
+![Services](/wp-content/uploads/2018/10/dentistry-116-300x200.jpg)At Music City Dental, we offer a variety of services to care for your mouth. If you have any questions or would like more information on how we can care for your teeth and mouth, please [contact us](/contact/) today.
 
-**D. Dean**
-
----
-
-I am truly grateful to have found Music City Dental. Dr. Terry and her entire staff have always gone above and beyond for my wife and I. They provide excellent care, they prioritize our comfort, and always answer any questions we have about procedures. I have had multiple bad experiences and anxiety with other dentists in the past but now with MCD, I don’t worry at all. Thank you!”
-
-**A. Richards**
+- [Procedure Details](/procedure-details/)
+- [Dental Technologies](/dental-technologies/)
+- [CareCredit](/carecredit/)
+- [Priority Care Membership Club](/priority-care-membership-club/)
 
 ---
 
-Music City Dental is the only dental office that I recommend to all my friends. As someone who had horrible experiences at the dentist when I was younger, I have huge anxiety about going to the dentist. I avoided going to the dentist for way too long which caused some extensive problems. However, from my very first visit to Music City Dental, I knew that this was the place for me.
+![New Patients](/wp-content/uploads/2018/10/dentistry-122-300x234.jpg)We understand that your first visit to the dentist can feel overwhelming and we try to accommodate all new patients with a comfortable and organized facility.
 
-The staff is amazing. From the receptionists at the front desk who remembered my name from the very first visit to the hygienists and dental assistants–everyone did their best to make me feel comfortable. Dr. Spurlin herself is kind and knowledgeable and always takes the time to make sure that I’m comfortable and calm. She didn’t make me feel guilty or ashamed about the work that I needed done but laid out a plan to help me get healthy.
-
-I love Music City Dental and never plan to go anywhere else.”
-
-**K. Watkins**
+Our staff has taken the steps to prepare you for the first appointment by providing a full spectrum of the services we offer and the option to complete our new patient form prior to your visit. Our goal is to cover everything you need with a full and efficient assessment, but without waiting to see the doctor.
 
 ---
 
-Nashville Dentist Testimonials – Read what patients and peers say about Dr. Spurlin and her team.
+#### Music City Dental
 
-“This is the most professional and relaxing dentist I have ever been to. I usually have anxiety about going to the dentist, but not since I’ve started going here. I actually look forward to seeing the staff and Dr. Spurlin is awesome.”
+[808 Kirkwood Ave  
+Nashville, TN 37204](https://goo.gl/maps/Xy1ckxsn4j4m7qRUA)
 
-**C. Jennings**
+[(615) 953-2469](tel:(615) 953-2469)
 
----
+**Follow Us On:**
 
-Frist the facility is beautiful and quaint…. Being new to Tennessee my search was very intentional and thought out because of past bad experiences with dentists…. I have always had dental anxiety but when I entered inside the karma I felt was an overwhelming calm, that I was not aware of initially, until my consultation with the doctor, (to my surprise) that’s my assurance I came to the right place…. The doctors and staff are very professional and beautiful people…. Dr Terry and Dr Mohammed they listened and heard my concerns, made recommendations over and beyond…. I highly recommend them all which make up the staff and doctors, I’m very pleased and trust I’m that person who is an advocate for my own health and well-being I listen and let it be known what’s for my good… I can go on and on this was my first visit, and I will gladly come back after I’ve been there for a while to see if all my expectations remain.. thank you Music City dentistry….. I love you guys already”
+**Business Hours:**
 
-**Z. Calhoun**
-
----
-
-“Worldclass service! Can’t find another practice that comes close to the level of expertise and professionalism I experience here.”
-
-**C. Jennings**
-
----
-
-“Up to this point in my life I’ve only had the pleasure of dealing with military dentists, so walking into Dr. Spurlin’s office was a bit of a nice surprise. Before getting started, the dental tech showed me around the office. She then showed me to the consultation room where the doc had actually written me a card welcoming me to the “family”. They genuinely seemed to want to my business and cared about me as a flosser. Once we got started (after offering me a pillow and a blanket) Dr. Spurlin took the time to explain everything to me; what my options were, when to expect what– all in terms that I could understand. When I left, the scheduler looked at my insurance and explained to me everything on the treatment plan that would or would not be covered (I won’t be waiting another 8 years to to go a dentist again!!). On my way out I made an initial appointment for my wife – on a Saturday. Good place and the best dentist I’ve ever been to!”
-
-**Robb B.**
-
----
-
-This was by far the best dental experience I’ve ever had! From their convenient hours and relaxing environment, to the education and time they take to let you know exactly what’s going on with your treatment, Dr. Spurlin and her staff truly go above and beyond to make sure that you are comfortable and informed. I’ve finally found a dental practice that makes my comfort and needs a top priority.
-
-**Kris M.**
-
----
-
-Dr. Terry’s dental care is like another day in the mall. You leave with a smile and more confidence than when you walked in. She’s gentle and extremely sensitive of her patient’s needs.
-
-**Amber M.**
-
----
-
-Dr. Terry is compassionate and confident in her skills. She ensures each of her patients a sense of comfort while beginning and ending each visit with a smile.
-
-**Alma M.**
-
----
-
-Dr. Spurlin has been my dentist for several years and I have enjoyed the experience. From a person who avoids dentists and doctors she has made my experience informative and pleasant. She is very knowledgeable and very thorough with making sure you understand what is going on and what your options are.
-
-**Ursula H.**
-
----
-
-As a cardiologist who understands the link between heart disease and periodontal health, It is very important to me to have a dentist who is progressive and very knowledgeable. Dr. Spurlin is an excellent dentist and I trust her with all of my dental care.
-
-**Scott E. MD, Vanderbilt Cardiology**
+Monday: 7:00am-4:30pm  
+Tuesday: 7:00am-4:30pm  
+Wednesday: 7:00am-4:30pm  
+Thursday: 7:00am-4:30pm  
+Friday: (By appointment only)  
+Saturday – Sunday: Closed
 
 ---
 
@@ -426,68 +383,81 @@ Outside of the office, I enjoy spending quality time with my daughter, exploring
 
 ---
 
-![New Patients](/wp-content/uploads/2018/10/dentistry-122-300x234.jpg)We understand that your first visit to the dentist can feel overwhelming and we try to accommodate all new patients with a comfortable and organized facility.
+Music City Dental has been phenomenal with helping me on my teeth journey. The staff has been so professional in every aspect of my visits and made me feel as if I am part of the family. Also, if your looking to do Invisalign then consider Music City Dental.”
 
-Our staff has taken the steps to prepare you for the first appointment by providing a full spectrum of the services we offer and the option to complete our new patient form prior to your visit. Our goal is to cover everything you need with a full and efficient assessment, but without waiting to see the doctor.
-
----
-
-![New Patient Forms](/wp-content/uploads/2018/10/dentistry-112-300x200.jpg)At Music City Dental, we offer patient forms online so you can complete them in the convenience of your own home or office. Fax us your printed and completed forms or you may bring them during your visit.
-
-[New Patient Registration Form – Download & Print Form](/wp-content/uploads/2018/10/1a.-New-Patient-forms-all-6-pages2016MCDUSE-ONLY-1-2.pdf)
-
-If you do not have AdobeReader® installed on your computer, [Click Here To Download](https://get.adobe.com/reader/).
+**D. Dean**
 
 ---
 
-### Are you living without Dental Insurance?
+I am truly grateful to have found Music City Dental. Dr. Terry and her entire staff have always gone above and beyond for my wife and I. They provide excellent care, they prioritize our comfort, and always answer any questions we have about procedures. I have had multiple bad experiences and anxiety with other dentists in the past but now with MCD, I don’t worry at all. Thank you!”
 
-Our in-office plan is an affordable program designed for those living without insurance, but understand the importance of routine care. With our membership program, you no longer have to worry about not having insurance to maintain the routine care needed to keep your teeth and gums clean and healthy. As an added bonus, it allows for a 15% discount off of other services.
+**A. Richards**
 
-[(Download Brochure)](/wp-content/uploads/2018/10/MCD-in-office-plan-brochure.pdf)
+---
 
-**What does membership include?**
+Music City Dental is the only dental office that I recommend to all my friends. As someone who had horrible experiences at the dentist when I was younger, I have huge anxiety about going to the dentist. I avoided going to the dentist for way too long which caused some extensive problems. However, from my very first visit to Music City Dental, I knew that this was the place for me.
 
-- For a flat annual fee, you and your family will receive:
-- Two Dental Cleanings (Healthy gums) Included
-- Two Oral Exams Included
-- Periodontal Evaluation Included
-- Oral Cancer Screening Included
-- Cavity Detection Digital X-Rays Included
-- Additional Dental Cleaning Reduced 15 %
-- Emergency Office Visit Reduced 15 %
-- Periodontal Disease Care (Unhealthy Gums) Reduced 15 %
-- All General Dentistry Procedures Reduced 15 %
-- NO Yearly Maximums!
-- NO Deductibles!
-- NO Pre-existing Exclusions!
-- Fees are based on the usual and customary fee at time of service.
+The staff is amazing. From the receptionists at the front desk who remembered my name from the very first visit to the hygienists and dental assistants–everyone did their best to make me feel comfortable. Dr. Spurlin herself is kind and knowledgeable and always takes the time to make sure that I’m comfortable and calm. She didn’t make me feel guilty or ashamed about the work that I needed done but laid out a plan to help me get healthy.
 
-**What’s does membership cost?**  
-Single Adult $435 | Children (14 and under) $325 | Periodontal Membership $599
+I love Music City Dental and never plan to go anywhere else.”
 
-- 12-month membership fee is due, in full, upon joining
-- Membership is effective immediately
-- It is the sole responsibility of the member to maximize their benefits by arranging all the appropriate appointments within the 12-month membership period. If appointments are not used, the member will not be entitled to a refund.
-- Renewal payment is due on the anniversary date each year.
-- The anniversary month of membership is the month that you originally joined, regardless of when payment is received.
+**K. Watkins**
 
-**Are you living without Dental Insurance?**
+---
 
-Our in-office plan is an affordable program designed for those living without insurance, but understand the importance of routine care. With our membership program, you no longer have to worry about not having insurance to maintain the routine care needed to keep your teeth and gums clean and healthy. As an added bonus, it allows for a 15% discount off of other services.
+Nashville Dentist Testimonials – Read what patients and peers say about Dr. Spurlin and her team.
 
-**For Your Convenience**
+“This is the most professional and relaxing dentist I have ever been to. I usually have anxiety about going to the dentist, but not since I’ve started going here. I actually look forward to seeing the staff and Dr. Spurlin is awesome.”
 
-- All Major Credit Cards Welcome!
-- Care Credit Accepted! (percentage of discount reduced to 5%)
-- Same day appointments available!
+**C. Jennings**
 
-**Exclusions**
+---
 
-- Membership is NOT dental insurance. It can only be used at Music City Dental.
-- Membership is non-transferable.
-- Membership cannot be combined with any other discounts or dental plan insurance coverage.
-- Discounts under the membership plan do not apply to prior treatment.
+Frist the facility is beautiful and quaint…. Being new to Tennessee my search was very intentional and thought out because of past bad experiences with dentists…. I have always had dental anxiety but when I entered inside the karma I felt was an overwhelming calm, that I was not aware of initially, until my consultation with the doctor, (to my surprise) that’s my assurance I came to the right place…. The doctors and staff are very professional and beautiful people…. Dr Terry and Dr Mohammed they listened and heard my concerns, made recommendations over and beyond…. I highly recommend them all which make up the staff and doctors, I’m very pleased and trust I’m that person who is an advocate for my own health and well-being I listen and let it be known what’s for my good… I can go on and on this was my first visit, and I will gladly come back after I’ve been there for a while to see if all my expectations remain.. thank you Music City dentistry….. I love you guys already”
+
+**Z. Calhoun**
+
+---
+
+“Worldclass service! Can’t find another practice that comes close to the level of expertise and professionalism I experience here.”
+
+**C. Jennings**
+
+---
+
+“Up to this point in my life I’ve only had the pleasure of dealing with military dentists, so walking into Dr. Spurlin’s office was a bit of a nice surprise. Before getting started, the dental tech showed me around the office. She then showed me to the consultation room where the doc had actually written me a card welcoming me to the “family”. They genuinely seemed to want to my business and cared about me as a flosser. Once we got started (after offering me a pillow and a blanket) Dr. Spurlin took the time to explain everything to me; what my options were, when to expect what– all in terms that I could understand. When I left, the scheduler looked at my insurance and explained to me everything on the treatment plan that would or would not be covered (I won’t be waiting another 8 years to to go a dentist again!!). On my way out I made an initial appointment for my wife – on a Saturday. Good place and the best dentist I’ve ever been to!”
+
+**Robb B.**
+
+---
+
+This was by far the best dental experience I’ve ever had! From their convenient hours and relaxing environment, to the education and time they take to let you know exactly what’s going on with your treatment, Dr. Spurlin and her staff truly go above and beyond to make sure that you are comfortable and informed. I’ve finally found a dental practice that makes my comfort and needs a top priority.
+
+**Kris M.**
+
+---
+
+Dr. Terry’s dental care is like another day in the mall. You leave with a smile and more confidence than when you walked in. She’s gentle and extremely sensitive of her patient’s needs.
+
+**Amber M.**
+
+---
+
+Dr. Terry is compassionate and confident in her skills. She ensures each of her patients a sense of comfort while beginning and ending each visit with a smile.
+
+**Alma M.**
+
+---
+
+Dr. Spurlin has been my dentist for several years and I have enjoyed the experience. From a person who avoids dentists and doctors she has made my experience informative and pleasant. She is very knowledgeable and very thorough with making sure you understand what is going on and what your options are.
+
+**Ursula H.**
+
+---
+
+As a cardiologist who understands the link between heart disease and periodontal health, It is very important to me to have a dentist who is progressive and very knowledgeable. Dr. Spurlin is an excellent dentist and I trust her with all of my dental care.
+
+**Scott E. MD, Vanderbilt Cardiology**
 
 ---
 
@@ -582,144 +552,80 @@ One of our newest pieces of equipment is our iTero 3D scanner. It allows us to t
 
 ---
 
-Ready to apply for CareCredit? Click the image below:
+### Are you living without Dental Insurance?
 
-[![CareCredit](/wp-content/uploads/2018/10/CareCredit-Dentist-Nashville.jpg)](https://www.carecredit.com/apply/confirm.html?encm=AmMCOwZkAmcGOlUxUmYAaQU_VzIAb1doVTJSYFU6Aj8)
+Our in-office plan is an affordable program designed for those living without insurance, but understand the importance of routine care. With our membership program, you no longer have to worry about not having insurance to maintain the routine care needed to keep your teeth and gums clean and healthy. As an added bonus, it allows for a 15% discount off of other services.
 
----
+[(Download Brochure)](/wp-content/uploads/2018/10/MCD-in-office-plan-brochure.pdf)
 
-### Recent Posts
+**What does membership include?**
 
-#### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/)
+- For a flat annual fee, you and your family will receive:
+- Two Dental Cleanings (Healthy gums) Included
+- Two Oral Exams Included
+- Periodontal Evaluation Included
+- Oral Cancer Screening Included
+- Cavity Detection Digital X-Rays Included
+- Additional Dental Cleaning Reduced 15 %
+- Emergency Office Visit Reduced 15 %
+- Periodontal Disease Care (Unhealthy Gums) Reduced 15 %
+- All General Dentistry Procedures Reduced 15 %
+- NO Yearly Maximums!
+- NO Deductibles!
+- NO Pre-existing Exclusions!
+- Fees are based on the usual and customary fee at time of service.
 
-As we celebrate Black History Month we wanted to...
+**What’s does membership cost?**  
+Single Adult $435 | Children (14 and under) $325 | Periodontal Membership $599
 
-#### [The Acidity of Many Drinks Can Cause Harm to Your Teeth](https://musiccitydental.com/the-acidity-of-many-drinks-can-cause-harm-to-your-teeth/)
+- 12-month membership fee is due, in full, upon joining
+- Membership is effective immediately
+- It is the sole responsibility of the member to maximize their benefits by arranging all the appropriate appointments within the 12-month membership period. If appointments are not used, the member will not be entitled to a refund.
+- Renewal payment is due on the anniversary date each year.
+- The anniversary month of membership is the month that you originally joined, regardless of when payment is received.
 
-Soft drinks are bad for you, and that is...
+**Are you living without Dental Insurance?**
 
-#### [Sedation Dentistry in Nashville, TN: Understanding what it is and when it’s right for you](https://musiccitydental.com/sedation-dentistry-in-nashville-tn-understanding-what-it-is-and-when-its-right-for-you/)
+Our in-office plan is an affordable program designed for those living without insurance, but understand the importance of routine care. With our membership program, you no longer have to worry about not having insurance to maintain the routine care needed to keep your teeth and gums clean and healthy. As an added bonus, it allows for a 15% discount off of other services.
 
-Visiting the dentist is a phobia for many people...
+**For Your Convenience**
 
-#### [ToothBrush Trivia from Music City Dental](https://musiccitydental.com/toothbrush-trivia-from-music-city-dental/)
+- All Major Credit Cards Welcome!
+- Care Credit Accepted! (percentage of discount reduced to 5%)
+- Same day appointments available!
 
-...
+**Exclusions**
 
-#### [Back to School Dental Care Tips](https://musiccitydental.com/back-to-school-dental-care-tips/)
-
-It’s that joyous time of the year for parents...
-
-## *As we celebrate Black History Month we wanted to share some information on the Nashville Sit-Ins and their importance to the civil rights movement.*
-
-## *Dr. Terry Spurlin-Moore’s cousin Novella Page was one of the young people who protested through non-violence the racial segregation of Nashville.*
-
-## *The following article goes into depth the events of that protest*
-
-The Nashville Sit-Ins, which lasted from February 13 to May 10, 1960, were among the earliest non-violent direct action campaigns in the 1960s to end racial segregation in the South. They were the first campaigns to desegregate lunch counters in Nashville, Tennessee. The sit-in campaign was coordinated by the Nashville Student Movement and Nashville Christian Leadership Council, which was made up primarily of students from Fisk University, American Baptist Theological Seminary, and Tennessee State University. Diane Nash and John Lewis, who were both students at Fisk University, emerged as the major leaders of the local movement.
-
-![Dr. Terry Spurlin-Moore's cousin Novella Page (center with glasses) participated in the Nashville Sit-Ins. (Image Courtesy of the Library of Congress)](https://musiccitydental.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-01-at-6.59.18-AM.png)
-
-Dr. Terry Spurlin-Moore’s cousin Novella Page (center with glasses) participated in the Nashville Sit-Ins. (Image Courtesy of the Library of Congress)
-
-On February 13, 1960, twelve days after the Greensboro sit-ins occurred, local college students entered S.H. Kress, Woolworth’s, and McClellan stores at 12:40 p.m. in downtown Nashville. After making their purchases at the stores, the students sat-in at the lunch counters. Store owners initially refused to serve the students and closed the counters, claiming it was their “moral right” to determine whom they would or would not serve. The students continued the sit-ins over the next three months, expanding their targets to include lunch counters at the Greyhound and Trailways bus terminals, Grant’s Variety Store, Walgreens, and major Nashville department stores, Cain-Sloan and Harvey.
-
-The first violent response to the protests came on February 27, which James Lawson, Jr., another protest leader, called “big Saturday.” The protesters that day were attacked by a white group opposing desegregation. The police arrested eighty-one protesters, but none of the attackers was arrested. Those arrested were found guilty of disorderly conduct. They all decided to serve time in jail rather than pay fines.
-
-As racial tension grew in Nashville, Mayor Ben West appointed a biracial committee to investigate segregation in the city. Despite the committee’s numerous attempts at a compromise, the students declared that they would accept nothing less than the acknowledgement of their rights to sit at the store lunch counters along with white customers. On April 5, the committee suggested that the counters be divided into black and white sections. The Nashville Christian Leadership Conference (NCLC), which worked with the Nashville Student Movement, rejected the proposal, arguing that segregation of the counters was no better than black exclusion from them.
-
-On April 19, a bomb destroyed the home of Z. Alexander Lobby, the defense attorney representing many of the protesters. The bombing of Lobby’s home triggered a mass march to city hall where 2500 protesters demanded answers from Mayor West. Diane Nash pointedly asked Mayor West if it was wrong for a citizen of Nashville to discriminate against his fellow citizens because of his race or skin color. The mayor admitted that it was wrong, giving the students an important symbolic victory in their campaign. Nash then asked the mayor if the lunch counters in Nashville should be desegregated. They mayor said they should.
-
-After weeks of secret negotiations between merchants and protest leaders, an agreement was finally reached on the first week of May. On May 10, six downtown stores opened their lunch counters to black customers for the first time; the customers arrived in groups of two or three during the afternoon and were served without incident. With that agreement, Nashville became the first major southern city to begin desegregating public facilities. The Nashville campaign became a model for other civil rights protests in the 1960s and 1970s.
-
-### Sources:
-
-“Nashville Sit-Ins,” Global Nonviolent Action Database, <http://nvdatabase.swarthmore.edu/content/nashville-students-sit-us-civil-rights-1960>;
-
-“Nashville Sit-Ins,” Tennessee State University, <http://ww2.tnstate.edu/library/digital/nash.htm>; “Nashville Sit-Ins” Public
-
-## *This article originally appeared on the website [blackpast.org](https://blackpast.org/aah/african-american-history).*
+- Membership is NOT dental insurance. It can only be used at Music City Dental.
+- Membership is non-transferable.
+- Membership cannot be combined with any other discounts or dental plan insurance coverage.
+- Discounts under the membership plan do not apply to prior treatment.
 
 ---
 
-### Recent Posts
+[![Dr. Terry Spurlin-Moore's cousin Novella Page (center with glasses) participated in the Nashville Sit-Ins. (Image Courtesy of the Library of Congress)](https://musiccitydental.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-01-at-6.59.18-AM-800x533.png)](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
 
-#### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/)
+### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
 
-As we celebrate Black History Month we wanted to...
+As we celebrate Black History Month we wanted to share some information on the Nashville Sit-Ins and their importance to the civil rights movement. Dr. Terry Spurlin-Moore’s cousin Novella …
 
-#### [The Acidity of Many Drinks Can Cause Harm to Your Teeth](https://musiccitydental.com/the-acidity-of-many-drinks-can-cause-harm-to-your-teeth/)
-
-Soft drinks are bad for you, and that is...
-
-#### [Sedation Dentistry in Nashville, TN: Understanding what it is and when it’s right for you](https://musiccitydental.com/sedation-dentistry-in-nashville-tn-understanding-what-it-is-and-when-its-right-for-you/)
-
-Visiting the dentist is a phobia for many people...
-
-#### [ToothBrush Trivia from Music City Dental](https://musiccitydental.com/toothbrush-trivia-from-music-city-dental/)
-
-...
-
-#### [Back to School Dental Care Tips](https://musiccitydental.com/back-to-school-dental-care-tips/)
-
-It’s that joyous time of the year for parents...
-
-![Sedation Dentistry in Nashville, TN: Understanding what it is and when it’s right for you](/wp-content/uploads/2018/10/dentistry-123-300x200.jpg)Visiting the dentist is a phobia for many people that causes high anxiety and stress. Fearful patients often neglect the health of their teeth, all to avoid a trip to the dentist. If you find yourself feeling stressed and anxious at the thought of visiting the dentist, you can be at ease knowing that a safe, comfortable method does exist. Sedation dentistry alleviates anxiety so you can have peace of mind when visiting the dentist and achieving a healthy smile.
-
-**What does sedation dentistry entail?**
-
-If you fear dental appointments, contact a dentist to determine if sedation dentistry is appropriate for you; this decision is based off of your medical history and current medications. If you are a good candidate for sedation services, your dentist will choose an appropriate anti-anxiety or sedative prescription drug for you to take prior to your appointment. The medications prescribed are safe and widely-used to alleviate anxiety and help patients feel at ease.
-
-The patient anxiety level will help the dentist determine the appropriate dosage, which defines the consciousness level of the patient during the appointment. Some patients may become so tranquil that they fall asleep during the procedure. Throughout the dental procedure, vital signs will be closely monitored to ensure your safety and well-being. When selecting sedation dentistry, a family member or friend must be able to accompany you and drive you to and from your appointment; they also need to spend two to four hours with you after the procedure.
-
-**Why sedation dentistry?**
-
-Patients may opt for sedation dentistry if they:
-
-- Experience extreme anxiety/fear when faced with dental tools
-- Are unable to be comfortable in a dentist exam chair due to neck/back problems
-- Local anesthetics are ineffective
-- Have a sensitive gag reflex
-- Procrastinate on important dental treatments because they are worrisome
-
-**What risks and side effects are associated with sedation dentistry?**
-
-The anti-anxiety medications prescribed to achieve sedation have been used and studied for years, which means that side effects are known and widely documented. These medications are generally safe for most patients and have a low incidence rate of minor side effects.
-
-Patients who receive sedation dentistry typically experience the following:
-
-- Retrograde amnesia, which causes the patient to remember little to nothing about the dental procedure
-- Decreased post-operative soreness
-- Dry mouth
-- A very small percentage of patients may have temporary hiccups after using oral sedation drugs
-
-If you have been putting off your dental visits for some time due to fear of the dentist, contact Music City Dental in Nashville today to schedule a consultation to determine if sedation dentistry is right for you. We strive to provide the most relaxing and stress free experience possible.
+[[Continue Reading...]](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
 
 ---
 
-### Recent Posts
+![In The Press](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_1-842x1024.jpg)
 
-#### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/)
+[![In The Press](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_2-861x1024.jpg)](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_2.jpg)
 
-As we celebrate Black History Month we wanted to...
+![In The Press](/wp-content/uploads/2018/10/NL_0917_MusicCityDental1_Page_1-847x1024.jpg)
 
-#### [The Acidity of Many Drinks Can Cause Harm to Your Teeth](https://musiccitydental.com/the-acidity-of-many-drinks-can-cause-harm-to-your-teeth/)
+[![In The Press](/wp-content/uploads/2018/10/NL_0917_MusicCityDental1_Page_2-860x1024.jpg)](/wp-content/uploads/2018/10/NL_0917_MusicCityDental1_Page_2.jpg)
 
-Soft drinks are bad for you, and that is...
+[![In The Press](/wp-content/uploads/2023/02/Top-Dentist-2019.jpg)](/wp-content/uploads/2023/02/Top-Dentist-2019.jpg)
 
-#### [Sedation Dentistry in Nashville, TN: Understanding what it is and when it’s right for you](https://musiccitydental.com/sedation-dentistry-in-nashville-tn-understanding-what-it-is-and-when-its-right-for-you/)
+[![In The Press](/wp-content/uploads/2023/02/Nashville-Lifestyles-Top-dentists-bio-2020.jpg)](/wp-content/uploads/2023/02/Nashville-Lifestyles-Top-dentists-bio-2020.jpg)
 
-Visiting the dentist is a phobia for many people...
-
-#### [ToothBrush Trivia from Music City Dental](https://musiccitydental.com/toothbrush-trivia-from-music-city-dental/)
-
-...
-
-#### [Back to School Dental Care Tips](https://musiccitydental.com/back-to-school-dental-care-tips/)
-
-It’s that joyous time of the year for parents...
-
-![ToothBrush Trivia from Music City Dental](/wp-content/uploads/2018/10/Toothbrush-Trivia-from-Music-City-Dental-Nashville-TN-Dentist7.jpg)
+[![In The Press](/wp-content/uploads/2023/02/Top-dentists-2021-scaled.jpg)](/wp-content/uploads/2023/02/Top-dentists-2021-scaled.jpg)
 
 ---
 

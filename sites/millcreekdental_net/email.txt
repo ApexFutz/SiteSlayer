@@ -1,22 +1,26 @@
-SUBJECT: Helping New Patients Get Answers Instantly on Mill Creek Dental
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Jared Anway <info@millcreekdental.net>
+SUBJECT: A simple way to answer patient questions instantly on your website
 
+-----------------------------------------
 Hi Dr. Anway,
 
-Hope you’re having a great week at Mill Creek Dental! I love your focus on trust, clear communication, and treating every patient like family. Your dedication to personalized care really stands out.
+Your commitment to trust and a positive, relaxing experience at Mill Creek Dental really stands out. I noticed how welcoming you are to new patients and how thoroughly you explain each service—exactly what folks are looking for in a hometown dental practice.
 
-I’m Zac from SlayDigital.ai. We build simple, custom web chat agents that let your website visitors instantly get answers based solely on your site’s own content—so they can understand your services and book with confidence, without navigating lots of pages or waiting for a call back.
+I’m reaching out from SlayDigital.ai. We build easy-to-use AI chat agents that embed right on your website, helping answer common questions instantly using the info you’re already sharing.
 
-To show how this could work for your practice, I put together a quick mock version of your website: https://slaydigital.fly.dev/site/millcreekdental_net. There’s a chat icon in the bottom-right; click it and type a question. The agent replies using only information from your site.
+To show you what this could look like, I created a simple demo using your own content: https://slaydigital.fly.dev/site/millcreekdental_net  
+Just click the chat icon in the bottom-right corner to open the agent and type a question—your website’s info powers the responses.
 
 You can try asking things like:
+- Are you accepting new patients, and how do I schedule an appointment?
 - What dental insurance plans do you accept?
-- What’s included in a new patient appointment?
-- How does teeth whitening work at your office?
-- What are your hours and location?
-- What happens during a root canal?
+- Can you explain the different types of crowns you offer?
+- What’s the process and recovery time for a root canal?
+- How does your teeth whitening treatment work?
 
-Would love to hear what you think or answer any questions. If this looks useful for helping new and existing patients, just reply and I can share details or set up a quick call.
+If you’d like to see it tailored for more specific FAQs or want to discuss, I’m happy to chat—no pressure at all.
 
-Warm regards,  
-Zac Slay  
+All the best,  
+Zac  
 Founder, SlayDigital.ai

@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Clint Newman <info@gulchdentalstudio.com>
+SUBJECT: Helping Patients Get Quick Answers at Gulch Dental Studio
+
+-----------------------------------------
+
+Hi Dr. Newman,
+
+Your team’s focus on comfort, clear communication, and personalized dental care at Gulch Dental Studio really stands out—patient reviews speak for themselves.
+
+I’m reaching out from SlayDigital.ai, where we help practices like yours make it even easier for new and returning patients to get clear, immediate answers online. We build simple, custom AI web agents that chat with your website visitors and answer their questions using the information already on your site—no technical jargon or complicated setup needed.
+
+To show what this could look like for your practice, we’ve put together a quick demo using a mock version of your website: https://slaydigital.fly.dev/site/www_gulchdentalstudio_com. You’ll see a chat icon in the bottom-right corner—just click to open the box, and your visitors can start typing questions to get instant, clear responses.
+
+You can try asking things like:
+- What are your payment and financing options?
+- How does Invisalign treatment at Gulch Dental Studio work?
+- How soon can I schedule an appointment for a dental crown?
+- Do you offer sedation for anxious patients?
+- What can I expect during a consultation for veneers?
+
+We’d love to hear your thoughts or answer any questions. If you’re interested in exploring whether this could be helpful for your patients and front office, just reply and we can chat further—no obligations.
+
+Thanks for all you do for downtown Nashville smiles!
+
+Best,  
+Zac Slay  
+Founder, SlayDigital.ai

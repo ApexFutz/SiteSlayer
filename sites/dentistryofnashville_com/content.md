@@ -134,64 +134,6 @@ At our practice, we go to great lengths to provide comfortable and effective den
 
 ---
 
-# Request an Appointment
-
-1. [Home](https://dentistryofnashville.com/)
-3. [Contact Us](https://dentistryofnashville.com/contact-us/)
-5. [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
-
-### Location
-
-[2125 Blakemore Ave  
- Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.1393822,-86.8087917,14.52z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
-
-[615-383-3690](tel:6153833690)
-
-**Mon**: 7:30 a.m. to 5:00 p.m.  
- **Tue**: 7:30 a.m. to 5:00 p.m.  
- **Wed**: 7:30 a.m. to 5:00 p.m.  
- **Thu**: 7:30 a.m. to 5:00 p.m.  
- **Fri**: Closed  
- **Sat**: Closed  
- **Sun**: Closed
-
----
-
-# About Us
-
-1. [Home](https://dentistryofnashville.com/)
-3. [About Us](https://dentistryofnashville.com/about-us/)
-
-![](https://dentistryofnashville.com/wp-content/uploads/2025/02/DON_2024-1024x819.webp)
-
-## Our Practice
-
-We don’t treat a person, we treat generations of patients in our community in Nashville, Tennessee. We are a family-oriented practice whose [dental care](https://dentistryofnashville.com/) is guided by empathy and integrity.
-
-[Our Services](https://dentistryofnashville.com/our-services/ "Our Services")
-
-[Tour Our Office](https://dentistryofnashville.com/about-us/our-office/ "Our Office")
-
-### Related Pages
-
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
-
 # Meet the Team
 
 1. [Home](https://dentistryofnashville.com/)
@@ -290,66 +232,20 @@ YouTube
 
 ---
 
-# Services
+# About Us
 
 1. [Home](https://dentistryofnashville.com/)
-3. [Services](https://dentistryofnashville.com/our-services/)
+3. [About Us](https://dentistryofnashville.com/about-us/)
 
-[![Dental Implants Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_implant-dentistry.svg)](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+![](https://dentistryofnashville.com/wp-content/uploads/2025/02/DON_2024-1024x819.webp)
 
-## Dental Implants
+## Our Practice
 
-Implants are a solution for missing teeth. When a space is created by a missing tooth, it allows surrounding teeth to move, which may lead to further tooth loss. Click the learn more button below to see how we can restore your smile!
+We don’t treat a person, we treat generations of patients in our community in Nashville, Tennessee. We are a family-oriented practice whose [dental care](https://dentistryofnashville.com/) is guided by empathy and integrity.
 
-[Learn More](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+[Our Services](https://dentistryofnashville.com/our-services/ "Our Services")
 
-[![Same-Day Crowns Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_same-day-crowns.svg)](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Dental Implants")
-
-## Crown & Bridge + Same-Day Dentistry
-
-Unlike veneers, crowns cover the entire tooth and is a required step after any root canal procedure. At Dentistry of Nashville, you could get it all done in one day with our CEREC® technology!
-
-[Learn More](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Dental Implants")
-
-[![General Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_general-dentistry.svg)](https://dentistryofnashville.com/our-services/general-dentistry/ "Dental Implants")
-
-## General Dentistry
-
-We recognize that routine dental hygiene is absolutely vital for a happy and healthy mouth. Find out why hygiene appointments are so important and make sure to visit us at least two times per year!
-
-[Learn More](https://dentistryofnashville.com/our-services/general-dentistry/ "Dental Implants")
-
-[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
-
-## Periodontal Services
-
-Gum disease is a very serious issue that can easily be prevented through home hygiene habits and routine professional cleanings. Periodontal treatment is the thorough process of cleaning out the bacteria below the gum line and may sometimes also include suturing the gum pockets to prevent future infection.
-
-[Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
-
-[![Restorative Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_restorative-dentistry.svg)](https://dentistryofnashville.com/our-services/restorative-dentistry/ "Dental Implants")
-
-## Restorative Dentistry
-
-Allow us to restore your smile to full function and beauty! We offer restorative services including implants, bridges, and more!
-
-[Learn More](https://dentistryofnashville.com/our-services/restorative-dentistry/ "Dental Implants")
-
-[![Cosmetic Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_cosmetic-dentistry.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
-
-## Cosmetic Dentistry
-
-A beautiful smile isn’t as far away as you think. We offer cosmetic services including implants, whitening, and more!
-
-[Learn More](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
-
-[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
-
-## TMD Treatment
-
-TMD is shorthand for temporomandibular jaw disorder and is characterized by pain in the face and jaw. While there are several reasons the condition may have started, including misaligned teeth and an overly strong bite, to name but a couple, TMD may affect one’s quality of life. If you suffer from this kind of pain, we will be happy to make a diagnosis and discuss available treatments.
-
-[Learn More](https://dentistryofnashville.com/our-services/tmd-treatment/ "TMD Treatment")
+[Tour Our Office](https://dentistryofnashville.com/about-us/our-office/ "Our Office")
 
 ### Related Pages
 
@@ -653,6 +549,29 @@ Click below to send us a message, and we’ll get back to you in no time!
 Facebook
 
 YouTube
+
+---
+
+# Request an Appointment
+
+1. [Home](https://dentistryofnashville.com/)
+3. [Contact Us](https://dentistryofnashville.com/contact-us/)
+5. [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
+
+### Location
+
+[2125 Blakemore Ave  
+ Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.1393822,-86.8087917,14.52z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
+
+[615-383-3690](tel:6153833690)
+
+**Mon**: 7:30 a.m. to 5:00 p.m.  
+ **Tue**: 7:30 a.m. to 5:00 p.m.  
+ **Wed**: 7:30 a.m. to 5:00 p.m.  
+ **Thu**: 7:30 a.m. to 5:00 p.m.  
+ **Fri**: Closed  
+ **Sat**: Closed  
+ **Sun**: Closed
 
 ---
 

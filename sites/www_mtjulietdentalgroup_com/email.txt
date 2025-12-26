@@ -1,23 +1,27 @@
-SUBJECT: Help Patients Find Dental Answers Instantly on Your Website
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Mt Juliet Dental Group <info@mtjulietdentalgroup.com>
+SUBJECT: A simple way to help your patients find answers—see your live demo
 
-Hi there,
+-----------------------------------------
 
-I’m reaching out because Mt Juliet Dental Group stands out for providing clear information and compassionate care at every step—from first visits to advanced technology and flexible payment options.
+Hi Mt Juliet Dental Group team,
 
-At SlayDigital.ai, we build simple AI web agents that live right on your website, helping your patients get instant answers using info you’ve already shared online. No jargon—just clarity and fewer phone interruptions for your team.
+Your commitment to making dental visits easy, transparent, and stress-free really stands out. I noticed how many helpful resources you offer—whether it’s insurance info, the Smile Generation plans, or clear guides on what to expect at a first visit.
 
-You can see a live example for your site here: https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com  
-Just click the chat icon in the bottom-right corner and type a question—the agent responds with accurate, up-to-date info from your site.
+I’m reaching out from SlayDigital.ai. We build simple, custom AI agents that live right on your website, helping visitors quickly find the answers they need—using your own content, not generic scripts.
 
-Try asking things like:
-- What insurance plans do you accept?
-- How do I book a same-day or emergency appointment?
-- What’s included in the $59 New Patient Special?
-- How does Smile Generation Dental Plan work?
-- How can I pay my bill or access my records online?
+Here’s a mock demo we made just for you:  
+https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com  
+Click the chat icon in the bottom right, open the box, and type any question—your new virtual assistant will respond instantly using real info from your site.
 
-If helping patients find answers faster (and lightening your staff’s load) is of interest, I’d love your quick thoughts or questions.
+You can try asking things like:
+- Do you accept Delta Dental insurance?
+- What’s included in the $59 new patient special?
+- How does CEREC same-day crowns work?
+- How do I prepare for my first visit?
+- What payment and financing options are available?
 
-Thanks for your time,  
-Zac Slay  
-Founder, SlayDigital.ai
+This is a concrete way to cut down on repetitive calls, help new patients feel confident, and make sure everyone finds the right info fast. If you’d like to talk about how this could work for your website, just let me know—I’d be happy to help.
+
+Best,  
+Zac

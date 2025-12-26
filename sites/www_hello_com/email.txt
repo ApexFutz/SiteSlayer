@@ -1,22 +1,24 @@
-SUBJECT: A Simple Way to Keep Visitors Engaged During Your Pause
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: hello team <contact@hello.com>
+SUBJECT: Making your next launch even friendlier with instant site answers
 
+-----------------------------------------
 Hi hello team,
 
-I love your warm approach—even during your pause, it’s clear how much you value your community and want to keep folks in the loop about what’s next.
+I love how your site emphasizes community and staying connected, even during your pause. As you gear up for your next chapter, I wanted to share a simple way to welcome visitors and keep them in the loop right from your website.
 
-I’m Zac from SlayDigital.ai. We build simple, custom AI chat agents that sit right on your website, letting visitors ask questions and get answers using the content you already have—no jargon, just clarity.
+At SlayDigital.ai, we create easy-to-use, custom AI chat agents that live on your site and let visitors get quick answers using the information you already share. No jargon—just a friendly way to help people feel at home.
 
-I set up a quick demo using your site: https://slaydigital.fly.dev/site/www_hello_com. There’s a chat icon in the bottom-right corner; click it to open the box and try asking questions just like a visitor would.
+To show what this could look like for hello, here’s a mock version of your site with a demo agent: https://slaydigital.fly.dev/site/www_hello_com. Just click the chat icon in the bottom-right corner, ask any question, and you’ll get answers based on your site content.
 
-For example, you can ask things like:
-- Why is hello paused right now?
-- When will hello be relaunching?
-- How will I know when the new version is live?
-- Can I still sign up to get updates?
-- Is there a way to contact the hello team during the pause?
+You can try asking things like:
+- When will hello relaunch?
+- What’s changing in the new version?
+- How can I stay updated on the launch?
+- Will my previous account or data be saved?
+- Is hello available in multiple languages?
 
-If you’re curious how this might help keep your community connected, I’d be happy to chat. No pressure—just let me know if you’d like to talk!
+If you think something like this could fit your next big reveal, I’d be happy to chat or set up a quick call whenever you’re ready.
 
 Best,  
-Zac Slay  
-SlayDigital.ai
+Zac

@@ -1,22 +1,29 @@
-SUBJECT: Make it easier for patients to get answers—see your live site demo
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Steven Hernandez <info@lifetimedentistrytn.com>
+SUBJECT: Helping Lifetime Dentistry Patients Get Answers Instantly
 
-Hi there,
+-----------------------------------------
+Hi Dr. Hernandez,
 
-I’ve been browsing Lifetime Dentistry’s site and appreciate how thoroughly you explain services like dental implants, clear aligners, and cosmetic procedures. Your emphasis on patient trust and advanced care really stands out.
+I’ve really enjoyed seeing how Lifetime Dentistry blends advanced technology (like CEREC and 3D imaging) with genuine, patient-centered care—it’s clear you go the extra mile for your patients.
 
-I’m Zac Slay, founder of SlayDigital.ai. We help clinics like yours save staff time and improve website engagement with friendly, custom AI chat agents. These agents answer visitor questions using your site’s own content—no new work for your team.
+I wanted to share something very simple that could help your visitors get answers quickly and reduce repetitive calls to your front desk: custom AI web agents. At SlayDigital.ai, we build chat agents that live right on your website and answer questions directly using the info already on your site—no extra setup or complicated integrations.
 
-To show exactly how this could help, I put together a quick demo based on your website: https://slaydigital.fly.dev/site/lifetimedentistrytn_com. There’s a chat icon in the bottom-right—click it, type a question, and the agent will respond with information from your own site.
+To show what this could look like, I made a quick example using your site:  
+https://slaydigital.fly.dev/site/lifetimedentistrytn_com  
+Just click the chat icon in the bottom-right corner to open the chat box, then type a question—your agent will answer using your own site content.
 
-You can try asking things like:
-- Do you offer same-day crowns, and how does the process work?
-- What cosmetic options are available for chipped or stained teeth?
-- How do dental implants differ from bridges and dentures?
-- Are clear aligners suitable for adults, and what’s the typical timeline?
-- What should I do if I need emergency dental care?
+You might try asking:
+- What options do you offer for missing teeth?
+- Can you tell me about your dental implant process?
+- Do you provide emergency dental services?
+- How do clear aligners work at Lifetime Dentistry?
+- What technology do you use for same-day crowns?
 
-If reducing common phone calls or helping new patients feel more comfortable interests you, I’d be happy to answer any questions or set up a quick call—no pressure.
+I think this could make it even easier for your patients to get the information they need, when they need it, and free up your team for higher-value conversations.
 
-Best regards,  
-Zac Slay  
+If you’d like to see how this could fit into your workflow, just let me know—happy to answer any questions or chat further.
+
+Warm regards,  
+Zac  
 Founder, SlayDigital.ai

@@ -221,47 +221,85 @@ Dr. Bakari is passionate about providing exceptional, accessible dental care tha
 
 [Skip to content](#content)
 
-# Insurance and Financing Plans
+# Book An Appointment
 
-Everyone deserves quality dental care. We offer payment and financing options for accessibility and affordability.
+### When scheduling an appointment will try our best to give you the request date and time. We will contact you to confirm or set a time as close as possible to the time you request.*
 
-## Insurance coverage
+Name
 
-We partner with a wide range of providers.
+Email
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/AlwaysCare-logo.jpg)
+Phone
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Blue-Cross-Blue-Shield-Logo-1024x576.jpg)
+Services 
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Cigna.png)
+Services
+Check Up
+Dental Bridge
+Dental Implant
+Cosmetic Dentistry
+Dental Cleaning
+Oral Surgery
+Root Canal
+Child’s First Dental Visit
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Guardian-light.png)
+Date
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/metlife_eng_logo_rgb.png)
+Time 
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/renaissance-large.png)
+Time
+9.00 am
+10.00 am
+11.00 am
+12.00 am
+1.00 pm
+2.00 pm
+3.00 pm
+4.00 pm
+5.00 pm
+6.00 pm
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/ucd-logo-1024x216.png)
+Send
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/UnitedHealthcare_logo.svg_-1024x322.png)
+*For emergency and after hour appointments please call 615-678-8965
 
-## Flexible financing solutions
 
-CareCredit (Financing)
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/carecredit-syflogo.avif)
 
-CareCredit offers a trusted way to finance dental treatments that may not be fully covered by insurance. With over 30 years of experience, it’s a go-to option for managing out-of-pocket expenses like deductibles, co-pays, and cosmetic procedures—so you never have to delay your smile.
 
-[Learn More](#)
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
 
-Cherry (Financing)
+SunMonTueWedThuFriSat
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/logo-cherry.jpg)
+301234567891011121314151617181920212223242526272829303112345678910
 
-Cherry makes it easy to get the dental care you need now and pay later, with flexible payment plans tailored to fit your budget. It’s quick to apply, and approval takes just minutes—no hard credit check required. Get treated today, pay over time.
+---
 
-[Learn More](#)
+[Skip to content](#content)
+
+# Contact Us
+
+## We’re just a call or message away
+
+# Get In Touch
+
+Whether you’re a new patient or one of our regulars, we’d love to hear from you. Have a question, need to schedule an appointment, or want to tell us how we’re doing? Drop us a message, give us a call at 615-678-8965, or send an email to smilesupdentistry@gmail.com — we’ll get back to you quickly
+
+- 615-678-8965
+- smilesupdentistry@gmail.com
+- 1916 Patterson St. Suite 712, Nashivlle, TN 37203
+
+Name
+
+Email
+
+Phone
+
+Subject
+
+Message
+
+Send
 
 ---
 
@@ -319,82 +357,44 @@ If you’re unsure, call us at 615-678-8965 we’ll guide you.
 
 [Skip to content](#content)
 
-# Contact Us
+# Insurance and Financing Plans
 
-## We’re just a call or message away
+Everyone deserves quality dental care. We offer payment and financing options for accessibility and affordability.
 
-# Get In Touch
+## Insurance coverage
 
-Whether you’re a new patient or one of our regulars, we’d love to hear from you. Have a question, need to schedule an appointment, or want to tell us how we’re doing? Drop us a message, give us a call at 615-678-8965, or send an email to smilesupdentistry@gmail.com — we’ll get back to you quickly
+We partner with a wide range of providers.
 
-- 615-678-8965
-- smilesupdentistry@gmail.com
-- 1916 Patterson St. Suite 712, Nashivlle, TN 37203
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/AlwaysCare-logo.jpg)
 
-Name
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Blue-Cross-Blue-Shield-Logo-1024x576.jpg)
 
-Email
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Cigna.png)
 
-Phone
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Guardian-light.png)
 
-Subject
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/metlife_eng_logo_rgb.png)
 
-Message
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/renaissance-large.png)
 
-Send
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/ucd-logo-1024x216.png)
 
----
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/UnitedHealthcare_logo.svg_-1024x322.png)
 
-[Skip to content](#content)
+## Flexible financing solutions
 
-# Book An Appointment
+CareCredit (Financing)
 
-### When scheduling an appointment will try our best to give you the request date and time. We will contact you to confirm or set a time as close as possible to the time you request.*
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/carecredit-syflogo.avif)
 
-Name
+CareCredit offers a trusted way to finance dental treatments that may not be fully covered by insurance. With over 30 years of experience, it’s a go-to option for managing out-of-pocket expenses like deductibles, co-pays, and cosmetic procedures—so you never have to delay your smile.
 
-Email
+[Learn More](#)
 
-Phone
+Cherry (Financing)
 
-Services 
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/logo-cherry.jpg)
 
-Services
-Check Up
-Dental Bridge
-Dental Implant
-Cosmetic Dentistry
-Dental Cleaning
-Oral Surgery
-Root Canal
-Child’s First Dental Visit
+Cherry makes it easy to get the dental care you need now and pay later, with flexible payment plans tailored to fit your budget. It’s quick to apply, and approval takes just minutes—no hard credit check required. Get treated today, pay over time.
 
-Date
-
-Time 
-
-Time
-9.00 am
-10.00 am
-11.00 am
-12.00 am
-1.00 pm
-2.00 pm
-3.00 pm
-4.00 pm
-5.00 pm
-6.00 pm
-
-Send
-
-*For emergency and after hour appointments please call 615-678-8965
-
-
-
-
-
-JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
-
-SunMonTueWedThuFriSat
-
-301234567891011121314151617181920212223242526272829303112345678910
+[Learn More](#)

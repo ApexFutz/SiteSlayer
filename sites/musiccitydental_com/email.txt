@@ -1,22 +1,26 @@
-SUBJECT: Helping New Patients Feel at Ease on the Music City Dental Website
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Terry Spurlin-Moore <info@musiccitydental.com>
+SUBJECT: Helping New Patients Get Answers Faster at Music City Dental
 
-Hi Dr. Spurlin-Moore and Music City Dental team,
+-----------------------------------------
 
-I love how your site emphasizes both patient comfort and education—it’s clear you go above and beyond to make every visit relaxing, especially for those with dental anxiety.
+Hi Dr. Spurlin-Moore,
 
-I’m Zac from SlayDigital.ai. We build simple AI-powered web agents that embed on your site and help visitors quickly get answers based on your existing content. This makes it easy for new and returning patients to find the info they need—no jargon, no fuss.
+I came across Music City Dental and was really impressed by your focus on a relaxing, patient-centered experience in Nashville. Your Priority Care Membership and commitment to using the latest technology truly stand out.
 
-We created a quick demo using a mock version of your website at https://slaydigital.fly.dev/site/musiccitydental_com. There’s a chat icon in the bottom-right—click it to open a chat where you can type any question. The agent responds using what’s already on your site.
+I’m reaching out from SlayDigital.ai—my team builds simple AI chat agents that help visitors find clear answers to their questions right from your website, using the information you already provide. This is designed to reduce repetitive calls and make it easier for new patients to get comfortable before they walk in.
+
+I put together a quick example using a mock version of your website here: https://slaydigital.fly.dev/site/musiccitydental_com  
+Just click the chat icon in the bottom-right corner to open the box, then type any question—your custom agent will reply immediately with information from your site.
 
 You can try asking things like:
-- What does the Priority Care Membership Club include and how much does it cost?
-- Do you offer sedation dentistry for anxious patients?
-- What services are available for new patients or those without insurance?
-- How do I book an appointment or submit new patient forms?
-- What technology do you use for dental procedures?
+- “How does your Priority Care Membership work and what’s included?”
+- “Do you accept new patients without insurance?”
+- “What dental technologies do you use?”
+- “How do I schedule an appointment or fill out forms?”
+- “What should I expect at my first visit?”
 
-If this kind of tool could help streamline questions or make your site even more welcoming, I’d be glad to chat. No pressure—just let me know if you’d like to see how it works on your live site!
+If you’re curious how this might help your team support patients and streamline common questions, just let me know. I’d be happy to chat when you have a moment—no pressure, just a conversation.
 
 Warm regards,  
-Zac Slay  
-Founder, SlayDigital.ai
+Zac

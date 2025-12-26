@@ -234,10 +234,6 @@ The best dentist and team around. Won’t do work you don’t need and a straigh
  ![](https://millcreekdental.net/wp-content/uploads/rating.png)  
  ![](https://millcreekdental.net/wp-content/uploads/google.png)
 
-[Previous](#)[Next](#)
-
-[1](#)[2](#)
-
 ### Reviews
 
 ## Patient Testimonials
@@ -257,10 +253,6 @@ Highly recommend Mill Creek Dental. Everyone is so welcoming and they make you f
 **Pam F.**  
  ![](https://millcreekdental.net/wp-content/uploads/rating.png)  
  ![](https://millcreekdental.net/wp-content/uploads/google.png)
-
-[Previous](#)[Next](#)
-
-[1](#)[2](#)
 
 ### We are proud to be a member of
 
@@ -377,254 +369,6 @@ Call us at [(615) 776-1050](tel:+16157761050) or leave us your contact informati
 - Phone
 - Email
 - Questions/Comments
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
-# Teeth Whitening
-
-Philips Zoom take-home tooth whitening kits are a safe and convenient way to get your smile noticeably whiter in one to two weeks. You’ll get professional, affordable results with little to no sensitivity.
-
-#### Why choose a Philips Zoom take-home kit?
-
-You apply our take-home whitening kits yourself, meaning you can get whiter teeth when and where you want.
-
-To ensure you have a safe and comfortable experience, all our tooth whitening treatments start with a consultation with your dentist. They will prescribe the best whitening kit for your teeth, and answer any questions you may have. Then you’ll be fully armed with the knowledge to safely and effectively whiten your smile at home.
-
-#### What happens during my whitening consultation?
-
-When you book your appointment, tell the dental practice that you’re interested in a Philips Zoom whitening treatment. When you arrive, you’ll be asked what sort of treatment you want. Perhaps you want the fastest results? Or something that’s extra gentle on your teeth? Or if you’re not sure, simply ask your dentist what they recommend.
-
-If you are prescribed a treatment that uses mouth trays, we will make you a customized tray that fits perfectly to your teeth and gum line, so you get safe and effective results.
-
-For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
-
-![Teeth Whitening Service Nolensville TN](https://millcreekdental.net/wp-content/uploads/Screen-Shot-2020-07-27-at-10.56.40-AM.png "Screen-Shot-2020-07-27-at-10.56.40-AM")
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
-# Root Canals
-
-## Root Canal Treatment
-
-Root canals are one of the most feared and misunderstood procedures in dentistry, but they shouldn’t be. Historically, a root canal required many long, tedious and often painful visits. Modern techniques allow for quick, highly successful, painless root canals to be completed in one visit.
-
-A root canal is a treatment used to repair and save a tooth that is badly decayed or becomes infected. During a root canal procedure, the nerve and pulp are removed and the inside of the tooth is cleaned and sealed. Without treatment, the tissue surrounding the tooth will become infected and abscesses may form.
-
-“Root canal” is the term used to describe the natural cavity within the center of the tooth. The pulp or pulp chamber is the soft area within the root canal. The tooth’s nerve lies within the root canal.
-
-A tooth’s nerve is not vitally important to a tooth’s health and function after the tooth has emerged through the gums. Its only function is sensory — to provide the sensation of hot or cold. The presence or absence of a nerve will not affect the day-to-day functioning of the tooth.
-
-For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
-# Dental Crowns
-
-## Dental Crowns in Nolensville, TN
-
-Dental crowns are a powerful cosmetic and restorative tool for treating teeth that have been significantly damaged, or decayed, Dental crowns fit perfectly over your tooth, covering it from the top to below the gum line. The crown is bonded to your tooth.
-
-A crown is recommended in the following situations:
-
-- Root canal restoration (Endodontic procedure)
-- Tooth weakened by numerous amalgam fillings
-- Cusp fracture of a tooth
-- Cosmetic restoration of a tooth unsuited for veneering
-- Neuromuscular Full Mouth
-- Reconstructions will sometimes feature crowns to permanently correct bite issues.
-
-In all these cases, your dental crown will fit completely over your tooth, making it more attractive, protecting it against further damage and decay, and providing it with fully functional chewing surfaces.
-
-### Dental Crowns
-
-#### Crown Types
-
-There are three types of crowns available for use in dental restorations today:
-
-#### Metal Crowns
-
-All-metal crowns are primarily functional restorations. Their only functional lack is that they conduct heat very well, and can sometimes make a tooth sensitive to temperature extremes, although this is generally not a problem in root canal procedures where the root of the tooth has been removed. Gold is an exceptional material for restoring back teeth due to its inherent qualities. It is extremely durable especially when subjected to the stresses and strains of chewing. The needed thickness to achieve this durability is relatively low, meaning less tooth structure is removed in preparing teeth for gold crowns. The soft, pliable nature of gold allows for a very precise fit and is very gentle to the opposing teeth resulting in a very long-lasting choice of restoration
-
-#### Porcelain Crowns
-
-All-porcelain crowns are both functional and aesthetic restorations. Porcelain crowns can, in many cases, blend in completely in your mouth, making them undetectable. All-porcelain crowns can also be very convenient. With our new CEREC machine, all-porcelain restorations can be crafted while you wait, so there is no need to take an impression of your teeth, then wait while the restoration is made. Instead, the CEREC machine uses a CAD/CAM system to manufacture the all-porcelain crown within minutes. To learn more about this exciting technology and how it has revolutionized the process of making dental restorations see our CEREC link.
-
-#### Combination Crowns
-
-Porcelain fused to metal crowns is both functional and aesthetic restorations. A porcelain-fused-to-metal crown (PFM) could be considered to be a hybrid of the other types of crowns, in the sense that it is composed of two different types of materials. One is a metal alloy that is used to create that portion of the crown that fits directly on the tooth. The other is porcelain. The porcelain forms the tooth-shaped aspect of the crown and gives the crown a white tooth-like coloration. The PFM is often used when destructive night grinding is a problem or when long-span bridges are needed. Learn more about our [dental fillings](https://millcreekdental.net/services/composite-fillings/).
-
-For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
 
 ![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
 
@@ -833,6 +577,102 @@ Friday through Sunday: Closed
 
 ---
 
+# Dental Crowns
+
+## Dental Crowns in Nolensville, TN
+
+Dental crowns are a powerful cosmetic and restorative tool for treating teeth that have been significantly damaged, or decayed, Dental crowns fit perfectly over your tooth, covering it from the top to below the gum line. The crown is bonded to your tooth.
+
+A crown is recommended in the following situations:
+
+- Root canal restoration (Endodontic procedure)
+- Tooth weakened by numerous amalgam fillings
+- Cusp fracture of a tooth
+- Cosmetic restoration of a tooth unsuited for veneering
+- Neuromuscular Full Mouth
+- Reconstructions will sometimes feature crowns to permanently correct bite issues.
+
+In all these cases, your dental crown will fit completely over your tooth, making it more attractive, protecting it against further damage and decay, and providing it with fully functional chewing surfaces.
+
+### Dental Crowns
+
+#### Crown Types
+
+There are three types of crowns available for use in dental restorations today:
+
+#### Metal Crowns
+
+All-metal crowns are primarily functional restorations. Their only functional lack is that they conduct heat very well, and can sometimes make a tooth sensitive to temperature extremes, although this is generally not a problem in root canal procedures where the root of the tooth has been removed. Gold is an exceptional material for restoring back teeth due to its inherent qualities. It is extremely durable especially when subjected to the stresses and strains of chewing. The needed thickness to achieve this durability is relatively low, meaning less tooth structure is removed in preparing teeth for gold crowns. The soft, pliable nature of gold allows for a very precise fit and is very gentle to the opposing teeth resulting in a very long-lasting choice of restoration
+
+#### Porcelain Crowns
+
+All-porcelain crowns are both functional and aesthetic restorations. Porcelain crowns can, in many cases, blend in completely in your mouth, making them undetectable. All-porcelain crowns can also be very convenient. With our new CEREC machine, all-porcelain restorations can be crafted while you wait, so there is no need to take an impression of your teeth, then wait while the restoration is made. Instead, the CEREC machine uses a CAD/CAM system to manufacture the all-porcelain crown within minutes. To learn more about this exciting technology and how it has revolutionized the process of making dental restorations see our CEREC link.
+
+#### Combination Crowns
+
+Porcelain fused to metal crowns is both functional and aesthetic restorations. A porcelain-fused-to-metal crown (PFM) could be considered to be a hybrid of the other types of crowns, in the sense that it is composed of two different types of materials. One is a metal alloy that is used to create that portion of the crown that fits directly on the tooth. The other is porcelain. The porcelain forms the tooth-shaped aspect of the crown and gives the crown a white tooth-like coloration. The PFM is often used when destructive night grinding is a problem or when long-span bridges are needed. Learn more about our [dental fillings](https://millcreekdental.net/services/composite-fillings/).
+
+For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
 # Inlays & Onlays
 
 ### Dental Onlays
@@ -938,6 +778,158 @@ These may include:
 If you notice any of the above warning signs of periodontal infection, please [contact our office](https://millcreekdental.net/contact-us/) at 615-776-1050 and ask for a periodontal evaluation.
 
 Learn more about our [root canal treatments](https://millcreekdental.net/services/root-canals/)
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
+# Root Canals
+
+## Root Canal Treatment
+
+Root canals are one of the most feared and misunderstood procedures in dentistry, but they shouldn’t be. Historically, a root canal required many long, tedious and often painful visits. Modern techniques allow for quick, highly successful, painless root canals to be completed in one visit.
+
+A root canal is a treatment used to repair and save a tooth that is badly decayed or becomes infected. During a root canal procedure, the nerve and pulp are removed and the inside of the tooth is cleaned and sealed. Without treatment, the tissue surrounding the tooth will become infected and abscesses may form.
+
+“Root canal” is the term used to describe the natural cavity within the center of the tooth. The pulp or pulp chamber is the soft area within the root canal. The tooth’s nerve lies within the root canal.
+
+A tooth’s nerve is not vitally important to a tooth’s health and function after the tooth has emerged through the gums. Its only function is sensory — to provide the sensation of hot or cold. The presence or absence of a nerve will not affect the day-to-day functioning of the tooth.
+
+For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
+# Teeth Whitening
+
+Philips Zoom take-home tooth whitening kits are a safe and convenient way to get your smile noticeably whiter in one to two weeks. You’ll get professional, affordable results with little to no sensitivity.
+
+#### Why choose a Philips Zoom take-home kit?
+
+You apply our take-home whitening kits yourself, meaning you can get whiter teeth when and where you want.
+
+To ensure you have a safe and comfortable experience, all our tooth whitening treatments start with a consultation with your dentist. They will prescribe the best whitening kit for your teeth, and answer any questions you may have. Then you’ll be fully armed with the knowledge to safely and effectively whiten your smile at home.
+
+#### What happens during my whitening consultation?
+
+When you book your appointment, tell the dental practice that you’re interested in a Philips Zoom whitening treatment. When you arrive, you’ll be asked what sort of treatment you want. Perhaps you want the fastest results? Or something that’s extra gentle on your teeth? Or if you’re not sure, simply ask your dentist what they recommend.
+
+If you are prescribed a treatment that uses mouth trays, we will make you a customized tray that fits perfectly to your teeth and gum line, so you get safe and effective results.
+
+For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
+
+![Teeth Whitening Service Nolensville TN](https://millcreekdental.net/wp-content/uploads/Screen-Shot-2020-07-27-at-10.56.40-AM.png "Screen-Shot-2020-07-27-at-10.56.40-AM")
 
 [Schedule an Appointment](#schedule)
 

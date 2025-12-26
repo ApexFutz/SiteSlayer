@@ -1,27 +1,29 @@
-SUBJECT: Make Big Thunder Events Even Easier for Customers—See Our Demo on Your Site
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Tony & Kacey Atwell <info@bigthunderevents.com>
+SUBJECT: Quick way to help Big Thunder Events visitors get answers (see demo)
 
-Hi Tony and Kacey,
+-----------------------------------------
+Hi Tony & Kacey,
 
-I was inspired by the community spirit and hands-on service you bring to Big Thunder Events—it’s no wonder you have so many loyal school, church, and family clients.
+I love how Big Thunder Events is a true one-stop shop for everything from bounce houses to carnival rides—all with that friendly, local touch you bring to Murfreesboro and Nashville. Your site has tons of info and options, but with so many event planners and parents visiting, I imagine you get a LOT of the same questions.
 
-I’m Zac from SlayDigital.ai. We build custom, easy-to-use AI chat agents that let your website visitors ask questions about your rentals, booking, or logistics and instantly get clear answers—using the info already on your site.
+I’d like to show you something simple that could help: at SlayDigital.ai, we build custom AI web chat agents that answer visitors’ questions using your own site content—no complicated setup needed.
 
-To show how this could work for Big Thunder Events, we set up a quick demo:  
-https://slaydigital.fly.dev/site/www_bigthunderevents_com
-
-Just click the chat icon at the bottom right and type a question; the agent will reply with details from your actual content.
+Here’s a mock demo of your site with our chat agent added:  
+https://slaydigital.fly.dev/site/www_bigthunderevents_com  
+Just click the chat icon in the bottom-right, then type any question—your agent replies instantly using info from your pages.
 
 You can try asking things like:
-- How do I book a bounce house or water slide?
-- What’s included in your delivery/setup? Are travel fees extra?
-- Which rentals are best for a school field day or church carnival?
-- Do you offer multi-unit discounts for schools and nonprofits?
-- What are your setup requirements and what surfaces can you install on?
+- What’s included in the bounce house rental price?
+- How do I get a certificate of insurance for my event?
+- Do you deliver and set up in Franklin or Brentwood?
+- What power or space do I need for a mechanical ride?
+- How do I check available dates or book online?
 
-This tool is designed to reduce repetitive questions, help customers plan faster, and let your team focus on what you do best. No tech headaches or AI jargon—just useful, practical help for your visitors.
+Our approach is all about clarity—making it easy for planners and parents to get exactly what they need, so you cut down on repetitive calls and bookings run even smoother.
 
-If you’re curious about making customer support even smoother (especially during busy seasons), I’d love to chat or hear your feedback.
+Curious to see how this could fit for Big Thunder? Happy to chat or set up a quick call if you’re interested.
 
 Best,  
-Zac Slay  
-Founder, SlayDigital.ai
+Zac  
+SlayDigital.ai

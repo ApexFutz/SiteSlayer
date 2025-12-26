@@ -1,22 +1,26 @@
-SUBJECT: Helping Visitors Find the Right Wikipedia in Seconds
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Wikimedia Foundation <info@wikimedia.org>
+SUBJECT: Helping Wikipedia Visitors Find Answers Instantly—Quick Demo Inside
 
-Hi there,
+-----------------------------------------
 
-I know Wikipedia’s mission is all about making free knowledge accessible to everyone, in every language. To support that, I wanted to show you a simple way to help people quickly find the right version of Wikipedia or answer their most frequent questions—without sifting through pages or menus.
+Hi team,
 
-At SlayDigital.ai, we build custom web chat agents that let visitors ask questions directly on your site and get instant answers based on your existing content—no jargon or extra complexity.
+I’m a longtime admirer of how Wikipedia simplifies access to knowledge in hundreds of languages. I noticed your users often land on the portal page with questions about language versions, donations, or how to get started.
 
-Here's a quick demo, using a mock version of your homepage: https://slaydigital.fly.dev/site/www_wikipedia_org. Just click the chat icon in the bottom-right to open the chat box and ask away—no setup needed.
+At SlayDigital.ai, we build simple, custom AI chat agents that live on your site and answer visitor questions directly from your existing content—no jargon, no complexity. To show what this could look like for Wikipedia, I created a quick demo:  
+https://slaydigital.fly.dev/site/www_wikipedia_org
+
+Just click the chat icon at the bottom-right corner, type a question, and the agent responds using info from your live portal.
 
 You can try asking things like:
-- “How do I find Wikipedia in my language?”
-- “Where can I donate to support Wikipedia?”
-- “How many articles are available in Spanish?”
-- “Do I get any benefits if I donate?”
-- “What’s the difference between one-time and monthly donations?”
+- “How can I donate to Wikipedia?”
+- “Which languages have the most articles?”
+- “What’s the average donation amount?”
+- “How do I read Wikipedia in Japanese?”
+- “Where can I buy Wikipedia merchandise?”
 
-If you think this could help newcomers or donors get clarity faster, I’d be happy to share more or set up a quick test with your actual site.
+I’d love your thoughts on whether a tool like this could help users find key info and support your mission—even during busy fundraising periods. No pressure, but let me know if you’re interested in a real trial or feedback.
 
-Best wishes,
-Zac Slay  
-Founder, SlayDigital.ai
+Best,  
+Zac

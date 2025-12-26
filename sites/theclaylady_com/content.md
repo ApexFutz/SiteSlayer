@@ -1474,12 +1474,6 @@ The entire building was made ready by a core group of eight artists (all were st
 
 Subscribe to The Clay Lady’s Campus emails for artist tips, classes, event announcements, special workshops and more.
 
-Fields marked with an * are required
-
-*
-
-If you are a human seeing this field, please leave it empty.
-
 ![](https://theclaylady.com/wp-content/uploads/2025/06/bottom-decor-blue.svg)
 
 [![A partially formed clay pot surrounded by raw clay chunks on a smooth surface.](https://theclaylady.com/wp-content/uploads/2024/01/True-Final-The-Clay-Ladys-Lesson-Book-by-Danielle-McDaniel-4.6.21_Page_020-scaled-e1705099398888-1009x1024.jpg)](https://theclaylady.com/blog/on-being-an-artist/)
@@ -2093,6 +2087,44 @@ I started The Clay Lady’s business in 1982. I did not go to college. I am self
 **MAKE IT REAL!**   
 **What is in front of me is made with my thoughts and feelings.**  
 **I can make it better.**
+
+---
+
+### The Clay Lady’s Books A blog for artists and art teachers
+
+# Reconditioning Clay
+
+![A close-up of hands holding a piece of reconditioned clay, showing its texture.](https://theclaylady.com/wp-content/uploads/2023/11/CLLessonBook_0532-1024x1024.jpg)
+
+###### Reconditioning Clay – an excerpt from Danielle~The Clay Lady’s Lesson Book for Potters
+
+When you get your clay directly from the clay supplier, your clay should be perfect. Is the right ratio of water and clay, it’s consistent, there are no air bubbles, and it is ready to use right out of the bag. After you work on the wheel you will have clay that has become too wet.  If you hand build you may have clay that is too dry. When you trim, you have leatherhard shavings. If you have a pot that’s bone dry and breaks, that clay is extremely dry.  You can put all of this clay together and reconstitute it back into perfect clay!
+
+There are many ways of reconstituting clay. The most common (and labor intensive) is to put all of this clay into a bucket with water. After a few weeks and all the clay slakes to the bottom, you cast the water off pull the clay out.  Lay it on wood or plaster to absorb some of the water and let it stiffen.  Then you can wedge into usable clay.
+
+There are also very expensive pieces of equipment, pug mills, that can take all of the clay in its different stages and mix. Some pug mills even de-air to ensure consistent clay.
+
+In a home or community studio we can simplify this process of reconstituting clay.
+
+**-As you make and have scraps or collapse pots**, the wet clay can be wadded up and put that in the top of your bag or clay container. When you trim, gather the clay trimmings out of your splash pan in your fisted hand. Then, holding the trimmings, put your entire hand into your bucket until you feel the water soak in and dampen the trimmings. Squeeze your fist and then put the wad of trimmings in the top of your bag or clay container. Within a couple days, or if you are taking a weekly class, the next week, cut and layer the wet clay and the trimming wadded clay like a stack of pancakes. Using a wire clay cutter, cut that into one-inch chunks. Restack and then wedge together.
+
+**-If your clay is still a little wet**, you can sprinkle some dry ball clay (which is dry powdered clay that you can get from your clay supply store) and wedge into your clay. Similar to spreading flour on your cutting board to knead dough in if it is too sticky.
+
+**-If your clay is a little stiff**, you can slice the piece into pancakes. Use a fork to cut little riverbeds across each pancake. Use a spray bottle to fill those riverbeds with water.  Restack the pancakes. Cut into one-inch chunks and then wedge again.
+
+**-If you have an amount of clay that is hard,** cut into one inch squares, spray water into a bag and put the clay in the bag. Close the bag. Because you cut the clay into little cubes there’s more surface area for the water to soak in. In a few days you can pull out the clay, push it together and then wedge to work that water evenly through an create a consistent ball of clay.
+
+**-If you have broken pots that are bone dry** you can break it up into pieces and put into a bag that has been sprayed with water. Close the bag up and the pieces will absorb the water where you can eventually wedge it into usable clay.
+
+**-If you are making a set of dishes**, wedge more balls of clay than needed out of the same bag or batch of clay.  It is a must to have clay for each piece that is the same clay to water ratio as the others for everything to fire and shrink the same size. To illustrate, you are making a set of four plates and last one is a blunder. If you take the clay of the blundered plate and wedge it, (even weighing it to the same as the others) and throw again (even measuring to match the other 3) because the water to clay ratio is different, this plate will shrink at a different percentage than the first 3 after they are fired.
+
+The water to clay ration determines the softness and malleability of your clay.  A little wet, it will center easily but fall apart quickly. A little stiff, it will be hard to center but it will pull up thinner.  Just right and you can have control at both steps.
+
+The consistency of your clay creates a smooth transition as you shape.  If you have stiff clay and wet clay in the same ball, as you shape, each will react differently to your hand’s position and pressure. This will create a wobbly or unlevel wall.
+
+If the condition of your clay is determined how well and how much you wedged your clay.  If there are air bubbles, dry specks of clay, contaminates or differing cone ratings of clay, throwing a quality pot will be a challenge.
+
+The water to clay ratio, the consistency and the condition of your clay is not only important for success at the wheel, it also is doing yourself a favor. Throwing or handbuilding with too wet or too dry clay only sets you up for frustration. Think of clay as the most important tool you take to the wheel.   Take time to create a good quality ball of clay so that your work at the wheel can be successful.  Use your energy and mind space for craftmanship and form, not the quality of your clay.
 
 ---
 

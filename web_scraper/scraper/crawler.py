@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from utils.fetch import fetch_page
 from utils.logger import setup_logger
-from scraper.markdown_converter import html_to_markdown
+from utils.markdown_utils import html_to_markdown
 
 logger = setup_logger(__name__)
 

@@ -34,3 +34,4 @@ def html_to_markdown(html_content, base_url=None):
     except Exception as e:
         logger.error(f"Error converting HTML to Markdown: {str(e)}", exc_info=True)
         return ""
+

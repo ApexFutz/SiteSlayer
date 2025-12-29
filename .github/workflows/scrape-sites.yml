@@ -33,6 +33,17 @@ jobs:
     - name: Install Playwright browsers
       run: uv run python -m playwright install chromium
 
+    - name: Verify OpenAI API key is set
+      run: |
+        if [ -z "$OPENAI_API_KEY" ]; then
+          echo "ERROR: OPENAI_API_KEY environment variable is not set"
+          exit 1
+        else
+          echo "OPENAI_API_KEY is set (length: ${#OPENAI_API_KEY})"
+        fi
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
     - name: Run scrape script
       run: uv run python web_scraper/main.py
       env:
